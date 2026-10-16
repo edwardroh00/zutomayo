@@ -1,0 +1,4059 @@
+{
+  "schemaVersion": 1,
+  "checked_at": "2026-10-15",
+  "scope": "공식 LIVE 이력의 콘서트·페스티벌·특별 공연·온라인 공연 및 공개 공식 뉴스의 추가 무대. 전시·일반 MV/음원 공개·재방송 반복 편성은 제외. 공식 일정표는 일정 근거이며 별도의 개최 인증으로 표시하지 않음.",
+  "indexUrl": "https://zutomayo.net/live/",
+  "dbIndexUrl": "https://zutomayo-db.pages.dev/lives/",
+  "groups": [
+    {
+      "id": "/lives/tours/mayonaka_janai_kedo",
+      "name": "真夜中じゃないけど夜にするライブ",
+      "dbPath": "/lives/tours/mayonaka_janai_kedo",
+      "officialSource": "https://zutomayo.net/live/2/",
+      "archiveUrl": "https://zutomayo.net/live/2/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2018-08-29",
+          "venue": "代官山LOOP",
+          "city": "東京",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/2/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        }
+      ]
+    },
+    {
+      "id": "/lives/tours/1st_live_mada_itsuwari",
+      "name": "1st LIVE 〜まだ偽りでありんす。〜",
+      "dbPath": "/lives/tours/1st_live_mada_itsuwari",
+      "officialSource": "https://zutomayo.net/live/3/",
+      "archiveUrl": "https://zutomayo.net/live/3/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2019-01-11",
+          "venue": "渋谷 CLUB QUATTRO",
+          "city": "東京",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/3/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        }
+      ]
+    },
+    {
+      "id": "/lives/tours/1st_live_madamada_itsuwari",
+      "name": "東名阪ツアー「1st LIVE〜まだまだ偽りでありんす。〜」",
+      "dbPath": "/lives/tours/1st_live_madamada_itsuwari",
+      "officialSource": "https://zutomayo.net/live/14/",
+      "archiveUrl": "https://zutomayo.net/live/14/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2019-04-04",
+          "venue": "DIAMOND HALL",
+          "city": null,
+          "region": "愛知",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/14/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2019-04-05",
+          "venue": "BIGCAT",
+          "city": "大阪",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/14/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2019-04-12",
+          "venue": "TSUTAYA O-EAST",
+          "city": "東京",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/14/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        }
+      ]
+    },
+    {
+      "id": "/lives/feses/fuji_rock_festival_19",
+      "name": "「FUJI ROCK FESTIVAL 19」出演決定！",
+      "dbPath": "/lives/feses/fuji_rock_festival_19",
+      "officialSource": "https://zutomayo.net/live/4/",
+      "archiveUrl": "https://zutomayo.net/live/4/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2019-07-27",
+          "venue": "新潟県 湯沢町 苗場スキー場",
+          "city": "湯沢町",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/4/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        }
+      ]
+    },
+    {
+      "id": "/lives/events/summer_vacation_live_2019",
+      "name": "「夏休みLIVE 〜水飲み場にて笑みの契約〜」",
+      "dbPath": "/lives/events/summer_vacation_live_2019",
+      "officialSource": "https://zutomayo.net/live/10/",
+      "archiveUrl": "https://zutomayo.net/live/10/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2019-08-05",
+          "venue": "Zepp DiverCity（Tokyo）",
+          "city": "東京",
+          "start": "19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/10/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2019-08-06",
+          "venue": "Zepp DiverCity（Tokyo）",
+          "city": "東京",
+          "start": "19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/10/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        }
+      ]
+    },
+    {
+      "id": "/lives/tours/hisohiso_tour",
+      "name": "「潜潜ツアー（秋の味覚編）」",
+      "dbPath": "/lives/tours/hisohiso_tour",
+      "officialSource": "https://zutomayo.net/live/5/",
+      "archiveUrl": "https://zutomayo.net/live/5/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2019-10-02",
+          "venue": "ペニーレーン24",
+          "city": "札幌",
+          "open": "18:00",
+          "start": "19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/5/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2019-10-03",
+          "venue": "ペニーレーン24",
+          "city": "札幌",
+          "open": "18:00",
+          "start": "19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/5/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2019-10-07",
+          "venue": "Zepp Nagoya",
+          "city": "名古屋",
+          "open": "18:00",
+          "start": "19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/5/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2019-10-14",
+          "venue": "チームスマイル・仙台PIT",
+          "city": "仙台",
+          "open": "17:00",
+          "start": "18:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/5/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2019-10-23",
+          "venue": "Zepp Tokyo",
+          "city": "東京",
+          "open": "18:00",
+          "start": "19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/5/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2019-10-24",
+          "venue": "Zepp Tokyo",
+          "city": "東京",
+          "open": "18:00",
+          "start": "19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/5/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2019-10-30",
+          "venue": "Zepp Namba",
+          "city": "大阪",
+          "open": "18:00",
+          "start": "19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/5/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2019-11-13",
+          "venue": "Zepp Fukuoka",
+          "city": "福岡",
+          "open": "18:00",
+          "start": "19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/5/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2019-11-27",
+          "venue": "Zepp Tokyo",
+          "city": "東京",
+          "open": "18:00",
+          "start": "19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/5/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        }
+      ]
+    },
+    {
+      "id": "/lives/feses/countdown_japan_19_20",
+      "name": "★COUNTDOWN JAPAN19/20 出演",
+      "dbPath": "/lives/feses/countdown_japan_19_20",
+      "officialSource": "https://zutomayo.net/live/12/",
+      "archiveUrl": "https://zutomayo.net/live/12/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2019-12-31",
+          "venue": "幕張メッセ国際展示場1~11ホール、イベントホール",
+          "city": null,
+          "region": "千葉",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/12/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        }
+      ]
+    },
+    {
+      "id": "official-8",
+      "name": "【公演延期】クリーニングライブ「定期連絡の業務」",
+      "dbPath": null,
+      "officialSource": "https://zutomayo.net/live/8/",
+      "archiveUrl": "https://zutomayo.net/live/8/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2020-05-05",
+          "venue": "幕張メッセ幕張イベントホール",
+          "city": null,
+          "region": "千葉",
+          "start": "19:00",
+          "rescheduledTo": "2020-08-05",
+          "thenRescheduledTo": "2021-05-15",
+          "supplementaryEvidenceUrl": "https://zutomayo.net/news/79/",
+          "eventStatus": "postponed",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/8/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2020-05-06",
+          "venue": "幕張メッセ幕張イベントホール",
+          "city": null,
+          "region": "千葉",
+          "start": "16:00",
+          "rescheduledTo": "2020-08-06",
+          "thenRescheduledTo": "2021-05-16",
+          "supplementaryEvidenceUrl": "https://zutomayo.net/news/79/",
+          "eventStatus": "postponed",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/8/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        }
+      ]
+    },
+    {
+      "id": "official-15",
+      "name": "「オンラインライブ NIWA TO NIRA(有料)」",
+      "dbPath": null,
+      "officialSource": "https://zutomayo.net/live/15/",
+      "archiveUrl": "https://zutomayo.net/live/15/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2020-08-06",
+          "venue": null,
+          "city": null,
+          "start": "20:00",
+          "broadcastDate": "2020-08-06",
+          "performanceDate": null,
+          "notes": "Distribution date; actual recording date and physical venue unverified. Do not merge with postponed cleaning show formerly on same date.",
+          "eventStatus": "held",
+          "performanceMode": "online_prerecorded",
+          "officialSource": "https://zutomayo.net/live/15/",
+          "sourceNote": "Official news/94 says one-take recording rather than live broadcast"
+        }
+      ]
+    },
+    {
+      "id": "official-20201107",
+      "name": "JAPAN ONLINE FESTIVAL 2020",
+      "dbPath": null,
+      "officialSource": "https://zutomayo.net/live/20201107/",
+      "archiveUrl": "https://zutomayo.net/live/20201107/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2020-11-07",
+          "venue": null,
+          "city": null,
+          "start": "19:00",
+          "broadcastDate": "2020-11-07",
+          "performanceDate": null,
+          "notes": "Official detail explicitly says prerecorded; recording location/date unverified.",
+          "eventStatus": "held",
+          "performanceMode": "online_prerecorded",
+          "officialSource": "https://zutomayo.net/live/20201107/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        }
+      ]
+    },
+    {
+      "id": "/lives/tours/yakiyakiyankeetour",
+      "name": "「やきやきヤンキーツアー(炙りと燻製編)」",
+      "dbPath": "/lives/tours/yakiyakiyankeetour",
+      "officialSource": "https://zutomayo.net/live/16/",
+      "archiveUrl": "https://zutomayo.net/live/16/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2020-11-28",
+          "venue": "東京ガーデンシアター",
+          "city": "東京",
+          "open": "17:00",
+          "start": "19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/16/",
+          "sourceNote": "Official historical schedule"
+        },
+        {
+          "date": "2020-11-29",
+          "venue": "東京ガーデンシアター",
+          "city": "東京",
+          "open": "16:00",
+          "start": "18:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/16/",
+          "sourceNote": "Official historical schedule"
+        },
+        {
+          "date": "2021-01-13",
+          "venue": "KT Zepp Yokohama",
+          "city": "横浜",
+          "open": "17:30",
+          "start": "19:00",
+          "eventStatus": "cancelled",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/16/",
+          "sourceNote": "Official schedule row explicitly says 公演中止"
+        },
+        {
+          "date": "2021-01-14",
+          "venue": "KT Zepp Yokohama",
+          "city": "横浜",
+          "open": "17:30",
+          "start": "19:00",
+          "eventStatus": "cancelled",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/16/",
+          "sourceNote": "Official schedule row explicitly says 公演中止"
+        },
+        {
+          "date": "2021-01-20",
+          "venue": "Zepp Osaka BaySide",
+          "city": "大阪",
+          "open": "18:00",
+          "start": "19:00",
+          "eventStatus": "cancelled",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/16/",
+          "sourceNote": "Official schedule row explicitly says 公演中止"
+        },
+        {
+          "date": "2021-01-21",
+          "venue": "Zepp Osaka BaySide",
+          "city": "大阪",
+          "open": "18:00",
+          "start": "19:00",
+          "eventStatus": "cancelled",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/16/",
+          "sourceNote": "Official schedule row explicitly says 公演中止"
+        }
+      ]
+    },
+    {
+      "id": "/lives/feses/countdown_japan_20_21",
+      "name": "【公演中止】COUNTDOWN JAPAN 20/21",
+      "dbPath": "/lives/feses/countdown_japan_20_21",
+      "officialSource": "https://zutomayo.net/live/17/",
+      "archiveUrl": "https://zutomayo.net/live/17/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2020-12-31",
+          "venue": null,
+          "city": null,
+          "eventStatus": "cancelled",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/17/",
+          "sourceNote": "Official detail title and body explicitly say 公演中止; venue not specified there"
+        }
+      ]
+    },
+    {
+      "id": "official-18",
+      "name": "「やきやきヤンキーツアー(炙りと燻製編)＠11.29東京ガーデンシアター」公演配信",
+      "dbPath": null,
+      "officialSource": "https://zutomayo.net/live/18/",
+      "archiveUrl": "https://zutomayo.net/live/18/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2021-01-31",
+          "venue": "東京ガーデンシアター",
+          "city": "東京",
+          "start": "19:00",
+          "broadcastDate": "2021-01-31",
+          "performanceDate": "2020-11-29",
+          "relatedPhysicalEvent": {
+            "date": "2020-11-29",
+            "officialUrl": "https://zutomayo.net/live/16/"
+          },
+          "notes": "Distribution of 11/29 concert; do not treat as a new physical concert or duplicate physical attendance.",
+          "eventStatus": "held",
+          "performanceMode": "online_rebroadcast",
+          "officialSource": "https://zutomayo.net/live/18/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        }
+      ]
+    },
+    {
+      "id": "/lives/events/cleaning_labo",
+      "name": "【振替公演】CLEANING LABO「温れ落ち度」",
+      "dbPath": "/lives/events/cleaning_labo",
+      "officialSource": "https://zutomayo.net/live/9/",
+      "archiveUrl": "https://zutomayo.net/live/9/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2021-05-15",
+          "venue": "幕張メッセ幕張イベントホール",
+          "city": null,
+          "region": "千葉",
+          "session": "1st",
+          "open": "11:30",
+          "start": "13:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/9/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2021-05-15",
+          "venue": "幕張メッセ幕張イベントホール",
+          "city": null,
+          "region": "千葉",
+          "session": "2nd",
+          "open": "16:30",
+          "start": "18:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/9/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2021-05-16",
+          "venue": "幕張メッセ幕張イベントホール",
+          "city": null,
+          "region": "千葉",
+          "session": "1st",
+          "open": "11:00",
+          "start": "12:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/9/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2021-05-16",
+          "venue": "幕張メッセ幕張イベントホール",
+          "city": null,
+          "region": "千葉",
+          "session": "2nd",
+          "open": "16:00",
+          "start": "17:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/9/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        }
+      ]
+    },
+    {
+      "id": "/lives/feses/sweet_love_shower_2021",
+      "name": "【公演中止】「SPACE SHOWER SWEET LOVE SHOWER 2021 -25th ANNIVERSARY-」",
+      "dbPath": "/lives/feses/sweet_love_shower_2021",
+      "officialSource": "https://zutomayo.net/live/19/",
+      "archiveUrl": "https://zutomayo.net/live/19/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2021-08-27",
+          "venue": "山中湖交流プラザ きらら",
+          "city": "山中湖村",
+          "eventStatus": "cancelled",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/19/",
+          "sourceNote": "Official title/body say cancelled; artist date explicit 8/27, festival range8/27-29"
+        }
+      ]
+    },
+    {
+      "id": "/lives/tours/karakaraboo-tour",
+      "name": "果羅火羅武〜TOUR (カラカラブ〜ツアー)",
+      "dbPath": "/lives/tours/karakaraboo-tour",
+      "officialSource": "https://zutomayo.net/special/karakaraboo-tour/",
+      "archiveUrl": "https://zutomayo.net/special/karakaraboo-tour/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2021-11-03",
+          "venue": "和光市民文化センター サンアゼリア 大ホール",
+          "city": null,
+          "region": "埼玉",
+          "open": "16:00",
+          "start": "17:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/karakaraboo-tour/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2021-11-05",
+          "venue": "長野県ホクト文化ホール・大ホール",
+          "city": null,
+          "region": "長野",
+          "open": "17:30",
+          "start": "18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/karakaraboo-tour/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2021-11-13",
+          "venue": "本多の森ホール",
+          "city": null,
+          "region": "石川",
+          "open": "17:00",
+          "start": "18:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/karakaraboo-tour/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2021-11-21",
+          "venue": "川商ホール第一ホール",
+          "city": null,
+          "region": "鹿児島",
+          "open": "16:00",
+          "start": "17:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/karakaraboo-tour/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2021-11-24",
+          "venue": "福岡市民会館",
+          "city": null,
+          "region": "福岡",
+          "open": "17:30",
+          "start": "18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/karakaraboo-tour/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2021-11-25",
+          "venue": "福岡市民会館",
+          "city": null,
+          "region": "福岡",
+          "open": "17:30",
+          "start": "18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/karakaraboo-tour/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2021-11-27",
+          "venue": "サンポートホール高松",
+          "city": null,
+          "region": "香川",
+          "open": "17:00",
+          "start": "18:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/karakaraboo-tour/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2021-12-05",
+          "venue": "よこすか芸術劇場",
+          "city": null,
+          "region": "神奈川",
+          "open": "16:00",
+          "start": "17:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/karakaraboo-tour/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2021-12-11",
+          "venue": "千葉県文化会館",
+          "city": null,
+          "region": "千葉",
+          "open": "17:00",
+          "start": "18:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/karakaraboo-tour/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2021-12-12",
+          "venue": "仙台銀行ホール イズミティ21",
+          "city": null,
+          "region": "宮城",
+          "open": "16:00",
+          "start": "17:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/karakaraboo-tour/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2021-12-18",
+          "venue": "上野学園ホール",
+          "city": null,
+          "region": "広島",
+          "open": "17:00",
+          "start": "18:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/karakaraboo-tour/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2021-12-19",
+          "venue": "下関市民会館 大ホール",
+          "city": null,
+          "region": "山口",
+          "open": "16:00",
+          "start": "17:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/karakaraboo-tour/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2021-12-22",
+          "venue": "カナモトホール",
+          "city": null,
+          "region": "北海道",
+          "open": "17:30",
+          "start": "18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/karakaraboo-tour/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2021-12-23",
+          "venue": "カナモトホール",
+          "city": null,
+          "region": "北海道",
+          "open": "17:30",
+          "start": "18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/karakaraboo-tour/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-01-16",
+          "venue": "ベイシア文化ホール 大ホール （群馬県民会館）",
+          "city": null,
+          "region": "群馬",
+          "open": "16:00",
+          "start": "17:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/karakaraboo-tour/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-01-21",
+          "venue": "J:COMホール八王子",
+          "city": null,
+          "region": "東京",
+          "open": "17:30",
+          "start": "18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/karakaraboo-tour/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-01-26",
+          "venue": "フェスティバルホール",
+          "city": null,
+          "region": "大阪",
+          "open": "17:30",
+          "start": "18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/karakaraboo-tour/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-01-27",
+          "venue": "フェスティバルホール",
+          "city": null,
+          "region": "大阪",
+          "open": "17:30",
+          "start": "18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/karakaraboo-tour/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-01-30",
+          "venue": "静岡市民文化会館 大ホール",
+          "city": null,
+          "region": "静岡",
+          "open": "16:00",
+          "start": "17:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/karakaraboo-tour/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-02-08",
+          "venue": "センチュリーホール",
+          "city": null,
+          "region": "愛知",
+          "open": "17:30",
+          "start": "18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/karakaraboo-tour/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-02-09",
+          "venue": "センチュリーホール",
+          "city": null,
+          "region": "愛知",
+          "open": "17:30",
+          "start": "18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/karakaraboo-tour/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        }
+      ]
+    },
+    {
+      "id": "/lives/feses/countdown_japan_21_22",
+      "name": "「COUNTDOWN JAPAN 21/22」",
+      "dbPath": "/lives/feses/countdown_japan_21_22",
+      "officialSource": "https://zutomayo.net/live/20/",
+      "archiveUrl": "https://zutomayo.net/live/20/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2021-12-31",
+          "venue": "幕張メッセ国際展示場（1～8ホール）",
+          "city": "千葉市",
+          "start": "16:35",
+          "stage": "EARTH STAGE",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/20/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        }
+      ]
+    },
+    {
+      "id": "/lives/events/zutomayo_plugless",
+      "name": "「ZUTOMAYO PLUGLESS」at. ビルボードライブ",
+      "dbPath": "/lives/events/zutomayo_plugless",
+      "officialSource": "https://zutomayo.net/live/22/",
+      "archiveUrl": "https://zutomayo.net/live/22/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2022-03-18",
+          "venue": "Billboard Live OSAKA",
+          "city": "大阪",
+          "session": "1st",
+          "open": "15:30",
+          "start": "16:30",
+          "notes": "Final advanced start times after official time-change notice",
+          "timeChanged": true,
+          "originalStart": "18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/22/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-03-18",
+          "venue": "Billboard Live OSAKA",
+          "city": "大阪",
+          "session": "2nd",
+          "open": "18:30",
+          "start": "19:30",
+          "notes": "Final advanced start times after official time-change notice",
+          "timeChanged": true,
+          "originalStart": "21:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/22/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-03-20",
+          "venue": "Billboard Live TOKYO",
+          "city": "東京",
+          "session": "1st",
+          "open": "15:30",
+          "start": "16:30",
+          "notes": "Final advanced start times after official time-change notice",
+          "timeChanged": true,
+          "originalStart": "17:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/22/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-03-20",
+          "venue": "Billboard Live TOKYO",
+          "city": "東京",
+          "session": "2nd",
+          "open": "18:30",
+          "start": "19:30",
+          "notes": "Final advanced start times after official time-change notice",
+          "timeChanged": true,
+          "originalStart": "20:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/22/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        }
+      ]
+    },
+    {
+      "id": "/lives/events/zfactory",
+      "name": "Z FACTORY「鷹は飢えても踊り忘れず」",
+      "dbPath": "/lives/events/zfactory",
+      "officialSource": "https://zutomayo.net/special/zfactory/",
+      "archiveUrl": "https://zutomayo.net/special/zfactory/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2022-04-16",
+          "venue": "さいたまスーパーアリーナ",
+          "city": "さいたま市",
+          "session": "day1 memory_limit = -1",
+          "open": "17:30",
+          "start": "19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/zfactory/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-04-17",
+          "venue": "さいたまスーパーアリーナ",
+          "city": "さいたま市",
+          "session": "day2 ob_start",
+          "open": "16:30",
+          "start": "18:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/zfactory/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        }
+      ]
+    },
+    {
+      "id": "/lives/feses/osaka_gigantic_music_festival_2022",
+      "name": "「OSAKA GIGANTIC MUSIC FESTIVAL 2022」",
+      "dbPath": "/lives/feses/osaka_gigantic_music_festival_2022",
+      "officialSource": "https://zutomayo.net/live/25/",
+      "archiveUrl": "https://zutomayo.net/live/25/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2022-07-23",
+          "venue": "舞洲スポーツアイランド特設会場",
+          "city": "大阪",
+          "start": "19:20",
+          "stage": "SUN STAGE",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/25/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        }
+      ]
+    },
+    {
+      "id": "/lives/feses/fuji_rock_festival_22",
+      "name": "「FUJI ROCK FESTIVAL '22」",
+      "dbPath": "/lives/feses/fuji_rock_festival_22",
+      "officialSource": "https://zutomayo.net/live/23/",
+      "archiveUrl": "https://zutomayo.net/live/23/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2022-07-31",
+          "venue": "新潟県 湯沢町 苗場スキー場",
+          "city": "湯沢町",
+          "start": "19:50",
+          "stage": "WHITE STAGE",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/23/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        }
+      ]
+    },
+    {
+      "id": "/lives/feses/rising_sun_rock_festival_2022_in_ezo",
+      "name": "「RISING SUN ROCK FESTIVAL 2022 in EZO」",
+      "dbPath": "/lives/feses/rising_sun_rock_festival_2022_in_ezo",
+      "officialSource": "https://zutomayo.net/live/24/",
+      "archiveUrl": "https://zutomayo.net/live/24/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2022-08-12",
+          "venue": "石狩湾新港樽川ふ頭横野外特設ステージ",
+          "city": null,
+          "region": "北海道",
+          "start": "19:30",
+          "stage": "EARTH STAGE",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/24/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        }
+      ]
+    },
+    {
+      "id": "/lives/tours/technopoor",
+      "name": "GAME CENTER TOUR 『テクノプア』",
+      "dbPath": "/lives/tours/technopoor",
+      "officialSource": "https://zutomayo.net/special/technopoor/",
+      "archiveUrl": "https://zutomayo.net/special/technopoor/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2022-09-30",
+          "venue": "よこすか芸術劇場",
+          "city": null,
+          "region": "神奈川",
+          "open": "17:30",
+          "start": "18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/technopoor/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-10-01",
+          "venue": "よこすか芸術劇場",
+          "city": null,
+          "region": "神奈川",
+          "open": "17:00",
+          "start": "18:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/technopoor/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-10-06",
+          "venue": "高崎芸術劇場 大劇場",
+          "city": null,
+          "region": "群馬",
+          "open": "17:30",
+          "start": "18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/technopoor/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-10-11",
+          "venue": "神戸国際会館",
+          "city": null,
+          "region": "兵庫",
+          "open": "17:30",
+          "start": "18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/technopoor/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-10-12",
+          "venue": "神戸国際会館",
+          "city": null,
+          "region": "兵庫",
+          "open": "17:30",
+          "start": "18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/technopoor/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-10-16",
+          "venue": "宇都宮市文化会館 大ホール",
+          "city": null,
+          "region": "栃木",
+          "open": "16:00",
+          "start": "17:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/technopoor/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-10-23",
+          "venue": "レクザムホール・大ホール （香川県県民ホール）",
+          "city": null,
+          "region": "香川",
+          "open": "16:00",
+          "start": "17:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/technopoor/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-10-25",
+          "venue": "センチュリーホール",
+          "city": null,
+          "region": "愛知",
+          "open": "17:30",
+          "start": "18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/technopoor/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-10-26",
+          "venue": "センチュリーホール",
+          "city": null,
+          "region": "愛知",
+          "open": "17:30",
+          "start": "18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/technopoor/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-10-29",
+          "venue": "仙台サンプラザホール",
+          "city": null,
+          "region": "宮城",
+          "open": "17:00",
+          "start": "18:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/technopoor/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-11-01",
+          "venue": "カナモトホール",
+          "city": null,
+          "region": "北海道",
+          "open": "17:30",
+          "start": "18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/technopoor/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-11-02",
+          "venue": "カナモトホール",
+          "city": null,
+          "region": "北海道",
+          "open": "17:30",
+          "start": "18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/technopoor/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-11-10",
+          "venue": "川口総合文化センター・リリア メインホール",
+          "city": null,
+          "region": "埼玉",
+          "open": "17:30",
+          "start": "18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/technopoor/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-11-11",
+          "venue": "J:COMホール八王子",
+          "city": null,
+          "region": "東京",
+          "open": "17:30",
+          "start": "18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/technopoor/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-11-17",
+          "venue": "神奈川県民ホール 大ホール",
+          "city": null,
+          "region": "神奈川",
+          "open": "17:30",
+          "start": "18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/technopoor/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-11-18",
+          "venue": "本多の森ホール",
+          "city": null,
+          "region": "石川",
+          "open": "17:30",
+          "start": "18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/technopoor/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-11-20",
+          "venue": "長野県ホクト文化ホール・大ホール",
+          "city": null,
+          "region": "長野",
+          "open": "16:00",
+          "start": "17:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/technopoor/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-11-25",
+          "venue": "周南市文化会館",
+          "city": null,
+          "region": "山口",
+          "open": "17:30",
+          "start": "18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/technopoor/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-11-26",
+          "venue": "市民会館シアーズホーム夢ホール （熊本市民会館)",
+          "city": null,
+          "region": "熊本",
+          "open": "17:00",
+          "start": "18:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/technopoor/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-12-04",
+          "venue": "静岡市民文化会館 大ホール",
+          "city": null,
+          "region": "静岡",
+          "open": "16:00",
+          "start": "17:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/technopoor/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-12-10",
+          "venue": "上野学園ホール",
+          "city": null,
+          "region": "広島",
+          "open": "17:00",
+          "start": "18:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/technopoor/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-12-12",
+          "venue": "フェスティバルホール",
+          "city": null,
+          "region": "大阪",
+          "open": "17:30",
+          "start": "18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/technopoor/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-12-13",
+          "venue": "フェスティバルホール",
+          "city": null,
+          "region": "大阪",
+          "open": "17:30",
+          "start": "18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/technopoor/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-12-17",
+          "venue": "福岡サンパレスホール",
+          "city": null,
+          "region": "福岡",
+          "open": "17:00",
+          "start": "18:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/technopoor/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-12-21",
+          "venue": "東京ガーデンシアター",
+          "city": null,
+          "region": "東京",
+          "open": "17:30",
+          "start": "18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/technopoor/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        },
+        {
+          "date": "2022-12-22",
+          "venue": "東京ガーデンシアター",
+          "city": null,
+          "region": "東京",
+          "open": "17:30",
+          "start": "18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/technopoor/",
+          "sourceNote": "Official historical schedule; no explicit cancellation found in this detail page"
+        }
+      ]
+    },
+    {
+      "id": "/lives/events/bunka_denrai",
+      "name": "特別公演祭 LEGACY ZOMBIE LABO「文禍伝雷」 奈良・平城京",
+      "dbPath": "/lives/events/bunka_denrai",
+      "officialSource": "https://zutomayo.net/bunka-denrai/",
+      "archiveUrl": "https://zutomayo.net/bunka-denrai/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2026-10-10",
+          "venue": "平城宮跡歴史公園 中央区朝堂院 特設野外会場",
+          "region": "奈良",
+          "time": "開場15:30 開演17:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/bunka-denrai/",
+          "sourceNote": null
+        },
+        {
+          "date": "2026-10-11",
+          "venue": "平城宮跡歴史公園 中央区朝堂院 特設野外会場",
+          "region": "奈良",
+          "time": "開場15:30 開演17:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/bunka-denrai/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/feses/rock_in_japan_festival_2026",
+      "name": "「ROCK IN JAPAN FESTIVAL 2026」",
+      "dbPath": "/lives/feses/rock_in_japan_festival_2026",
+      "officialSource": "https://zutomayo.net/live/56/",
+      "archiveUrl": "https://zutomayo.net/live/56/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2026-09-19",
+          "venue": "千葉市蘇我スポーツ公園",
+          "region": "千葉市",
+          "time": "開場 8:30 開演 11:45",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/56/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/feses/sound_planet_festival_2026",
+      "name": "「SOUND PLANET FESTIVAL」",
+      "dbPath": "/lives/feses/sound_planet_festival_2026",
+      "officialSource": "https://zutomayo.net/live/55/",
+      "archiveUrl": "https://zutomayo.net/live/55/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2026-09-06",
+          "venue": "PARADISE CITY",
+          "region": "仁川",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/55/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/feses/wild_bunch_fest_2026",
+      "name": "「WILD BUNCH FEST. 2026」",
+      "dbPath": "/lives/feses/wild_bunch_fest_2026",
+      "officialSource": "https://zutomayo.net/live/54/",
+      "archiveUrl": "https://zutomayo.net/live/54/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2026-08-22",
+          "venue": "山口きらら博記念公園",
+          "region": "山口",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/54/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/feses/osaka_gigantic_music_festival_2026",
+      "name": "「OSAKA GIGANTIC MUSIC FESTIVAL 2026 -THANKS 10TH GIGA-」",
+      "dbPath": "/lives/feses/osaka_gigantic_music_festival_2026",
+      "officialSource": "https://zutomayo.net/live/53/",
+      "archiveUrl": "https://zutomayo.net/live/53/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2026-08-02",
+          "venue": "大阪舞洲スポーツアイランド ジャイガ特設会場",
+          "region": "大阪",
+          "time": "開場 9:30 開演 11:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/53/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/feses/fuji_rock_festival_26",
+      "name": "「FUJI ROCK FESTIVAL '26」",
+      "dbPath": "/lives/feses/fuji_rock_festival_26",
+      "officialSource": "https://zutomayo.net/live/57/",
+      "archiveUrl": "https://zutomayo.net/live/57/",
+      "checked_at": "2026-10-15",
+      "notes": [
+        "ACAね & Open Reel Ensemble 특별편성 스파이시즈. 일반 즛 공연과 편성을 구분."
+      ],
+      "events": [
+        {
+          "date": "2026-07-25",
+          "venue": "新潟県 湯沢町 苗場スキー場",
+          "region": "新潟県 湯沢町",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/57/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/tours/intense2",
+      "name": "ZUTOMAYO INTENSE II「坐・ZOMBIE CRAB LABO」",
+      "dbPath": "/lives/tours/intense2",
+      "officialSource": "https://zutomayo.net/intense2/",
+      "archiveUrl": "https://zutomayo.net/intense2/",
+      "checked_at": "2026-10-15",
+      "notes": [
+        "개최19회 + 상하이취소1건. 후쿠오카3/28·29는 공식 추가공지 /news/562/. 상하이 공연장명은 공식 미발표로 도시에 기반해 창작하지 않음."
+      ],
+      "events": [
+        {
+          "date": "2026-02-28",
+          "venue": "日本武道館",
+          "region": "TOKYO",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/intense2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2026-03-01",
+          "venue": "日本武道館",
+          "region": "TOKYO",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/intense2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2026-03-14",
+          "venue": "KOREA UNIVERSITY TIGER DOME",
+          "region": "SEOUL",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/intense2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2026-03-15",
+          "venue": "KOREA UNIVERSITY TIGER DOME",
+          "region": "SEOUL",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/intense2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2026-03-28",
+          "venue": null,
+          "region": "SHANGHAI",
+          "time": null,
+          "statusSource": "https://zutomayo.net/news/562/",
+          "eventStatus": "cancelled",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/intense2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2026-03-28",
+          "venue": "マリンメッセ福岡B館",
+          "region": "FUKUOKA",
+          "time": null,
+          "statusSource": "https://zutomayo.net/news/562/",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/intense2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2026-03-29",
+          "venue": "マリンメッセ福岡B館",
+          "region": "FUKUOKA",
+          "time": null,
+          "statusSource": "https://zutomayo.net/news/562/",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/intense2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2026-04-04",
+          "venue": "横浜アリーナ",
+          "region": "SHIN-YOKOHAMA",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/intense2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2026-04-05",
+          "venue": "横浜アリーナ",
+          "region": "SHIN-YOKOHAMA",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/intense2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2026-04-17",
+          "venue": "The Star Theatre",
+          "region": "SINGAPORE",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/intense2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2026-04-24",
+          "venue": "大阪城ホール",
+          "region": "OSAKA",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/intense2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2026-04-25",
+          "venue": "大阪城ホール",
+          "region": "OSAKA",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/intense2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2026-05-02",
+          "venue": "Union Hall",
+          "region": "BANGKOK",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/intense2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2026-05-16",
+          "venue": "New Taipei City Exhibition hall",
+          "region": "TAIPEI",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/intense2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2026-05-17",
+          "venue": "New Taipei City Exhibition hall",
+          "region": "TAIPEI",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/intense2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2026-06-02",
+          "venue": "Kアリーナ横浜",
+          "region": "YOKOHAMA",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/intense2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2026-06-03",
+          "venue": "Kアリーナ横浜",
+          "region": "YOKOHAMA",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/intense2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2026-06-06",
+          "venue": "AsiaWorld-Expo, Hall 10",
+          "region": "HONG KONG",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/intense2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2026-06-17",
+          "venue": "GLION ARENA KOBE",
+          "region": "KOBE",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/intense2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2026-06-18",
+          "venue": "GLION ARENA KOBE",
+          "region": "KOBE",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/intense2/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/feses/rockin_on_sonic_2026",
+      "name": "「rockin’on sonic 2026」",
+      "dbPath": "/lives/feses/rockin_on_sonic_2026",
+      "officialSource": "https://zutomayo.net/live/51/",
+      "archiveUrl": "https://zutomayo.net/live/51/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2026-01-04",
+          "venue": "幕張メッセ国際展示場",
+          "region": "千葉市",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/51/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/feses/countdown_japan_25_26",
+      "name": "「COUNTDOWN JAPAN 25/26」",
+      "dbPath": "/lives/feses/countdown_japan_25_26",
+      "officialSource": "https://zutomayo.net/live/50/",
+      "archiveUrl": "https://zutomayo.net/live/50/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2025-12-31",
+          "venue": "幕張メッセ国際展示場（1～11ホール）",
+          "region": "千葉市",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/50/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/tours/cosmic_dorodango_tour",
+      "name": "会員限定LIVE『コズミックどろ団子ツアー』",
+      "dbPath": "/lives/tours/cosmic_dorodango_tour",
+      "officialSource": "https://zutomayo.net/special/cosmic_dorodango_tour/",
+      "archiveUrl": "https://zutomayo.net/special/cosmic_dorodango_tour/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2025-09-18",
+          "venue": "市川市文化会館 大ホール",
+          "region": "千葉",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/cosmic_dorodango_tour/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-09-19",
+          "venue": "市川市文化会館 大ホール",
+          "region": "千葉",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/cosmic_dorodango_tour/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-09-24",
+          "venue": "府中の森芸術劇場 どりーむホール",
+          "region": "東京",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/cosmic_dorodango_tour/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-09-25",
+          "venue": "府中の森芸術劇場 どりーむホール",
+          "region": "東京",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/cosmic_dorodango_tour/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-10-01",
+          "venue": "福岡サンパレス",
+          "region": "福岡",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/cosmic_dorodango_tour/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-10-02",
+          "venue": "福岡サンパレス",
+          "region": "福岡",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/cosmic_dorodango_tour/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-10-09",
+          "venue": "札幌文化芸術劇場hitaru",
+          "region": "北海道",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/cosmic_dorodango_tour/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-10-14",
+          "venue": "仙台サンプラザ",
+          "region": "宮城",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/cosmic_dorodango_tour/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-10-15",
+          "venue": "仙台サンプラザ",
+          "region": "宮城",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/cosmic_dorodango_tour/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-10-22",
+          "venue": "広島文化学園HBGホール",
+          "region": "広島",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/cosmic_dorodango_tour/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-10-23",
+          "venue": "広島文化学園HBGホール",
+          "region": "広島",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/cosmic_dorodango_tour/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-10-28",
+          "venue": "本多の森 北電ホール",
+          "region": "石川",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/cosmic_dorodango_tour/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-10-29",
+          "venue": "本多の森 北電ホール",
+          "region": "石川",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/cosmic_dorodango_tour/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-11-11",
+          "venue": "愛知県芸術劇場 大ホール",
+          "region": "愛知",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/cosmic_dorodango_tour/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-11-12",
+          "venue": "愛知県芸術劇場 大ホール",
+          "region": "愛知",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/cosmic_dorodango_tour/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-11-18",
+          "venue": "神戸国際会館こくさいホール",
+          "region": "兵庫",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/cosmic_dorodango_tour/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-11-19",
+          "venue": "神戸国際会館こくさいホール",
+          "region": "兵庫",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/cosmic_dorodango_tour/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-11-27",
+          "venue": "松山市民会館",
+          "region": "愛媛",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/cosmic_dorodango_tour/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-12-02",
+          "venue": "フェスティバルホール",
+          "region": "大阪",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/cosmic_dorodango_tour/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-12-03",
+          "venue": "フェスティバルホール",
+          "region": "大阪",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/cosmic_dorodango_tour/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-12-16",
+          "venue": "カルッツかわさき ホール",
+          "region": "神奈川",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/cosmic_dorodango_tour/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-12-17",
+          "venue": "カルッツかわさき ホール",
+          "region": "神奈川",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/cosmic_dorodango_tour/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-12-22",
+          "venue": "東京ガーデンシアター",
+          "region": "東京",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/cosmic_dorodango_tour/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-12-23",
+          "venue": "東京ガーデンシアター",
+          "region": "東京",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/cosmic_dorodango_tour/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/events/expo2025",
+      "name": "特別公演 オモテEXPO 2025「名巧は愚なるが如し」",
+      "dbPath": "/lives/events/expo2025",
+      "officialSource": "https://zutomayo.net/expo2025/",
+      "archiveUrl": "https://zutomayo.net/expo2025/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2025-09-02",
+          "venue": "大阪・関西万博会場内 EXPOアリーナ「Matsuri」",
+          "region": "大阪",
+          "time": "開場 17:45 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/expo2025/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/tours/yakiyakiyankeetour_zoku",
+      "name": "YAKI YAKI YANKEE TOUR 続 「名巧は愚なるが如し」",
+      "dbPath": "/lives/tours/yakiyakiyankeetour_zoku",
+      "officialSource": "https://zutomayo.net/yakiyakiyankeetour_zoku/",
+      "archiveUrl": "https://zutomayo.net/yakiyakiyankeetour_zoku/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2025-03-29",
+          "venue": "ぴあアリーナMM",
+          "region": "神奈川",
+          "time": "開場 17:00 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour_zoku/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-03-30",
+          "venue": "ぴあアリーナMM",
+          "region": "神奈川",
+          "time": "開場 15:00 開演 16:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour_zoku/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-04-05",
+          "venue": "LaLa arena TOKYO-BAY",
+          "region": "千葉",
+          "time": "開場 17:00 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour_zoku/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-04-06",
+          "venue": "LaLa arena TOKYO-BAY",
+          "region": "千葉",
+          "time": "開場 15:00 開演 16:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour_zoku/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-04-19",
+          "venue": "Aichi Sky Expo ホールA",
+          "region": "愛知",
+          "time": "開場 17:00 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour_zoku/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-04-20",
+          "venue": "Aichi Sky Expo ホールA",
+          "region": "愛知",
+          "time": "開場 15:00 開演 16:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour_zoku/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-04-28",
+          "venue": "大阪城ホール",
+          "region": "大阪",
+          "time": "開場 17:00 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour_zoku/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-04-29",
+          "venue": "大阪城ホール",
+          "region": "大阪",
+          "time": "開場 15:00 開演 16:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour_zoku/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-05-10",
+          "venue": "福岡国際センター",
+          "region": "福岡",
+          "time": "開場 17:00 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour_zoku/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-05-11",
+          "venue": "福岡国際センター",
+          "region": "福岡",
+          "time": "開場 15:00 開演 16:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour_zoku/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-05-17",
+          "venue": "国立代々木競技場 第一体育館",
+          "region": "東京",
+          "time": "開場 17:00 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour_zoku/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-05-18",
+          "venue": "国立代々木競技場 第一体育館",
+          "region": "東京",
+          "time": "開場 15:00 開演 16:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour_zoku/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/feses/countdown_japan_24_25",
+      "name": "「COUNTDOWN JAPAN 24/25」",
+      "dbPath": "/lives/feses/countdown_japan_24_25",
+      "officialSource": "https://zutomayo.net/live/46/",
+      "archiveUrl": "https://zutomayo.net/live/46/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2024-12-31",
+          "venue": "幕張メッセ国際展示場（1～11ホール）",
+          "region": "千葉市",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/46/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/tours/yakiyakiyankeetour2",
+      "name": "やきやきヤンキーツアー2 ～スナネコ建設の磨き仕上げ～",
+      "dbPath": "/lives/tours/yakiyakiyankeetour2",
+      "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+      "archiveUrl": "https://zutomayo.net/yakiyakiyankeetour2/",
+      "checked_at": "2026-10-15",
+      "notes": [
+        "이 페이지 첫12행은 별도 2025 아레나 후속투어 일정. 해당 그룹과 중복 계상하지 않음. Hall36행은 개최35+연기 원일정1."
+      ],
+      "events": [
+        {
+          "date": "2024-10-05",
+          "venue": "ベイシア文化ホール",
+          "region": "群馬",
+          "time": "開場 17:00 開演 18:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-10-06",
+          "venue": "ベイシア文化ホール",
+          "region": "群馬",
+          "time": "開場 16:00 開演 17:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-10-09",
+          "venue": "大宮ソニックシティ 大ホール",
+          "region": "埼玉",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-10-10",
+          "venue": "大宮ソニックシティ 大ホール",
+          "region": "埼玉",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-10-16",
+          "venue": "東京ガーデンシアター",
+          "region": "東京",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-10-17",
+          "venue": "東京ガーデンシアター",
+          "region": "東京",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-10-22",
+          "venue": "アクトシティ浜松 大ホール",
+          "region": "静岡",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-10-23",
+          "venue": "アクトシティ浜松 大ホール",
+          "region": "静岡",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-10-25",
+          "venue": "長良川国際会議場 メインホール",
+          "region": "岐阜",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-10-28",
+          "venue": "フェスティバルホール",
+          "region": "大阪",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-10-29",
+          "venue": "フェスティバルホール",
+          "region": "大阪",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-11-04",
+          "venue": "松山市民会館",
+          "region": "愛媛",
+          "time": "開場 16:00 開演 17:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-11-06",
+          "venue": "センチュリーホール",
+          "region": "愛知",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-11-07",
+          "venue": "センチュリーホール",
+          "region": "愛知",
+          "time": "開場 17:30 開演 18:30",
+          "rescheduledTo": "2025-01-07",
+          "statusSource": "https://zutomayo.net/news/463/",
+          "eventStatus": "postponed",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-11-13",
+          "venue": "札幌文化芸術劇場hitaru",
+          "region": "北海道",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-11-15",
+          "venue": "旭川市民文化会館",
+          "region": "北海道",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-11-18",
+          "venue": "仙台サンプラザ",
+          "region": "宮城",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-11-19",
+          "venue": "仙台サンプラザ",
+          "region": "宮城",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-11-24",
+          "venue": "なら100年会館",
+          "region": "奈良",
+          "time": "開場 16:00 開演 17:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-11-29",
+          "venue": "福岡サンパレス",
+          "region": "福岡",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-11-30",
+          "venue": "福岡サンパレス",
+          "region": "福岡",
+          "time": "開場 16:00 開演 17:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-12-07",
+          "venue": "米子コンベンションセンター",
+          "region": "鳥取",
+          "time": "開場 16:30 開演 17:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-12-08",
+          "venue": "岡山芸術創造劇場 ハレノワ 大劇場",
+          "region": "岡山",
+          "time": "開場 16:30 開演 17:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-12-11",
+          "venue": "神奈川県民ホール 大ホール",
+          "region": "神奈川",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-12-12",
+          "venue": "神奈川県民ホール 大ホール",
+          "region": "神奈川",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-12-19",
+          "venue": "あきた芸術劇場ミルハス 大ホール",
+          "region": "秋田",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-12-21",
+          "venue": "本多の森 北電ホール",
+          "region": "石川",
+          "time": "開場 17:00 開演 18:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-12-22",
+          "venue": "本多の森 北電ホール",
+          "region": "石川",
+          "time": "開場 16:00 開演 17:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-12-25",
+          "venue": "松戸 森のホール21 大ホール",
+          "region": "千葉",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-01-07",
+          "venue": "センチュリーホール",
+          "region": "愛知",
+          "time": "開場 17:30 開演 18:30",
+          "statusSource": "https://zutomayo.net/news/464/",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-01-09",
+          "venue": "iichiko グランシアタ",
+          "region": "大分",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-01-11",
+          "venue": "宮崎市民文化ホール",
+          "region": "宮崎",
+          "time": "開場 17:00 開演 18:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-01-17",
+          "venue": "広島文化学園HBGホール",
+          "region": "広島",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-01-18",
+          "venue": "広島文化学園HBGホール",
+          "region": "広島",
+          "time": "開場 16:00 開演 17:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-01-22",
+          "venue": "ロームシアター京都",
+          "region": "京都",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        },
+        {
+          "date": "2025-01-23",
+          "venue": "ロームシアター京都",
+          "region": "京都",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/yakiyakiyankeetour2/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/feses/rock_in_japan_festival_2024",
+      "name": "「ROCK IN JAPAN FESTIVAL 2024」",
+      "dbPath": "/lives/feses/rock_in_japan_festival_2024",
+      "officialSource": "https://zutomayo.net/live/44/",
+      "archiveUrl": "https://zutomayo.net/live/44/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2024-08-04",
+          "venue": "千葉市蘇我スポーツ公園",
+          "region": "千葉市",
+          "time": "開場 8:30 開演 11:45",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/44/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/feses/fuji_rock_festival_24",
+      "name": "「FUJI ROCK FESTIVAL '24」",
+      "dbPath": "/lives/feses/fuji_rock_festival_24",
+      "officialSource": "https://zutomayo.net/live/45/",
+      "archiveUrl": "https://zutomayo.net/live/45/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2024-07-28",
+          "venue": "新潟県 湯沢町 苗場スキー場",
+          "region": "新潟県 湯沢町",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/45/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/feses/osaka_gigantic_music_festival_2024",
+      "name": "「OSAKA GIGANTIC MUSIC FESTIVAL 2024」",
+      "dbPath": "/lives/feses/osaka_gigantic_music_festival_2024",
+      "officialSource": "https://zutomayo.net/live/42/",
+      "archiveUrl": "https://zutomayo.net/live/42/",
+      "checked_at": "2026-10-15",
+      "notes": [
+        "행사기간 7/20·21 중 즛 출연일은 공식 본문 7/20 20:20. 양일 모두 공연으로 등록하지 않음."
+      ],
+      "events": [
+        {
+          "date": "2024-07-20",
+          "venue": "舞洲スポーツアイランド特設会場",
+          "region": "大阪",
+          "time": "開場 9:30 開演 11:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/42/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/events/zutomayo_intense_in_seoul",
+      "name": "ZUTOMAYO INTENSE IN SEOUL",
+      "dbPath": "/lives/events/zutomayo_intense_in_seoul",
+      "officialSource": "https://zutomayo.net/news/397/",
+      "archiveUrl": "https://zutomayo.net/news/397/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2024-06-15",
+          "venue": "YES24 LIVEHALL",
+          "region": "Seoul",
+          "time": "開場18:00 開演19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/news/397/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-06-16",
+          "venue": "YES24 LIVEHALL",
+          "region": "Seoul",
+          "time": "開場18:00 開演19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/news/397/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/events/zutomayo_intense_in_hong_kong",
+      "name": "ZUTOMAYO INTENSE IN HONG KONG",
+      "dbPath": "/lives/events/zutomayo_intense_in_hong_kong",
+      "officialSource": "https://zutomayo.net/news/395/",
+      "archiveUrl": "https://zutomayo.net/news/395/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2024-06-11",
+          "venue": "AsiaWorld-Expo Runway11",
+          "region": "Hong Kong",
+          "time": "開場 18:30 開演 20:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/news/395/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/events/pegasus_yokohama",
+      "name": "本格中華喫茶・愛のペガサス ～羅武の香辛龍～",
+      "dbPath": "/lives/events/pegasus_yokohama",
+      "officialSource": "https://zutomayo.net/special/pegasus_yokohama/",
+      "archiveUrl": "https://zutomayo.net/special/pegasus_yokohama/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2024-05-04",
+          "venue": "Kアリーナ横浜",
+          "region": "神奈川県 横浜市",
+          "time": "開場17:00 開演18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus_yokohama/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-05-05",
+          "venue": "Kアリーナ横浜",
+          "region": "神奈川県 横浜市",
+          "time": "開場16:00 開演17:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus_yokohama/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/events/bubbling_boiling_music_arts_festival",
+      "name": "「Bubbling & Boiling Music&Arts Festival」",
+      "dbPath": "/lives/events/bubbling_boiling_music_arts_festival",
+      "officialSource": "https://zutomayo.net/live/39/",
+      "archiveUrl": "https://zutomayo.net/live/39/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2024-03-23",
+          "venue": "南宁市五象综合保税区综合用地",
+          "region": "南宁市",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/39/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/events/zutomayo_intense_in_shanghai",
+      "name": "ZUTOMAYO INTENSE IN SHANGHAI",
+      "dbPath": "/lives/events/zutomayo_intense_in_shanghai",
+      "officialSource": "https://zutomayo.net/live/38/",
+      "archiveUrl": "https://zutomayo.net/live/38/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2024-03-20",
+          "venue": "上海静安体育中心",
+          "region": "上海",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/38/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/events/zutomayo_intense_in_taipei",
+      "name": "ZUTOMAYO INTENSE IN TAIPEI",
+      "dbPath": "/lives/events/zutomayo_intense_in_taipei",
+      "officialSource": "https://zutomayo.net/live/35/",
+      "archiveUrl": "https://zutomayo.net/live/35/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2024-02-27",
+          "venue": "Zepp New Taipei",
+          "region": "新北市",
+          "time": "開場 18:30 開演 20:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/35/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/feses/emerge_fest_2024",
+      "name": "「浮現祭 Emerge fest 2024」",
+      "dbPath": "/lives/feses/emerge_fest_2024",
+      "officialSource": "https://zutomayo.net/live/36/",
+      "archiveUrl": "https://zutomayo.net/live/36/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2024-02-25",
+          "venue": "台中清水鰲峰山運動公園 / 台中市自由車場",
+          "region": "台中市",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/36/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/feses/fukuoka_music_fes_2024",
+      "name": "「FUKUOKA MUSIC FES.2024」",
+      "dbPath": "/lives/feses/fukuoka_music_fes_2024",
+      "officialSource": "https://zutomayo.net/live/34/",
+      "archiveUrl": "https://zutomayo.net/live/34/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2024-01-20",
+          "venue": "福岡 PayPayドーム",
+          "region": "福岡市",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/34/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/events/pegasus_okinawa",
+      "name": "原始五年巡回公演「喫茶・愛のペガサス」沖縄出張所",
+      "dbPath": "/lives/events/pegasus_okinawa",
+      "officialSource": "https://zutomayo.net/special/pegasus_okinawa/",
+      "archiveUrl": "https://zutomayo.net/special/pegasus_okinawa/",
+      "checked_at": "2026-10-15",
+      "notes": [
+        "공식 문구: ツアーの追加公演扱いとなるLIVEではございません. 愛ペガ35회 투어와 별개 공연."
+      ],
+      "events": [
+        {
+          "date": "2024-01-13",
+          "venue": "沖縄・ミュージックタウン音市場",
+          "region": "沖縄(Okinawa)",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus_okinawa/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-01-14",
+          "venue": "沖縄・ミュージックタウン音市場",
+          "region": "沖縄(Okinawa)",
+          "time": "開場 16:00 開演 17:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus_okinawa/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/feses/countdown_japan_23_24",
+      "name": "「COUNTDOWN JAPAN 23/24」",
+      "dbPath": "/lives/feses/countdown_japan_23_24",
+      "officialSource": "https://zutomayo.net/live/33/",
+      "archiveUrl": "https://zutomayo.net/live/33/",
+      "checked_at": "2026-10-15",
+      "notes": [
+        "주최 축제 표기는2023/12/31 24:45. 민간력 기준2024/1/1 00:45이지만 공연 카탈로그는 공식 행사일2023/12/31 유지."
+      ],
+      "events": [
+        {
+          "date": "2023-12-31",
+          "venue": "幕張メッセ国際展示場（1～8ホール）",
+          "region": "千葉市",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/33/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/events/hot_stuff_promotion_45th_anniversary",
+      "name": "HOT STUFF PROMOTION 45th Anniversary 恋のダビング - 実録！幻の五香粉を求めて -",
+      "dbPath": "/lives/events/hot_stuff_promotion_45th_anniversary",
+      "officialSource": "https://zutomayo.net/live/32/",
+      "archiveUrl": "https://zutomayo.net/live/32/",
+      "checked_at": "2026-10-15",
+      "notes": [
+        "ACAね & Open Reel Ensemble 특별편성 스파이시즈. 일반 즛 공연과 편성을 구분."
+      ],
+      "events": [
+        {
+          "date": "2023-11-29",
+          "venue": "Zepp Haneda",
+          "region": "東京都 大田区",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/32/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/tours/pegasus",
+      "name": "原始五年巡回公演「喫茶・愛のペガサス」",
+      "dbPath": "/lives/tours/pegasus",
+      "officialSource": "https://zutomayo.net/special/pegasus/",
+      "archiveUrl": "https://zutomayo.net/special/pegasus/",
+      "checked_at": "2026-10-15",
+      "notes": [
+        "LIVE 인덱스 종일 2023-12-19는 오래된 기간. 공식 일정표에는 도쿄12/21·22와 교토대체2024/1/29·30이 수록. 개최35+연기원일정2건."
+      ],
+      "events": [
+        {
+          "date": "2023-09-21",
+          "venue": "相模女子大学グリーンホール",
+          "region": "神奈川(Kanagawa)",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-09-22",
+          "venue": "相模女子大学グリーンホール",
+          "region": "神奈川(Kanagawa)",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-09-28",
+          "venue": "川口総合文化センター\nリリアメインホール",
+          "region": "埼玉(Saitama)",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-09-29",
+          "venue": "川口総合文化センター\nリリア メインホール",
+          "region": "埼玉(Saitama)",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-10-04",
+          "venue": "新潟県民会館 大ホール",
+          "region": "新潟(Niigata)",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-10-06",
+          "venue": "仙台サンプラザホール",
+          "region": "宮城(Miyagi)",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-10-07",
+          "venue": "やまぎん県民ホール\n(山形県総合文化芸術館)",
+          "region": "山形(Yamagata)",
+          "time": "開場 17:00 開演 18:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-10-11",
+          "venue": "アクトシティ浜松 大ホール",
+          "region": "静岡(Shizuoka)",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-10-14",
+          "venue": "水戸市民会館 グロービスホール",
+          "region": "茨城(Ibaraki)",
+          "time": "開場 17:00 開演 18:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-10-17",
+          "venue": "センチュリーホール",
+          "region": "愛知(Aichi)",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-10-18",
+          "venue": "センチュリーホール",
+          "region": "愛知(Aichi)",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-10-27",
+          "venue": "本多の森ホール 北電ホール",
+          "region": "石川(Ishikawa)",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-10-29",
+          "venue": "福井フェニックスプラザ",
+          "region": "福井(Fukui)",
+          "time": "開場 16:00 開演 17:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-11-01",
+          "venue": "長崎ブリックホール",
+          "region": "長崎(Nagasaki)",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-11-03",
+          "venue": "福岡サンパレス ホテル&ホール",
+          "region": "福岡(Fukuoka)",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-11-04",
+          "venue": "福岡サンパレス ホテル&ホール",
+          "region": "福岡(Fukuoka)",
+          "time": "開場 16:00 開演 17:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-11-09",
+          "venue": "J:COMホール八王子",
+          "region": "東京(Tokyo)",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-11-10",
+          "venue": "よこすか芸術劇場",
+          "region": "神奈川(Kanagawa)",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-11-14",
+          "venue": "フェスティバルホール",
+          "region": "大阪(Osaka)",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-11-15",
+          "venue": "フェスティバルホール",
+          "region": "大阪(Osaka)",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-11-17",
+          "venue": "岩手県民会館 大ホール\n(トーサイクラシックホール岩手)",
+          "region": "岩手(Iwate)",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-11-21",
+          "venue": "市民会館シアーズホーム夢ホール\n(熊本市民会館)",
+          "region": "熊本(Kumamoto)",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-11-24",
+          "venue": "高知市文化プラザ かるぽーと",
+          "region": "高知(Kochi)",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-11-26",
+          "venue": "松山市民会館",
+          "region": "愛媛(Ehime)",
+          "time": "開場 16:00 開演 17:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-12-01",
+          "venue": "カナモトホール",
+          "region": "北海道(Hokkaido)",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-12-02",
+          "venue": "カナモトホール",
+          "region": "北海道(Hokkaido)",
+          "time": "開場 16:00 開演 17:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-12-08",
+          "venue": "倉敷市民会館",
+          "region": "岡山(Okayama)",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-12-09",
+          "venue": "広島文化学園HBGホール",
+          "region": "広島(Hiroshima)",
+          "time": "開場 17:00 開演 18:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-12-11",
+          "venue": "アクリエ姫路",
+          "region": "兵庫(Hyogo)",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-12-18",
+          "venue": "東京ガーデンシアター",
+          "region": "東京(Tokyo)",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-12-19",
+          "venue": "東京ガーデンシアター",
+          "region": "東京(Tokyo)",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-12-21",
+          "venue": "東京ガーデンシアター",
+          "region": "東京(Tokyo)",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-12-22",
+          "venue": "東京ガーデンシアター",
+          "region": "東京(Tokyo)",
+          "time": "開場 17:30 開演 18:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-01-29",
+          "venue": "ロームシアター京都",
+          "region": "京都(Kyoto)",
+          "time": "開場 17:30 開演 18:30",
+          "statusSource": "https://zutomayo.net/news/375/",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        },
+        {
+          "date": "2024-01-30",
+          "venue": "ロームシアター京都",
+          "region": "京都(Kyoto)",
+          "time": "開場 17:30 開演 18:30",
+          "statusSource": "https://zutomayo.net/news/375/",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/pegasus/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/feses/sweet_love_shower_2023",
+      "name": "「SPACE SHOWER SWEET LOVE SHOWER 2023」",
+      "dbPath": "/lives/feses/sweet_love_shower_2023",
+      "officialSource": "https://zutomayo.net/live/30/",
+      "archiveUrl": "https://zutomayo.net/live/30/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2023-08-27",
+          "venue": "山中湖交流プラザ きらら",
+          "region": "山梨県 山中湖村",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/30/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/feses/summer_sonic_2023",
+      "name": "「SUMMER SONIC 2023」",
+      "dbPath": "/lives/feses/summer_sonic_2023",
+      "officialSource": "https://zutomayo.net/live/29/",
+      "archiveUrl": "https://zutomayo.net/live/29/",
+      "checked_at": "2026-10-15",
+      "notes": [
+        "공식 본문 행사일 연도 2022는 오기. 페이지 헤더·공식LIVE인덱스는2023이고 기재 요일도2023에 해당. 2023을 채택하며 원문 보존."
+      ],
+      "events": [
+        {
+          "date": "2023-08-20",
+          "venue": "舞洲SONIC PARK(舞洲スポーツアイランド)",
+          "region": "大阪",
+          "time": null,
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/29/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/feses/sonic_mania",
+      "name": "「SONIC MANIA」",
+      "dbPath": "/lives/feses/sonic_mania",
+      "officialSource": "https://zutomayo.net/live/28/",
+      "archiveUrl": "https://zutomayo.net/live/28/",
+      "checked_at": "2026-10-15",
+      "notes": [
+        "공식 본문 행사일 연도 2022는 오기. 페이지 헤더·공식LIVE인덱스는2023이고 기재 요일도2023에 해당. 2023을 채택하며 원문 보존."
+      ],
+      "events": [
+        {
+          "date": "2023-08-18",
+          "venue": "幕張メッセ",
+          "region": "千葉市",
+          "time": "開場 19:00 開演 20:30",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/live/28/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/tours/gensodorodango",
+      "name": "活動5年プレミアム『元素どろ団子TOUR』",
+      "dbPath": "/lives/tours/gensodorodango",
+      "officialSource": "https://zutomayo.net/gensodorodango/",
+      "archiveUrl": "https://zutomayo.net/gensodorodango/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2023-04-20",
+          "venue": "KT Zepp Yokohama",
+          "region": "神奈川",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/gensodorodango/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-04-21",
+          "venue": "KT Zepp Yokohama",
+          "region": "神奈川",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/gensodorodango/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-04-27",
+          "venue": "Zepp Nagoya",
+          "region": "愛知",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/gensodorodango/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-04-28",
+          "venue": "Zepp Nagoya",
+          "region": "愛知",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/gensodorodango/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-05-01",
+          "venue": "Zepp DiverCity TOKYO",
+          "region": "東京",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/gensodorodango/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-05-02",
+          "venue": "Zepp DiverCity TOKYO",
+          "region": "東京",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/gensodorodango/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-05-12",
+          "venue": "Zepp Sapporo",
+          "region": "北海道",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/gensodorodango/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-05-13",
+          "venue": "Zepp Sapporo",
+          "region": "北海道",
+          "time": "開場 17:00 開演 18:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/gensodorodango/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-05-19",
+          "venue": "Zepp Fukuoka",
+          "region": "福岡",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/gensodorodango/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-05-20",
+          "venue": "Zepp Fukuoka",
+          "region": "福岡",
+          "time": "開場 17:00 開演 18:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/gensodorodango/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-05-24",
+          "venue": "Zepp Namba",
+          "region": "大阪",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/gensodorodango/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-05-25",
+          "venue": "Zepp Namba",
+          "region": "大阪",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/gensodorodango/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-05-30",
+          "venue": "Zepp Haneda",
+          "region": "東京",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/gensodorodango/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-05-31",
+          "venue": "Zepp Haneda",
+          "region": "東京",
+          "time": "開場 18:00 開演 19:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/gensodorodango/",
+          "sourceNote": null
+        }
+      ]
+    },
+    {
+      "id": "/lives/events/murakumonotsurugi",
+      "name": "ROAD GAME『テクノプア』~叢雲のつるぎ~ at. 国立代々木競技場第一体育館",
+      "dbPath": "/lives/events/murakumonotsurugi",
+      "officialSource": "https://zutomayo.net/special/murakumonotsurugi/",
+      "archiveUrl": "https://zutomayo.net/special/murakumonotsurugi/",
+      "checked_at": "2026-10-15",
+      "notes": [],
+      "events": [
+        {
+          "date": "2023-01-14",
+          "venue": "国立代々木競技場 第一体育館",
+          "region": "東京都 渋谷区",
+          "time": "開場16:30 開演18:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/murakumonotsurugi/",
+          "sourceNote": null
+        },
+        {
+          "date": "2023-01-15",
+          "venue": "国立代々木競技場 第一体育館",
+          "region": "東京都 渋谷区",
+          "time": "開場16:30 開演18:00",
+          "eventStatus": "held",
+          "performanceMode": "venue",
+          "officialSource": "https://zutomayo.net/special/murakumonotsurugi/",
+          "sourceNote": null
+        }
+      ]
+    }
+  ],
+  "extraEvents": [
+    {
+      "name": "原始五年巡回公演「喫茶・愛のペガサス」",
+      "dbPath": "/lives/tours/pegasus",
+      "date": "2023-12-13",
+      "venue": "ロームシアター京都",
+      "region": "京都",
+      "time": null,
+      "rescheduledTo": "2024-01-29",
+      "statusSource": "https://zutomayo.net/news/375/",
+      "eventStatus": "postponed",
+      "performanceMode": "venue",
+      "officialSource": "https://zutomayo.net/special/pegasus/",
+      "sourceNote": null
+    },
+    {
+      "name": "原始五年巡回公演「喫茶・愛のペガサス」",
+      "dbPath": "/lives/tours/pegasus",
+      "date": "2023-12-14",
+      "venue": "ロームシアター京都",
+      "region": "京都",
+      "time": null,
+      "rescheduledTo": "2024-01-30",
+      "statusSource": "https://zutomayo.net/news/375/",
+      "eventStatus": "postponed",
+      "performanceMode": "venue",
+      "officialSource": "https://zutomayo.net/special/pegasus/",
+      "sourceNote": null
+    },
+    {
+      "name": "お風呂場ライブ 定期連絡の業務",
+      "groupId": "official-bathroom-2020",
+      "date": "2020-05-06",
+      "venue": "自宅浴室",
+      "city": null,
+      "start": "20:00",
+      "streamUrl": "https://youtu.be/NHRSW1Q33hs",
+      "notes": "보조 자료 두 곳이 네 곡을 수록하나 첫 두 곡 순서는 다름. 공식 영상 전곡 재생 검증은 미실시. 트윈피아노 편곡.",
+      "eventStatus": "held",
+      "performanceMode": "online",
+      "officialSource": "https://zutomayo.net/news/70/",
+      "sourceNote": null,
+      "reportedSetlist": [
+        {
+          "position": 1,
+          "rawTitle": "Kan Saete Kuyashii wa",
+          "titleJa": "勘冴えて悔しいわ"
+        },
+        {
+          "position": 2,
+          "rawTitle": "Kettobashita Moufu",
+          "titleJa": "蹴っ飛ばした毛布"
+        },
+        {
+          "position": 3,
+          "rawTitle": "Yasashiku LAST SMILE",
+          "titleJa": "優しくLAST SMILE"
+        },
+        {
+          "position": 4,
+          "rawTitle": "Byoushin wo Kamu",
+          "titleJa": "秒針を噛む"
+        }
+      ],
+      "sourceUrls": [
+        "https://zutomayo.net/news/70/",
+        "https://youtu.be/NHRSW1Q33hs",
+        "https://www.setlist.fm/setlist/zutomayo/2020/private-venue-unknown-city-japan-2b72c8ce.html",
+        "https://melomemo.app/concerts/93bce55b-97d1-4666-af00-306618ae3741"
+      ],
+      "setlistStatus": "complete",
+      "setlistSource": "https://www.setlist.fm/setlist/zutomayo/2020/private-venue-unknown-city-japan-2b72c8ce.html",
+      "setlistOrderStatus": "conflicting",
+      "setlistEvidence": "fan_cross_checked",
+      "setlistSourceLabel": "팬 자료 2곳 대조 · 순서 차이"
+    },
+    {
+      "name": "クリーニングライブ「定期連絡の業務」",
+      "groupId": "official-8",
+      "date": "2020-08-05",
+      "venue": "幕張メッセ幕張イベントホール",
+      "region": "千葉",
+      "eventStatus": "postponed",
+      "performanceMode": "venue",
+      "officialSource": "https://zutomayo.net/news/79/",
+      "rescheduledTo": "2021-05-15",
+      "notes": "재연기된 중간 일정. 2020년 5월 원일정과 2021년 대체 공연을 각각 구분."
+    },
+    {
+      "name": "クリーニングライブ「定期連絡の業務」",
+      "groupId": "official-8",
+      "date": "2020-08-06",
+      "venue": "幕張メッセ幕張イベントホール",
+      "region": "千葉",
+      "eventStatus": "postponed",
+      "performanceMode": "venue",
+      "officialSource": "https://zutomayo.net/news/79/",
+      "rescheduledTo": "2021-05-16",
+      "notes": "재연기된 중간 일정. 2020년 5월 원일정과 2021년 대체 공연을 각각 구분."
+    },
+    {
+      "name": "MTV Unplugged: ZUTOMAYO",
+      "groupId": "broadcast-mtv-unplugged",
+      "date": "2021-12-04",
+      "broadcastDate": "2021-12-04",
+      "performanceDate": null,
+      "start": "21:00",
+      "venue": "BLUE NOTE TOKYO",
+      "city": null,
+      "eventStatus": "held",
+      "performanceMode": "broadcast",
+      "officialSource": "https://zutomayo.net/news/212/",
+      "sourceUrls": [
+        "https://zutomayo.net/news/212/",
+        "https://zutomayo.net/release/26/"
+      ],
+      "notes": "공식 첫 방송일 기준. 실제 녹화일 미확인으로 현장 관람 기록 불가. 재방송 편성은 별도 공연으로 중복 등록하지 않음."
+    },
+    {
+      "name": "MTV VMAJ 2021 -THE LIVE-",
+      "groupId": "broadcast-mtv-vmaj-2021",
+      "date": "2021-12-18",
+      "broadcastDate": "2021-12-18",
+      "performanceDate": null,
+      "start": "19:00",
+      "venue": null,
+      "city": null,
+      "eventStatus": "held",
+      "performanceMode": "broadcast",
+      "officialSource": "https://zutomayo.net/news/212/",
+      "sourceUrls": [
+        "https://zutomayo.net/news/212/",
+        "https://www.universal-music.co.jp/zutomayo/news/2021-12-01/"
+      ],
+      "notes": "공식 첫 방송일 기준. 실제 녹화일 미확인으로 현장 관람 기록 불가. 재방송 편성은 별도 공연으로 중복 등록하지 않음. 아티스트 공지의 두 곡 목록을 연결. 표기 순서는 공지의 나열 순서이며 실제 연주 순서 미확인. setlist.fm의 11/25 Private Venue 표기는 공식 녹화일 근거로 사용하지 않음.",
+      "reportedSetlist": [
+        {
+          "rawTitle": "暗く黒く",
+          "titleJa": "暗く黒く"
+        },
+        {
+          "rawTitle": "猫リセット",
+          "titleJa": "猫リセット"
+        }
+      ],
+      "setlistStatus": "complete",
+      "setlistSource": "https://zutomayo.net/news/212/",
+      "setlistEvidence": "artist_published",
+      "setlistSourceLabel": "아티스트·레이블 공개 곡 목록",
+      "setlistOrderStatus": "unverified"
+    },
+    {
+      "name": "ACAね 路上ライブ",
+      "groupId": "acane-guerrilla-2019",
+      "date": "2019-10-27",
+      "venue": "代々木公園",
+      "city": "도쿄",
+      "region": "東京都",
+      "eventStatus": "held",
+      "performanceMode": "venue",
+      "performer": "ACAね",
+      "metadataStatus": "official_post_secondary_citation",
+      "officialSource": "https://twitter.com/zutomayo/status/1188415306017828869",
+      "sourceUrls": [
+        "https://twitter.com/zutomayo/status/1188415306017828869",
+        "https://twitter.com/zutomayo/status/1188430935827472385",
+        "https://twitter.com/zutomayo/status/1188418262914097152",
+        "https://english-fastlink.com/acane-streetlive/",
+        "https://www.setlist.fm/setlist/zutomayo/2019/yoyogi-kouen-tokyo-japan-3b72c8a4.html"
+      ],
+      "reportedSetlist": [
+        {
+          "position": 1,
+          "rawTitle": "Yasashiku LAST SMILE",
+          "titleJa": "優しくLAST SMILE"
+        }
+      ],
+      "setlistStatus": "partial",
+      "setlistSource": "https://www.setlist.fm/setlist/zutomayo/2019/yoyogi-kouen-tokyo-japan-3b72c8a4.html",
+      "setlistEvidence": "fan_single_source",
+      "setlistSourceLabel": "팬 자료 · 일부 곡만 확인",
+      "notes": "ACAね 기타 솔로 게릴라 무대. 공식 X 원문 직접 열람 불가, 외부에 인용된 공식 게시물로 날짜·공연을 확인. 공원명은 보조 자료. 확인한 1곡을 전체 세트리스트로 단정하지 않음."
+    },
+    {
+      "name": "日清ラ王×ずっと真夜中でいいのに。「SPECIAL ONLINE LIVE」",
+      "groupId": "nissin-raoh-2025",
+      "date": "2025-01-29",
+      "performanceDate": "2025-01-29",
+      "broadcastDate": "2025-01-29",
+      "start": "20:00",
+      "venue": "日清食品 POWER STATION [REBOOT]",
+      "eventStatus": "held",
+      "performanceMode": "online_live",
+      "officialSource": "https://zutomayo.net/news/477/",
+      "sourceUrls": [
+        "https://zutomayo.net/news/477/",
+        "https://nissin-ps.com/live/detail/0609a8bd",
+        "https://openreelensemble.com/liveshows/2025/1/29/special-online-live",
+        "https://www.setlist.fm/setlist/zutomayo/2025/nissin-power-station-tokyo-japan-1374e549.html"
+      ],
+      "notes": "아티스트·주최사·참여 연주자 공식 페이지에서 날짜·공연장과 온라인 생중계를 확인. 세트리스트는 아직 개별 대조 미완료이므로 미확인 상태."
+    }
+  ],
+  "excluded": [
+    {
+      "name": "ずっと真夜中でいいのに。〜ふふふ展〜",
+      "officialSource": "https://zutomayo.net/live/7/",
+      "date": "2020-03-04",
+      "endDate": "2020-03-13",
+      "reason": "전시 행사이며 공연이 아니므로 관람·곡 통계에서 제외"
+    }
+  ],
+  "issues": [
+    {
+      "id": "2018-date",
+      "message": "Archive header 2018-08-18 conflicts with explicit official event-body date2018-08-29; use body."
+    },
+    {
+      "id": "cancelled-yankee",
+      "message": "2021 January four Yankee tour rows explicitly cancelled; DB6 scheduled rows are not6 held shows."
+    },
+    {
+      "id": "streaming-only",
+      "message": "NIWA TO NIRA, JAPAN ONLINE FESTIVAL and 2021-01-31 rebroadcast absent from DB live index; must not default venue attendance."
+    },
+    {
+      "id": "exhibition",
+      "message": "ふふふ展 is postponed exhibition, exclude from concert/song statistics."
+    },
+    {
+      "id": "sessions",
+      "message": "CLEANING LABO and PLUGLESS each4 separate sessions; same-date sessions must not collapse."
+    },
+    {
+      "type": "postponed",
+      "date": "2023-12-13",
+      "rescheduledTo": "2024-01-29",
+      "venue": "ロームシアター京都",
+      "officialUrl": "https://zutomayo.net/news/375/"
+    },
+    {
+      "type": "postponed",
+      "date": "2023-12-14",
+      "rescheduledTo": "2024-01-30",
+      "venue": "ロームシアター京都",
+      "officialUrl": "https://zutomayo.net/news/375/"
+    },
+    {
+      "type": "postponed",
+      "date": "2024-11-07",
+      "rescheduledTo": "2025-01-07",
+      "venue": "センチュリーホール",
+      "officialUrl": "https://zutomayo.net/news/464/"
+    },
+    {
+      "type": "cancelled",
+      "date": "2026-03-28",
+      "venue": null,
+      "areaRaw": "Shanghai",
+      "officialUrl": "https://zutomayo.net/news/562/"
+    }
+  ],
+  "secondaryAudit": {
+    "checked_at": "2026-10-15",
+    "artistIndexUrl": "https://www.setlist.fm/setlists/zutomayo-1bf64d28.html",
+    "classification": "fan_contributed_secondary_source",
+    "coverage": {
+      "status": "partial_audit_not_complete_setlist_crosscheck",
+      "artistIndexObservedRows": 160,
+      "artistIndexObservedDistinctDates": 154,
+      "note": "Artist index pages are retrieved from differently dated caches; some pages failed and other pages overlap. Counts are observations, not a total concert count. Only date existence was compared to DB261; all setlists were not crosschecked.",
+      "successfulPageNumbers": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13,
+        14,
+        15,
+        17,
+        19,
+        22,
+        24
+      ],
+      "unavailablePageNumbers": [
+        12,
+        16,
+        18,
+        20,
+        21,
+        23,
+        25,
+        26
+      ],
+      "nonmatchingDatesAgainstDb261": [
+        "2019-10-27",
+        "2020-05-06",
+        "2020-08-06",
+        "2020-11-07",
+        "2025-01-29"
+      ]
+    },
+    "findings": [
+      {
+        "type": "missing_event",
+        "date": "2020-05-06",
+        "name": "お風呂場ライブ 定期連絡の業務",
+        "venue": "自宅浴室（YouTube配信）",
+        "city": null,
+        "mode": "online",
+        "startTime": "20:00",
+        "officialUrl": "https://zutomayo.net/news/70/",
+        "officialPublishedDate": "2020-04-29",
+        "videoUrl": "https://youtu.be/NHRSW1Q33hs",
+        "setlistFmUrl": "https://www.setlist.fm/setlist/zutomayo/2020/private-venue-unknown-city-japan-2b72c8ce.html",
+        "additionalSetlistUrl": "https://melomemo.app/concerts/93bce55b-97d1-4666-af00-306618ae3741",
+        "scheduleStatus": "official_confirmed",
+        "setlistStatus": "fan_reported_order_conflicting",
+        "setlist": [
+          {
+            "position": 1,
+            "rawTitle": "Kan Saete Kuyashii wa",
+            "titleJa": "勘冴えて悔しいわ"
+          },
+          {
+            "position": 2,
+            "rawTitle": "Kettobashita Moufu",
+            "titleJa": "蹴っ飛ばした毛布"
+          },
+          {
+            "position": 3,
+            "rawTitle": "Yasashiku LAST SMILE",
+            "titleJa": "優しくLAST SMILE"
+          },
+          {
+            "position": 4,
+            "rawTitle": "Byoushin wo Kamu",
+            "titleJa": "秒針を噛む"
+          }
+        ],
+        "notes": "Official announcement confirms date, live stream and twin-piano arrangements from the bathroom. setlist.fm and melomemo agree on the four songs but reverse the first two. Official full video playback was not verified; preserve setlist.fm order as reported and note the conflict."
+      },
+      {
+        "type": "missing_event",
+        "date": "2019-10-27",
+        "name": "ACAね 路上ライブ",
+        "venue": "代々木公園",
+        "city": "東京都",
+        "mode": "venue",
+        "setlistFmUrl": "https://www.setlist.fm/setlist/zutomayo/2019/yoyogi-kouen-tokyo-japan-3b72c8a4.html",
+        "officialAnnouncementUrl": "https://twitter.com/zutomayo/status/1188415306017828869",
+        "officialPerformancePostUrl": "https://twitter.com/zutomayo/status/1188430935827472385",
+        "officialPhotoPostUrl": "https://twitter.com/zutomayo/status/1188418262914097152",
+        "recoveryUrl": "https://english-fastlink.com/acane-streetlive/",
+        "officialDirectAccess": "unavailable_or_empty; URLs and date recovered from embedded official posts on the third-party page",
+        "scheduleStatus": "official_post_embedded_secondary_confirmation",
+        "setlistStatus": "partial_fan_reported",
+        "setlist": [
+          {
+            "position": 1,
+            "rawTitle": "Yasashiku LAST SMILE",
+            "titleJa": "優しくLAST SMILE"
+          }
+        ],
+        "notes": "Spontaneous ACAね solo guitar street performance, not a regular ZUTOMAYO tour stop. Direct official posts could not be read; quoted official post confirms a street performance and song; park name is secondary-source verified. Keep confirmed song but do not infer a complete one-song set."
+      },
+      {
+        "type": "date_conflict_and_duplicate_risk",
+        "date": "2024-11-07",
+        "replacementDate": "2025-01-07",
+        "venue": "愛知県 センチュリーホール",
+        "setlistFmUrl": "https://www.setlist.fm/setlist/zutomayo/2024/century-hall-nagoya-japan-1374e535.html",
+        "setlistFmIndexUrl": "https://www.setlist.fm/setlists/zutomayo-1bf64d28.html?page=9",
+        "venueIndexUrl": "https://www.setlist.fm/venue/century-hall-nagoya-japan-3bd6c07c.html",
+        "verifiedFrom": "artist_and_venue_index; individual URL link target resolved but individual fetch cache-miss",
+        "notes": "setlist.fm still has a populated Nov7 event. The original postponed date must not be counted as an additional held performance when official evidence establishes Jan7 replacement. Do not move or copy this reported setlist automatically without explicit date-conflict annotation."
+      },
+      {
+        "type": "broadcast_date_not_performance_date",
+        "name": "MTV Unplugged: ZUTOMAYO",
+        "broadcastDate": "2021-12-04",
+        "performanceDate": null,
+        "venue": "BLUE NOTE TOKYO",
+        "officialUrl": "https://zutomayo.net/news/212/",
+        "officialLabelUrl": "https://www.universal-music.co.jp/zutomayo/news/2021-12-01/",
+        "officialReleaseUrl": "https://zutomayo.net/release/26/",
+        "broadcasterUrl": "https://www2.mtvjapan.com/event/unplugged/zutomayo/",
+        "broadcasterAccess": "returns title only",
+        "notes": "Official artist/label announce first broadcast Dec4 21:00-22:00; recording date not established. Fan melomemo labels broadcast date as concert date, so do not adopt it as a venue concert date. No confirmed setlist.fm individual page found."
+      },
+      {
+        "type": "broadcast_date_not_performance_date",
+        "name": "MTV VMAJ 2021 -THE LIVE-",
+        "broadcastDate": "2021-12-18",
+        "performanceDate": null,
+        "setlistFmReportedDate": "2021-11-25",
+        "setlistFmReportedVenue": "Private Venue, Tokyo, Japan",
+        "officialUrl": "https://zutomayo.net/news/212/",
+        "officialLabelUrl": "https://www.universal-music.co.jp/zutomayo/news/2021-12-01/",
+        "setlistFmUrl": "https://www.setlist.fm/setlist/zutomayo/2021/private-venue-tokyo-japan-2372d42f.html",
+        "setlistFmFestivalUrl": "https://www.setlist.fm/festival/2021/mtv-vmaj-2021-the-live-3bd56044.html",
+        "officialSongs": [
+          "暗く黒く",
+          "猫リセット"
+        ],
+        "notes": "Official label calls these newly filmed live performance videos, broadcast Dec18 19:00-22:00. setlist.fm uses Nov25 at a private Tokyo venue, but that date/venue are not confirmed by official material. Regular tour Fukuoka performance also exists Nov25; retain broadcast entry or unresolved recording date rather than inventing venue attendance."
+      }
+    ],
+    "confirmedEventUrls": [
+      {
+        "date": "2018-08-29",
+        "venue": "Daikanyama LOOP, Tokyo",
+        "url": "https://www.setlist.fm/setlist/zutomayo/2018/daikanyama-loop-tokyo-japan-7bb9ce28.html",
+        "empty": false,
+        "note": "Debut live, 13 songs including repeated Byoushin; matches DB date/venue; covers/unreleased works retain their classifications."
+      },
+      {
+        "date": "2019-01-11",
+        "venue": "Shibuya CLUB QUATTRO, Tokyo",
+        "url": "https://www.setlist.fm/setlist/zutomayo/2019/shibuya-club-quattro-tokyo-japan-6bb9ce2e.html",
+        "empty": false
+      },
+      {
+        "date": "2019-10-07",
+        "venue": "Zepp Nagoya",
+        "url": "https://www.setlist.fm/setlist/zutomayo/2019/zepp-nagoya-nagoya-japan-73b9ce19.html",
+        "empty": false
+      },
+      {
+        "date": "2019-10-27",
+        "venue": "Yoyogi Kouen, Tokyo",
+        "url": "https://www.setlist.fm/setlist/zutomayo/2019/yoyogi-kouen-tokyo-japan-3b72c8a4.html",
+        "empty": false,
+        "setlistStatus": "partial"
+      },
+      {
+        "date": "2019-10-30",
+        "venue": "Zepp Namba (OSAKA)",
+        "url": "https://www.setlist.fm/setlist/zutomayo/2019/zepp-namba-osaka-osaka-japan-6bb9ce16.html",
+        "empty": false
+      },
+      {
+        "date": "2020-05-06",
+        "venue": "Private Venue, Unknown City",
+        "url": "https://www.setlist.fm/setlist/zutomayo/2020/private-venue-unknown-city-japan-2b72c8ce.html",
+        "empty": false
+      },
+      {
+        "date": "2021-11-25",
+        "venue": "Private Venue, Tokyo",
+        "url": "https://www.setlist.fm/setlist/zutomayo/2021/private-venue-tokyo-japan-2372d42f.html",
+        "empty": false,
+        "dateStatus": "secondary_reported_not_official_recording_date"
+      },
+      {
+        "date": "2021-11-25",
+        "venue": "Fukuoka Shimin Kaikan",
+        "url": "https://www.setlist.fm/setlist/zutomayo/2021/fukuoka-shimin-kaikan-fukuoka-japan-1372e175.html",
+        "empty": false
+      },
+      {
+        "date": "2021-12-23",
+        "venue": "Kanamoto Hall, Sapporo",
+        "url": "https://www.setlist.fm/setlist/zutomayo/2021/kanamoto-hall-sapporo-japan-1372e16d.html",
+        "empty": false
+      },
+      {
+        "date": "2023-01-15",
+        "venue": "Yoyogi Daiichi Taiikukan, Tokyo",
+        "url": "https://www.setlist.fm/setlist/zutomayo/2023/yoyogi-daiichi-taiikukan-tokyo-japan-63b9ce37.html",
+        "empty": false
+      },
+      {
+        "date": "2024-11-07",
+        "venue": "Century Hall, Nagoya",
+        "url": "https://www.setlist.fm/setlist/zutomayo/2024/century-hall-nagoya-japan-1374e535.html",
+        "empty": false,
+        "verifiedFrom": "index_only",
+        "dateStatus": "conflicts_official_postponement"
+      },
+      {
+        "date": "2025-01-29",
+        "venue": "Nissin Power Station, Tokyo",
+        "url": "https://www.setlist.fm/setlist/zutomayo/2025/nissin-power-station-tokyo-japan-1374e549.html",
+        "empty": false,
+        "mode": "online"
+      },
+      {
+        "date": "2025-03-29",
+        "venue": "PIA ARENA MM, Yokohama",
+        "url": "https://www.setlist.fm/setlist/zutomayo/2025/pia-arena-mm-yokohama-japan-334694dd.html",
+        "empty": false
+      },
+      {
+        "date": "2026-01-04",
+        "venue": "Makuhari Messe, Chiba (rockin'on sonic)",
+        "url": "https://www.setlist.fm/setlist/zutomayo/2026/makuhari-messe-kokusai-tenjijou-hall-7-8-chiba-japan-4b4ff372.html",
+        "empty": false
+      },
+      {
+        "date": "2026-02-28",
+        "venue": "Nippon Budokan, Tokyo",
+        "url": "https://www.setlist.fm/setlist/zutomayo/2026/nippon-budokan-tokyo-japan-534c03d9.html",
+        "empty": false
+      },
+      {
+        "date": "2026-03-28",
+        "venue": "Marine Messe Fukuoka B",
+        "url": "https://www.setlist.fm/setlist/zutomayo/2026/marine-messe-fukuoka-b-kan-fukuoka-japan-6b4d5ece.html",
+        "empty": false
+      },
+      {
+        "date": "2026-04-17",
+        "venue": "The Star Theatre, Singapore",
+        "url": "https://www.setlist.fm/setlist/zutomayo/2026/the-star-performing-arts-centre-the-star-theatre-queenstown-singapore-434c03d3.html",
+        "empty": false
+      },
+      {
+        "date": "2026-04-24",
+        "venue": "Osaka-jou Hall",
+        "url": "https://www.setlist.fm/setlist/zutomayo/2026/osaka-jou-hall-osaka-japan-534c03d1.html",
+        "empty": false
+      },
+      {
+        "date": "2026-05-02",
+        "venue": "Union Hall 1, Bangkok",
+        "url": "https://www.setlist.fm/setlist/zutomayo/2026/union-hall-1-bangkok-thailand-1340c94d.html",
+        "empty": false
+      },
+      {
+        "date": "2026-05-17",
+        "venue": "New Taipei City Exhibition Hall",
+        "url": "https://www.setlist.fm/setlist/zutomayo/2026/new-taipei-city-exhibition-hall-taipei-taiwan-434b3f3b.html",
+        "empty": false
+      },
+      {
+        "date": "2026-08-02",
+        "venue": "Maishima (SUN STAGE), Osaka",
+        "url": "https://www.setlist.fm/setlist/zutomayo/2026/maishima-sun-stage-osaka-japan-4b75fb22.html",
+        "empty": false
+      },
+      {
+        "date": "2026-09-06",
+        "venue": "Paradise City Culture Park, Incheon",
+        "url": "https://www.setlist.fm/setlist/zutomayo/2026/paradise-city-culture-park-incheon-south-korea-53772799.html",
+        "empty": false
+      },
+      {
+        "date": "2026-09-19",
+        "venue": "Soga Sports Kouen (LOTUS STAGE), Chiba",
+        "url": "https://www.setlist.fm/setlist/zutomayo/2026/soga-sports-kouen-lotus-stage-chiba-japan-2b728816.html",
+        "empty": false
+      },
+      {
+        "date": "2026-10-10",
+        "venue": "Heijou-kyuu Shiseki Rekishi Kouen, Nara",
+        "url": "https://www.setlist.fm/setlist/zutomayo/2026/heijou-kyuu-shiseki-rekishi-kouen-nara-japan-5372ff3d.html",
+        "empty": false
+      }
+    ],
+    "cancellationAudit": {
+      "yakiyakiJanuary2021": "No matching individual setlist.fm pages were found for the four cancelled Yokohama/Osaka dates. Absence from setlist.fm is not proof of cancellation; use the official Jan8 cancellation notice independently collected by the official audit agent.",
+      "aichiNovember2024": "setlist.fm retains the originally scheduled date with songs and therefore needs an explicit conflict note.",
+      "notVerified": "No complete census or full song-by-song crosscheck of all setlist.fm records was performed."
+    }
+  }
+}

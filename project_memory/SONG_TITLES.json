@@ -1,0 +1,4663 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-10-14",
+  "scope": "ZUTOMAYO 공개 원곡 71곡(동일 곡 버전 중복 제거) + 공식 확인 커버·참여·매시업·발표곡 7건. 비공개 곡, 즉흥 연주, 모든 라이브/인스트/shorts의 완전 목록을 의미하지 않음.",
+  "source_policy": "일본어·영문 제목과 기타 정보는 공식 출처 우선; 한글 표시 제목은 사용자가 허용한 나무위키 출처 예외. DB는 탐색·교차 확인용.",
+  "korean_title_policy": "사용자 요청에 따라 한글 표시 제목은 나무위키 표기를 그대로 채택. 개별 곡 문서 제목 우선, 없으면 디스코그래피 전곡 목록. 영문으로만 표기된 항목은 그대로 유지. 공식 한국어 곡명으로 인증하지 않으며 title_ko_official은 별도로 미확인 상태를 유지. 나무위키에서 확인되지 않은 항목은 임의 번역하지 않음.",
+  "original_count": 71,
+  "supplementary_count": 7,
+  "originals": [
+    {
+      "id": "akanesasu",
+      "no": 1,
+      "kind": "original",
+      "title_ja": "あかねさす頃",
+      "title_ko": "노을빛이 물들 무렵",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "akanesasu",
+      "title_en_type": "official_latin_or_romanized",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://www.youtube.com/watch?v=Z_k0hvdXYjM&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=Z_k0hvdXYjM&hl=ko&gl=KR",
+      "official_video": {
+        "id": "Z_k0hvdXYjM",
+        "title": "ずっと真夜中でいいのに。『あかねさす頃』MV (ZUTOMAYO - akanesasu)",
+        "url": "https://www.youtube.com/watch?v=Z_k0hvdXYjM&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "あかねさす頃",
+          "en": "akanesasu",
+          "url": "https://music.apple.com/kr/album/akanesasu/6818468042?i=6818468048&uo=4",
+          "track_id": 6818468048
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "akanesasu",
+          "url": "https://music.apple.com/kr/album/akanesasu/6818468042?i=6818468048&uo=4",
+          "track_id": 6818468048
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/akanesasu",
+        "title_ja": "あかねさす頃",
+        "title_en": "akanesasu"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E3%81%82%E3%81%8B%E3%81%AD%E3%81%95%E3%81%99%E9%A0%83",
+      "title_ko_source_excerpt": "あかねさす頃노을빛이 물들 무렵 | akanesasu",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "ichijiku-kemuri",
+      "no": 2,
+      "kind": "original",
+      "title_ja": "イチジク煙",
+      "title_ko": "무화과 연기",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Fig Smoke",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://www.youtube.com/watch?v=4LDQXYTfWjA&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=4LDQXYTfWjA&hl=ko&gl=KR",
+      "official_video": {
+        "id": "4LDQXYTfWjA",
+        "title": "ずっと真夜中でいいのに。『イチジク煙』MV (ZUTOMAYO - Fig Smoke)",
+        "url": "https://www.youtube.com/watch?v=4LDQXYTfWjA&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "イチジク煙",
+          "en": "Fig Smoke",
+          "url": "https://music.apple.com/us/album/fig-smoke/6784582940?i=6784582944&uo=4",
+          "track_id": 6784582944
+        }
+      ],
+      "korea_storefront_titles": [],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/ichijiku-kemuri",
+        "title_ja": "イチジク煙",
+        "title_en": "Fig Smoke"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E3%82%A4%E3%83%81%E3%82%B8%E3%82%AF%E7%85%99",
+      "title_ko_source_excerpt": "イチジク煙무화과 연기 | Fig Smoke",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "lowmotion-algae",
+      "no": 3,
+      "kind": "original",
+      "title_ja": "lowmotion algae",
+      "title_ko": "lowmotion algae",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "lowmotion algae",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://www.youtube.com/watch?v=RHu1YnJvdDU&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=RHu1YnJvdDU&hl=ko&gl=KR",
+      "official_video": {
+        "id": "RHu1YnJvdDU",
+        "title": "ずっと真夜中でいいのに。『lowmotion algae』 (ZUTOMAYO - lowmotion algae)（Audio Track）",
+        "url": "https://www.youtube.com/watch?v=RHu1YnJvdDU&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [],
+      "korea_storefront_titles": [],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/lowmotion-algae",
+        "title_ja": "lowmotion algae",
+        "title_en": "lowmotion algae"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "lowmotion algae",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "antimony",
+      "no": 4,
+      "kind": "original",
+      "title_ja": "アンチモン",
+      "title_ko": "안티몬",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "antimony",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://www.youtube.com/watch?v=arkEQD4vsIk&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=arkEQD4vsIk&hl=ko&gl=KR",
+      "official_video": {
+        "id": "arkEQD4vsIk",
+        "title": "ずっと真夜中でいいのに。『アンチモン』 (ZUTOMAYO - antimony)（Audio Track）",
+        "url": "https://www.youtube.com/watch?v=arkEQD4vsIk&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "アンチモン",
+          "en": "antimony",
+          "url": "https://music.apple.com/us/album/antimony/1881609986?i=1881610746&uo=4",
+          "track_id": 1881610746
+        }
+      ],
+      "korea_storefront_titles": [],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/antimony",
+        "title_ja": "アンチモン",
+        "title_en": "antinomy"
+      },
+      "notes": [
+        "DB 영문 표기 antinomy; 공식 기준 antimony"
+      ],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "アンチモン\n안티몬 | antimony",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "fujimi-no-kunren",
+      "no": 5,
+      "kind": "original",
+      "title_ja": "不死身の訓練",
+      "title_ko": "불사신 훈련",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Learning How Not to Break",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://www.youtube.com/watch?v=l1wiiEQdBx4&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=l1wiiEQdBx4&hl=ko&gl=KR",
+      "official_video": {
+        "id": "l1wiiEQdBx4",
+        "title": "ずっと真夜中でいいのに。『不死身の訓練』 (ZUTOMAYO - Learning How Not to Break)（Audio Track）",
+        "url": "https://www.youtube.com/watch?v=l1wiiEQdBx4&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "不死身の訓練",
+          "en": "Learning How Not to Break",
+          "url": "https://music.apple.com/kr/album/learning-how-not-to-break/1881609986?i=1881610741&uo=4",
+          "track_id": 1881610741
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Learning How Not to Break",
+          "url": "https://music.apple.com/kr/album/learning-how-not-to-break/1881609986?i=1881610741&uo=4",
+          "track_id": 1881610741
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/fujimi-no-kunren",
+        "title_ja": "不死身の訓練",
+        "title_en": "Learning How Not to Break"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "不死身の訓練\n불사신 훈련 | Learning How Not to Break",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "ultra-tamashii",
+      "no": 6,
+      "kind": "original",
+      "title_ja": "ultra魂",
+      "title_ko": "ultra혼",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "ultra soul",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://www.youtube.com/watch?v=lpg5nhWapjU&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=lpg5nhWapjU&hl=ko&gl=KR",
+      "official_video": {
+        "id": "lpg5nhWapjU",
+        "title": "【TVアニメOP】ずっと真夜中でいいのに。『ultra魂』MV (ZUTOMAYO - ultra soul)",
+        "url": "https://www.youtube.com/watch?v=lpg5nhWapjU&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "ultra魂",
+          "en": "ultra soul",
+          "url": "https://music.apple.com/us/album/ultra-soul/1881609986?i=1881610738&uo=4",
+          "track_id": 1881610738
+        },
+        {
+          "ja": "ultra魂",
+          "en": "ultra soul",
+          "url": "https://music.apple.com/kr/album/ultra-soul/1881609986?i=1881610738&uo=4",
+          "track_id": 1881610738
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "ultra soul",
+          "url": "https://music.apple.com/kr/album/ultra-soul/1881609986?i=1881610738&uo=4",
+          "track_id": 1881610738
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/ultra-tamashii",
+        "title_ja": "ultra魂",
+        "title_en": "ultra soul"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/ultra%E9%AD%82",
+      "title_ko_source_excerpt": "ultra魂ultra혼 | ultra soul",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "kani-shabu-funk",
+      "no": 7,
+      "kind": "original",
+      "title_ja": "蟹しゃぶふぁんく",
+      "title_ko": "카니샤브 펑크",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Kani Shabu Funk",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://www.youtube.com/watch?v=UHQJ1b-zYDM&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=UHQJ1b-zYDM&hl=ko&gl=KR",
+      "official_video": {
+        "id": "UHQJ1b-zYDM",
+        "title": "ずっと真夜中でいいのに。『蟹しゃぶふぁんく』 (ZUTOMAYO - Kani Shabu Funk)（Audio Track）",
+        "url": "https://www.youtube.com/watch?v=UHQJ1b-zYDM&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "蟹しゃぶふぁんく",
+          "en": "Kani Shabu Funk",
+          "url": "https://music.apple.com/us/album/kani-shabu-funk/1881609986?i=1881610633&uo=4",
+          "track_id": 1881610633
+        }
+      ],
+      "korea_storefront_titles": [],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/kani-shabu-funk",
+        "title_ja": "蟹しゃぶふぁんく",
+        "title_en": "Kani Shabu Funk"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "蟹しゃぶふぁんく\n카니샤브 펑크 | Kani Shabu Funk",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "ma-ningen",
+      "no": 8,
+      "kind": "original",
+      "title_ja": "間人間",
+      "title_ko": "간인간",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Almost Human",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://www.youtube.com/watch?v=Pd2HGnmkJ20&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=Pd2HGnmkJ20&hl=ko&gl=KR",
+      "official_video": {
+        "id": "Pd2HGnmkJ20",
+        "title": "ずっと真夜中でいいのに。『間人間』 (ZUTOMAYO - Almost Human)（Audio Track）",
+        "url": "https://www.youtube.com/watch?v=Pd2HGnmkJ20&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [],
+      "korea_storefront_titles": [],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/ma-ningen",
+        "title_ja": "間人間",
+        "title_en": "Almost Human"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "間人間\n간인간 | Almost Human",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "chikyu-sonzai-shinai-setsu",
+      "no": 9,
+      "kind": "original",
+      "title_ja": "地球存在しない説",
+      "title_ko": "지구 존재하지 않는다는 설",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "This Planet Feels Fake",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://www.youtube.com/watch?v=KS0hxEI-cBc&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=KS0hxEI-cBc&hl=ko&gl=KR",
+      "official_video": {
+        "id": "KS0hxEI-cBc",
+        "title": "ずっと真夜中でいいのに。『地球存在しない説』 (ZUTOMAYO - This Planet Feels Fake)（Audio Track）",
+        "url": "https://www.youtube.com/watch?v=KS0hxEI-cBc&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "地球存在しない説",
+          "en": "This Planet Feels Fake",
+          "url": "https://music.apple.com/us/album/this-planet-feels-fake/1881609986?i=1881610509&uo=4",
+          "track_id": 1881610509
+        }
+      ],
+      "korea_storefront_titles": [],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/chikyu-sonzai-shinai-setsu",
+        "title_ja": "地球存在しない説",
+        "title_en": "This Planet Feels Fake"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "地球存在しない説\n지구 존재하지 않는다는 설 | This Planet Feels Fake",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "yomosugara",
+      "no": 10,
+      "kind": "original",
+      "title_ja": "よもすがら",
+      "title_ko": "밤새도록",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "yomosugara",
+      "title_en_type": "official_latin_or_romanized",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://www.youtube.com/watch?v=rsjaFk0Z5es&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=rsjaFk0Z5es&hl=ko&gl=KR",
+      "official_video": {
+        "id": "rsjaFk0Z5es",
+        "title": "ずっと真夜中でいいのに。『よもすがら』MV (ZUTOMAYO - yomosugara)",
+        "url": "https://www.youtube.com/watch?v=rsjaFk0Z5es&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "よもすがら",
+          "en": "yomosugara",
+          "url": "https://music.apple.com/us/album/yomosugara/1881609986?i=1881610749&uo=4",
+          "track_id": 1881610749
+        },
+        {
+          "ja": "よもすがら",
+          "en": "yomosugara",
+          "url": "https://music.apple.com/kr/album/yomosugara/1881609986?i=1881610749&uo=4",
+          "track_id": 1881610749
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "yomosugara",
+          "url": "https://music.apple.com/kr/album/yomosugara/1881609986?i=1881610749&uo=4",
+          "track_id": 1881610749
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/yomosugara",
+        "title_ja": "よもすがら",
+        "title_en": "yomosugara"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E3%82%88%E3%82%82%E3%81%99%E3%81%8C%E3%82%89",
+      "title_ko_source_excerpt": "よもすがら밤새도록 | yomosugara",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "medianoche",
+      "no": 11,
+      "kind": "original",
+      "title_ja": "メディアノーチェ",
+      "title_ko": "메디아노체",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Medianoche",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://www.youtube.com/watch?v=sBpITQ7oXxM&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=sBpITQ7oXxM&hl=ko&gl=KR",
+      "official_video": {
+        "id": "sBpITQ7oXxM",
+        "title": "ずっと真夜中でいいのに。『メディアノーチェ』MV (ZUTOMAYO - Medianoche)",
+        "url": "https://www.youtube.com/watch?v=sBpITQ7oXxM&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "メディアノーチェ",
+          "en": "Medianoche",
+          "url": "https://music.apple.com/us/album/medianoche/1869186094?i=1869186104&uo=4",
+          "track_id": 1869186104
+        },
+        {
+          "ja": "メディアノーチェ",
+          "en": "Medianoche",
+          "url": "https://music.apple.com/kr/album/medianoche/1869186094?i=1869186104&uo=4",
+          "track_id": 1869186104
+        },
+        {
+          "ja": "メディアノーチェ",
+          "en": "Medianoche",
+          "url": "https://music.apple.com/kr/album/medianoche/1881609986?i=1881610628&uo=4",
+          "track_id": 1881610628
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Medianoche",
+          "url": "https://music.apple.com/kr/album/medianoche/1869186094?i=1869186104&uo=4",
+          "track_id": 1869186104
+        },
+        {
+          "title": "Medianoche",
+          "url": "https://music.apple.com/kr/album/medianoche/1881609986?i=1881610628&uo=4",
+          "track_id": 1881610628
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/medianoche",
+        "title_ja": "メディアノーチェ",
+        "title_en": "Medianoche"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%8E%E3%83%BC%E3%83%81%E3%82%A7",
+      "title_ko_source_excerpt": "メディアノーチェ메디아노체 | Medianoche",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "katachi",
+      "no": 12,
+      "kind": "original",
+      "title_ja": "形",
+      "title_ko": "형태",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Pain Give Form",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/32/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/29/",
+        "https://zutomayo.net/release/16/",
+        "https://zutomayo.net/release/9/",
+        "https://www.youtube.com/watch?v=6eFajRiOrpY&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=6eFajRiOrpY&hl=ko&gl=KR",
+      "official_video": {
+        "id": "6eFajRiOrpY",
+        "title": "ずっと真夜中でいいのに。『形』MV (ZUTOMAYO - Pain Give Form)",
+        "url": "https://www.youtube.com/watch?v=6eFajRiOrpY&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "形",
+          "en": "Pain Give Form",
+          "url": "https://music.apple.com/us/album/pain-give-form/1817596286?i=1817596288&uo=4",
+          "track_id": 1817596288
+        },
+        {
+          "ja": "形",
+          "en": "Pain Give Form",
+          "url": "https://music.apple.com/kr/album/pain-give-form/1817596286?i=1817596288&uo=4",
+          "track_id": 1817596288
+        },
+        {
+          "ja": "形",
+          "en": "Pain Give Form",
+          "url": "https://music.apple.com/us/album/pain-give-form/1881609986?i=1881610736&uo=4",
+          "track_id": 1881610736
+        },
+        {
+          "ja": "形",
+          "en": "Pain Give Form",
+          "url": "https://music.apple.com/kr/album/pain-give-form/1881609986?i=1881610736&uo=4",
+          "track_id": 1881610736
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Pain Give Form",
+          "url": "https://music.apple.com/kr/album/pain-give-form/1817596286?i=1817596288&uo=4",
+          "track_id": 1817596288
+        },
+        {
+          "title": "Pain Give Form",
+          "url": "https://music.apple.com/kr/album/pain-give-form/1881609986?i=1881610736&uo=4",
+          "track_id": 1881610736
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/katachi",
+        "title_ja": "形",
+        "title_en": "Pain Give Form"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E5%BD%A2(%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.)",
+      "title_ko_source_excerpt": "形형태 | Pain Give Form",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "cream-de-ai-ni-ikemasuka",
+      "no": 13,
+      "kind": "original",
+      "title_ja": "クリームで会いにいけますか",
+      "title_ko": "크림으로 만나러 갈 수 있나요",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "CREAM",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/32/",
+        "https://www.youtube.com/watch?v=JQ2913bVo30&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=JQ2913bVo30&hl=ko&gl=KR",
+      "official_video": {
+        "id": "JQ2913bVo30",
+        "title": "ずっと真夜中でいいのに。『クリームで会いにいけますか』MV (ZUTOMAYO - CREAM)",
+        "url": "https://www.youtube.com/watch?v=JQ2913bVo30&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "クリームで会いにいけますか",
+          "en": "CREAM",
+          "url": "https://music.apple.com/us/album/cream/1813833250?i=1813833251&uo=4",
+          "track_id": 1813833251
+        },
+        {
+          "ja": "クリームで会いにいけますか",
+          "en": "CREAM",
+          "url": "https://music.apple.com/kr/album/cream/1813833250?i=1813833251&uo=4",
+          "track_id": 1813833251
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "CREAM",
+          "url": "https://music.apple.com/kr/album/cream/1813833250?i=1813833251&uo=4",
+          "track_id": 1813833251
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/cream-de-ai-ni-ikemasuka",
+        "title_ja": "クリームで会いに行けますか",
+        "title_en": "CREAM"
+      },
+      "notes": [
+        "DB 일본어 표기 クリームで会いに行けますか; 공식 기준 クリームで会いにいけますか"
+      ],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E3%81%A7%E4%BC%9A%E3%81%84%E3%81%AB%E3%81%84%E3%81%91%E3%81%BE%E3%81%99%E3%81%8B",
+      "title_ko_source_excerpt": "クリームで会いにいけますか크림으로 만나러 갈 수 있나요 | CREAM",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "binetsuma",
+      "no": 14,
+      "kind": "original",
+      "title_ja": "微熱魔",
+      "title_ko": "미열마",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Warmthaholic",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/32/",
+        "https://www.youtube.com/watch?v=plpVOHqh3lA&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=plpVOHqh3lA&hl=ko&gl=KR",
+      "official_video": {
+        "id": "plpVOHqh3lA",
+        "title": "ずっと真夜中でいいのに。『微熱魔』MV (ZUTOMAYO - Warmthaholic)",
+        "url": "https://www.youtube.com/watch?v=plpVOHqh3lA&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "微熱魔",
+          "en": "Warmthaholic",
+          "url": "https://music.apple.com/us/album/warmthaholic/1806044916?i=1806044918&uo=4",
+          "track_id": 1806044918
+        },
+        {
+          "ja": "微熱魔",
+          "en": "Warmthaholic",
+          "url": "https://music.apple.com/us/album/warmthaholic/1881609986?i=1881610635&uo=4",
+          "track_id": 1881610635
+        },
+        {
+          "ja": "微熱魔",
+          "en": "Warmthaholic",
+          "url": "https://music.apple.com/kr/album/warmthaholic/1881609986?i=1881610635&uo=4",
+          "track_id": 1881610635
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Warmthaholic",
+          "url": "https://music.apple.com/kr/album/warmthaholic/1881609986?i=1881610635&uo=4",
+          "track_id": 1881610635
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/binetsuma",
+        "title_ja": "微熱魔",
+        "title_en": "Warmthaholic"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E5%BE%AE%E7%86%B1%E9%AD%94",
+      "title_ko_source_excerpt": "微熱魔미열마 | Warmthaholic",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "shade-no-hokori-wa-enchou",
+      "no": 15,
+      "kind": "original",
+      "title_ja": "シェードの埃は延長",
+      "title_ko": "쉐이드 커튼 위 먼지는 쌓이는 중",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "SHADE",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/32/",
+        "https://www.youtube.com/watch?v=zjEMFuj23B4&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=zjEMFuj23B4&hl=ko&gl=KR",
+      "official_video": {
+        "id": "zjEMFuj23B4",
+        "title": "ずっと真夜中でいいのに。『シェードの埃は延長』MV (ZUTOMAYO - SHADE)",
+        "url": "https://www.youtube.com/watch?v=zjEMFuj23B4&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "シェードの埃は延長",
+          "en": "SHADE",
+          "url": "https://music.apple.com/us/album/shade/1790588887?i=1790588889&uo=4",
+          "track_id": 1790588889
+        },
+        {
+          "ja": "シェードの埃は延長",
+          "en": "SHADE",
+          "url": "https://music.apple.com/kr/album/shade/1790588887?i=1790588889&uo=4",
+          "track_id": 1790588889
+        },
+        {
+          "ja": "シェードの埃は延長",
+          "en": "SHADE",
+          "url": "https://music.apple.com/kr/album/shade/1881609986?i=1881610733&uo=4",
+          "track_id": 1881610733
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "SHADE",
+          "url": "https://music.apple.com/kr/album/shade/1790588887?i=1790588889&uo=4",
+          "track_id": 1790588889
+        },
+        {
+          "title": "SHADE",
+          "url": "https://music.apple.com/kr/album/shade/1881609986?i=1881610733&uo=4",
+          "track_id": 1881610733
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/shade-no-hokori-wa-enchou",
+        "title_ja": "シェードの埃は延長",
+        "title_en": "SHADE"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%89%E3%81%AE%E5%9F%83%E3%81%AF%E5%BB%B6%E9%95%B7",
+      "title_ko_source_excerpt": "シェードの埃は延長쉐이드 커튼 위 먼지는 쌓이는 중 | SHADE",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "kuzuri-nen",
+      "no": 16,
+      "kind": "original",
+      "title_ja": "クズリ念",
+      "title_ko": "족제비 이념",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "KUZURI",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/32/",
+        "https://zutomayo.net/release/31/",
+        "https://www.youtube.com/watch?v=ut889MZ9yNo&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=ut889MZ9yNo&hl=ko&gl=KR",
+      "official_video": {
+        "id": "ut889MZ9yNo",
+        "title": "ずっと真夜中でいいのに。『クズリ念』MV (ZUTOMAYO – KUZURI)",
+        "url": "https://www.youtube.com/watch?v=ut889MZ9yNo&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "クズリ念",
+          "en": "KUZURI",
+          "url": "https://music.apple.com/us/album/kuzuri/1770242092?i=1770242097&uo=4",
+          "track_id": 1770242097
+        },
+        {
+          "ja": "クズリ念",
+          "en": "KUZURI",
+          "url": "https://music.apple.com/kr/album/kuzuri/1770242092?i=1770242097&uo=4",
+          "track_id": 1770242097
+        },
+        {
+          "ja": "クズリ念",
+          "en": "KUZURI",
+          "url": "https://music.apple.com/kr/album/kuzuri/6785727454?i=6785727568&uo=4",
+          "track_id": 6785727568
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "KUZURI",
+          "url": "https://music.apple.com/kr/album/kuzuri/1770242092?i=1770242097&uo=4",
+          "track_id": 1770242097
+        },
+        {
+          "title": "KUZURI",
+          "url": "https://music.apple.com/kr/album/kuzuri/6785727454?i=6785727568&uo=4",
+          "track_id": 6785727568
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/kuzuri-nen",
+        "title_ja": "クズリ念",
+        "title_en": "KUZURI"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E3%82%AF%E3%82%BA%E3%83%AA%E5%BF%B5",
+      "title_ko_source_excerpt": "クズリ念족제비 이념 | KUZURI",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "koke-ni-shite-kure",
+      "no": 17,
+      "kind": "original",
+      "title_ja": "虚仮にしてくれ",
+      "title_ko": "바보 취급해 줘",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "KOKE",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/32/",
+        "https://zutomayo.net/release/31/",
+        "https://www.youtube.com/watch?v=QVeAdBHkhD8&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=QVeAdBHkhD8&hl=ko&gl=KR",
+      "official_video": {
+        "id": "QVeAdBHkhD8",
+        "title": "ずっと真夜中でいいのに。『虚仮にしてくれ』 (ZUTOMAYO - KOKE)（Audio Track）",
+        "url": "https://www.youtube.com/watch?v=QVeAdBHkhD8&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "虚仮にしてくれ",
+          "en": "KOKE",
+          "url": "https://music.apple.com/us/album/koke/1770242092?i=1770242094&uo=4",
+          "track_id": 1770242094
+        },
+        {
+          "ja": "虚仮にしてくれ",
+          "en": "KOKE",
+          "url": "https://music.apple.com/kr/album/koke/1770242092?i=1770242094&uo=4",
+          "track_id": 1770242094
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "KOKE",
+          "url": "https://music.apple.com/kr/album/koke/1770242092?i=1770242094&uo=4",
+          "track_id": 1770242094
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/koke-ni-shite-kure",
+        "title_ja": "虚仮にしてくれ",
+        "title_en": "KOKE"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E8%99%9A%E4%BB%AE%E3%81%AB%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C",
+      "title_ko_source_excerpt": "虚仮にしてくれ바보 취급해 줘 | KOKE",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "taidada",
+      "no": 18,
+      "kind": "original",
+      "title_ja": "TAIDADA",
+      "title_ko": "TAIDADA",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "TAIDADA",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/32/",
+        "https://zutomayo.net/release/31/",
+        "https://www.youtube.com/watch?v=IeyCdm9WwXM&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=IeyCdm9WwXM&hl=ko&gl=KR",
+      "official_video": {
+        "id": "IeyCdm9WwXM",
+        "title": "ずっと真夜中でいいのに。『TAIDADA』MV (ZUTOMAYO - TAIDADA)【ダンダダン MAD】",
+        "url": "https://www.youtube.com/watch?v=IeyCdm9WwXM&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "TAIDADA",
+          "en": "TAIDADA",
+          "url": "https://music.apple.com/us/album/taidada/1770242092?i=1770242096&uo=4",
+          "track_id": 1770242096
+        },
+        {
+          "ja": "TAIDADA",
+          "en": "TAIDADA",
+          "url": "https://music.apple.com/kr/album/taidada/1770242092?i=1770242096&uo=4",
+          "track_id": 1770242096
+        },
+        {
+          "ja": "TAIDADA",
+          "en": "TAIDADA",
+          "url": "https://music.apple.com/us/album/taidada/1881609986?i=1881610630&uo=4",
+          "track_id": 1881610630
+        },
+        {
+          "ja": "TAIDADA",
+          "en": "TAIDADA",
+          "url": "https://music.apple.com/kr/album/taidada/1881609986?i=1881610630&uo=4",
+          "track_id": 1881610630
+        },
+        {
+          "ja": "TAIDADA",
+          "en": "TAIDADA",
+          "url": "https://music.apple.com/us/album/taidada/1813911641?i=1813911817&uo=4",
+          "track_id": 1813911817
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "TAIDADA",
+          "url": "https://music.apple.com/kr/album/taidada/1770242092?i=1770242096&uo=4",
+          "track_id": 1770242096
+        },
+        {
+          "title": "TAIDADA",
+          "url": "https://music.apple.com/kr/album/taidada/1881609986?i=1881610630&uo=4",
+          "track_id": 1881610630
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/taidada",
+        "title_ja": "TAIDADA",
+        "title_en": "TAIDADA"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "TAIDADA",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "kaiba-seichoutsuu",
+      "no": 19,
+      "kind": "original",
+      "title_ja": "海馬成長痛",
+      "title_ko": "해마성장통",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Hippocampal Pain",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/32/",
+        "https://zutomayo.net/release/31/",
+        "https://www.youtube.com/watch?v=PLG2Uexyi9s&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=PLG2Uexyi9s&hl=ko&gl=KR",
+      "official_video": {
+        "id": "PLG2Uexyi9s",
+        "title": "ずっと真夜中でいいのに。『海馬成長痛』MV (ZUTOMAYO – Hippocampal Pain)",
+        "url": "https://www.youtube.com/watch?v=PLG2Uexyi9s&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "海馬成長痛",
+          "en": "Hippocampal Pain",
+          "url": "https://music.apple.com/us/album/hippocampal-pain/1763157328?i=1763157329&uo=4",
+          "track_id": 1763157329
+        },
+        {
+          "ja": "海馬成長痛",
+          "en": "Hippocampal Pain",
+          "url": "https://music.apple.com/us/album/hippocampal-pain/1770242092?i=1770242099&uo=4",
+          "track_id": 1770242099
+        },
+        {
+          "ja": "海馬成長痛",
+          "en": "Hippocampal Pain",
+          "url": "https://music.apple.com/us/album/hippocampal-pain/1881609986?i=1881610745&uo=4",
+          "track_id": 1881610745
+        },
+        {
+          "ja": "海馬成長痛",
+          "en": "Hippocampal Pain",
+          "url": "https://music.apple.com/kr/album/hippocampal-pain/1881609986?i=1881610745&uo=4",
+          "track_id": 1881610745
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Hippocampal Pain",
+          "url": "https://music.apple.com/kr/album/hippocampal-pain/1881609986?i=1881610745&uo=4",
+          "track_id": 1881610745
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/kaiba-seichoutsuu",
+        "title_ja": "海馬成長痛",
+        "title_en": "Hippocampal Pain"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E6%B5%B7%E9%A6%AC%E6%88%90%E9%95%B7%E7%97%9B",
+      "title_ko_source_excerpt": "海馬成長痛해마성장통 | Hippocampal Pain",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "blues-in-the-closet",
+      "no": 20,
+      "kind": "original",
+      "title_ja": "Blues in the Closet",
+      "title_ko": "Blues in the Closet",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Blues in the Closet",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/31/",
+        "https://zutomayo.net/release/30/",
+        "https://www.youtube.com/watch?v=E8RMWLoAsa0&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=E8RMWLoAsa0&hl=ko&gl=KR",
+      "official_video": {
+        "id": "E8RMWLoAsa0",
+        "title": "ずっと真夜中でいいのに。『Blues in the Closet』MV (ZUTOMAYO – Blues in the Closet)",
+        "url": "https://www.youtube.com/watch?v=E8RMWLoAsa0&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "Blues in the Closet",
+          "en": "Blues in the Closet",
+          "url": "https://music.apple.com/us/album/blues-in-the-closet/1748771422?i=1748771429&uo=4",
+          "track_id": 1748771429
+        },
+        {
+          "ja": "Blues in the Closet",
+          "en": "Blues in the Closet",
+          "url": "https://music.apple.com/us/album/blues-in-the-closet/1770242092?i=1770242101&uo=4",
+          "track_id": 1770242101
+        },
+        {
+          "ja": "Blues in the Closet",
+          "en": "Blues in the Closet",
+          "url": "https://music.apple.com/kr/album/blues-in-the-closet/1770242092?i=1770242101&uo=4",
+          "track_id": 1770242101
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Blues in the Closet",
+          "url": "https://music.apple.com/kr/album/blues-in-the-closet/1770242092?i=1770242101&uo=4",
+          "track_id": 1770242101
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/blues-in-the-closet",
+        "title_ja": "Blues in the Closet",
+        "title_en": "Blues in the Closet"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "Blues in the Closet",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "uso-janai",
+      "no": 21,
+      "kind": "original",
+      "title_ja": "嘘じゃない",
+      "title_ko": "거짓이 아니야",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Truth In Lies",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [
+        "Truth in Lies"
+      ],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/32/",
+        "https://zutomayo.net/release/31/",
+        "https://zutomayo.net/release/30/",
+        "https://www.youtube.com/watch?v=GfDXqY-V0EY&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=GfDXqY-V0EY&hl=ko&gl=KR",
+      "official_video": {
+        "id": "GfDXqY-V0EY",
+        "title": "ずっと真夜中でいいのに。『嘘じゃない』MV (ZUTOMAYO – Truth In Lies)",
+        "url": "https://www.youtube.com/watch?v=GfDXqY-V0EY&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "嘘じゃない",
+          "en": "Truth In Lies",
+          "url": "https://music.apple.com/kr/album/truth-in-lies/1746027589?i=1746027609&uo=4",
+          "track_id": 1746027609
+        },
+        {
+          "ja": "嘘じゃない",
+          "en": "Truth In Lies",
+          "url": "https://music.apple.com/us/album/truth-in-lies/1881609986?i=1881610908&uo=4",
+          "track_id": 1881610908
+        },
+        {
+          "ja": "嘘じゃない",
+          "en": "Truth In Lies",
+          "url": "https://music.apple.com/kr/album/truth-in-lies/1881609986?i=1881610908&uo=4",
+          "track_id": 1881610908
+        },
+        {
+          "ja": "嘘じゃない",
+          "en": "Truth in Lies",
+          "url": "https://music.apple.com/us/album/truth-in-lies/1770242092?i=1770242100&uo=4",
+          "track_id": 1770242100
+        },
+        {
+          "ja": "嘘じゃない",
+          "en": "Truth in Lies",
+          "url": "https://music.apple.com/kr/album/truth-in-lies/1770242092?i=1770242100&uo=4",
+          "track_id": 1770242100
+        },
+        {
+          "ja": "嘘じゃない",
+          "en": "Truth in Lies",
+          "url": "https://music.apple.com/us/album/truth-in-lies/1765750815?i=1765752416&uo=4",
+          "track_id": 1765752416
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Truth In Lies",
+          "url": "https://music.apple.com/kr/album/truth-in-lies/1746027589?i=1746027609&uo=4",
+          "track_id": 1746027609
+        },
+        {
+          "title": "Truth In Lies",
+          "url": "https://music.apple.com/kr/album/truth-in-lies/1881609986?i=1881610908&uo=4",
+          "track_id": 1881610908
+        },
+        {
+          "title": "Truth in Lies",
+          "url": "https://music.apple.com/kr/album/truth-in-lies/1770242092?i=1770242100&uo=4",
+          "track_id": 1770242100
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/uso-janai",
+        "title_ja": "嘘じゃない",
+        "title_en": "Truth In Lies"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E5%98%98%E3%81%98%E3%82%83%E3%81%AA%E3%81%84",
+      "title_ko_source_excerpt": "嘘じゃない거짓이 아니야 | Truth In Lies",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "nareai-serve",
+      "no": 22,
+      "kind": "original",
+      "title_ja": "馴れ合いサーブ",
+      "title_ko": "짜고 치는 서브",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Nareai Serve",
+      "title_en_type": "official_latin_or_romanized",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/33/",
+        "https://zutomayo.net/release/32/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/29/",
+        "https://www.youtube.com/watch?v=bIW0n36TUSQ&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=bIW0n36TUSQ&hl=ko&gl=KR",
+      "official_video": {
+        "id": "bIW0n36TUSQ",
+        "title": "ずっと真夜中でいいのに。『馴れ合いサーブ』Lyric Video (ZUTOMAYO - Nareai Serve)",
+        "url": "https://www.youtube.com/watch?v=bIW0n36TUSQ&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "馴れ合いサーブ",
+          "en": "Nareai Serve",
+          "url": "https://music.apple.com/us/album/nareai-serve/1688968525?i=1688968539&uo=4",
+          "track_id": 1688968539
+        }
+      ],
+      "korea_storefront_titles": [],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/nareai-serve",
+        "title_ja": "馴れ合いサーブ",
+        "title_en": "Nareai Serve"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E9%A6%B4%E3%82%8C%E5%90%88%E3%81%84%E3%82%B5%E3%83%BC%E3%83%96",
+      "title_ko_source_excerpt": "馴れ合いサーブ짜고 치는 서브 | Nareai Serve",
+      "title_ko_aliases": [
+        {
+          "title": "친숙한 서브",
+          "source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+          "source_excerpt": "馴れ合いサーブ\n친숙한 서브 | Nareai Serve"
+        }
+      ],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "uwabe-no-watashi-jishin-nandayo",
+      "no": 23,
+      "kind": "original",
+      "title_ja": "上辺の私自身なんだよ",
+      "title_ko": "겉의 나 자신이야",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Superficial Me",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/33/",
+        "https://zutomayo.net/release/32/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/29/",
+        "https://www.youtube.com/watch?v=cWK45FChXdk&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=cWK45FChXdk&hl=ko&gl=KR",
+      "official_video": {
+        "id": "cWK45FChXdk",
+        "title": "\"上辺の私自身なんだよ\"  (ZUTOMAYO - Superficial Me)",
+        "url": "https://www.youtube.com/watch?v=cWK45FChXdk&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "上辺の私自身なんだよ",
+          "en": "Superficial Me",
+          "url": "https://music.apple.com/us/album/superficial-me/1688968525?i=1688968791&uo=4",
+          "track_id": 1688968791
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "上辺の私自身なんだよ",
+          "url": "https://music.apple.com/kr/album/%E4%B8%8A%E8%BE%BA%E3%81%AE%E7%A7%81%E8%87%AA%E8%BA%AB%E3%81%AA%E3%82%93%E3%81%A0%E3%82%88/1688968525?i=1688968791&uo=4",
+          "track_id": 1688968791
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/uwabe-no-watashi-jishin-nandayo",
+        "title_ja": "上辺の私自身なんだよ",
+        "title_en": "Superficial Me"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "上辺の私自身なんだよ\n겉의 나 자신이야 | Superficial Me",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "hanaichimonme",
+      "no": 24,
+      "kind": "original",
+      "title_ja": "花一匁",
+      "title_ko": "하나이치몬메",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Hanaichi Monnme",
+      "title_en_type": "official_latin_or_romanized",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/33/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/29/",
+        "https://www.youtube.com/watch?v=H88kps8X4Mk&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=H88kps8X4Mk&hl=ko&gl=KR",
+      "official_video": {
+        "id": "H88kps8X4Mk",
+        "title": "ずっと真夜中でいいのに。『花一匁』MV (ZUTOMAYO – Hanaichi Monnme)",
+        "url": "https://www.youtube.com/watch?v=H88kps8X4Mk&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "花一匁",
+          "en": "Hanaichi Monnme",
+          "url": "https://music.apple.com/us/album/hanaichi-monnme/1688968525?i=1688968528&uo=4",
+          "track_id": 1688968528
+        },
+        {
+          "ja": "花一匁",
+          "en": "Hanaichi Monnme",
+          "url": "https://music.apple.com/us/album/hanaichi-monnme/1716608694?i=1716610034&uo=4",
+          "track_id": 1716610034
+        },
+        {
+          "ja": "花一匁",
+          "en": "Hanaichi Monnme",
+          "url": "https://music.apple.com/kr/album/hanaichi-monnme/1716608694?i=1716610034&uo=4",
+          "track_id": 1716610034
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Hanaichi Monnme",
+          "url": "https://music.apple.com/kr/album/hanaichi-monnme/1716608694?i=1716610034&uo=4",
+          "track_id": 1716610034
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/hanaichimonme",
+        "title_ja": "花一匁",
+        "title_en": "Hanaichi Monnme"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E8%8A%B1%E4%B8%80%E5%8C%81(%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.)",
+      "title_ko_source_excerpt": "花一匁하나이치몬메 | Hanaichi Monnme",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "fuhou-shinnyuu",
+      "no": 25,
+      "kind": "original",
+      "title_ja": "不法侵入",
+      "title_ko": "불법침입",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Intrusion",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [
+        "INTRUSION"
+      ],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/33/",
+        "https://zutomayo.net/release/31/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/29/",
+        "https://www.youtube.com/watch?v=SAdkxVFyAyc&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=SAdkxVFyAyc&hl=ko&gl=KR",
+      "official_video": {
+        "id": "SAdkxVFyAyc",
+        "title": "ずっと真夜中でいいのに。『不法侵入』MV (ZUTOMAYO – Intrusion)",
+        "url": "https://www.youtube.com/watch?v=SAdkxVFyAyc&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "不法侵入",
+          "en": "INTRUSION",
+          "url": "https://music.apple.com/us/album/intrusion/1686875512?i=1686875513&uo=4",
+          "track_id": 1686875513
+        },
+        {
+          "ja": "不法侵入",
+          "en": "INTRUSION",
+          "url": "https://music.apple.com/kr/album/intrusion/1686875512?i=1686875513&uo=4",
+          "track_id": 1686875513
+        },
+        {
+          "ja": "不法侵入",
+          "en": "Intrusion",
+          "url": "https://music.apple.com/us/album/intrusion/1688968525?i=1688968787&uo=4",
+          "track_id": 1688968787
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "INTRUSION",
+          "url": "https://music.apple.com/kr/album/intrusion/1686875512?i=1686875513&uo=4",
+          "track_id": 1686875513
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/fuhou-shinnyuu",
+        "title_ja": "不法侵入",
+        "title_en": "Intrusion"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E4%B8%8D%E6%B3%95%E4%BE%B5%E5%85%A5",
+      "title_ko_source_excerpt": "不法侵入불법침입 | Intrusion",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "kira-killer",
+      "no": 26,
+      "kind": "original",
+      "title_ja": "綺羅キラー",
+      "title_ko": "키라 킬러",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Kira Killer",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [
+        "Kira Killer (feat. Mori Calliope)"
+      ],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/33/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/29/",
+        "https://www.youtube.com/watch?v=e5LaKxJVeVI&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=e5LaKxJVeVI&hl=ko&gl=KR",
+      "official_video": {
+        "id": "e5LaKxJVeVI",
+        "title": "ずっと真夜中でいいのに。『綺羅キラー (feat. Mori Calliope)』MV (ZUTOMAYO – Kira Killer)",
+        "url": "https://www.youtube.com/watch?v=e5LaKxJVeVI&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "綺羅キラー (feat. Mori Calliope)",
+          "en": "Kira Killer (feat. Mori Calliope)",
+          "url": "https://music.apple.com/us/album/kira-killer-feat-mori-calliope/1657388363?i=1657388658&uo=4",
+          "track_id": 1657388658
+        },
+        {
+          "ja": "綺羅キラー (feat. Mori Calliope)",
+          "en": "Kira Killer (feat. Mori Calliope)",
+          "url": "https://music.apple.com/kr/album/kira-killer-feat-mori-calliope/1657388363?i=1657388658&uo=4",
+          "track_id": 1657388658
+        },
+        {
+          "ja": "綺羅キラー (feat. Mori Calliope)",
+          "en": "Kira Killer (feat. Mori Calliope)",
+          "url": "https://music.apple.com/us/album/kira-killer-feat-mori-calliope/1688968525?i=1688968536&uo=4",
+          "track_id": 1688968536
+        },
+        {
+          "ja": "綺羅キラー (feat. Mori Calliope)",
+          "en": "Kira Killer (feat. Mori Calliope)",
+          "url": "https://music.apple.com/us/album/kira-killer-feat-mori-calliope/1694794360?i=1694794583&uo=4",
+          "track_id": 1694794583
+        },
+        {
+          "ja": "綺羅キラー (feat. Mori Calliope)",
+          "en": "Kira Killer (feat. Mori Calliope)",
+          "url": "https://music.apple.com/us/album/kira-killer-feat-mori-calliope/1737877379?i=1737877620&uo=4",
+          "track_id": 1737877620
+        },
+        {
+          "ja": "綺羅キラー (feat. Mori Calliope)",
+          "en": "Kira Killer (feat. Mori Calliope)",
+          "url": "https://music.apple.com/kr/album/kira-killer-feat-mori-calliope/1737877379?i=1737877620&uo=4",
+          "track_id": 1737877620
+        },
+        {
+          "ja": "綺羅キラー (feat. Mori Calliope)",
+          "en": "Kira Killer (feat. Mori Calliope)",
+          "url": "https://music.apple.com/kr/album/kira-killer-feat-mori-calliope/1675148891?i=1675149069&uo=4",
+          "track_id": 1675149069
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Kira Killer (feat. Mori Calliope)",
+          "url": "https://music.apple.com/kr/album/kira-killer-feat-mori-calliope/1657388363?i=1657388658&uo=4",
+          "track_id": 1657388658
+        },
+        {
+          "title": "Kira Killer (feat. Mori Calliope)",
+          "url": "https://music.apple.com/kr/album/kira-killer-feat-mori-calliope/1737877379?i=1737877620&uo=4",
+          "track_id": 1737877620
+        },
+        {
+          "title": "Kira Killer (feat. Mori Calliope)",
+          "url": "https://music.apple.com/kr/album/kira-killer-feat-mori-calliope/1675148891?i=1675149069&uo=4",
+          "track_id": 1675149069
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/kira-killer",
+        "title_ja": "綺羅キラー",
+        "title_en": "Kira Killer"
+      },
+      "notes": [
+        "feat. Mori Calliope 표기는 피처링 크레딧으로 별도 보존"
+      ],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E7%B6%BA%E7%BE%85%E3%82%AD%E3%83%A9%E3%83%BC",
+      "title_ko_source_excerpt": "綺羅キラー키라 킬러 | Kira Killer",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "zanki",
+      "no": 27,
+      "kind": "original",
+      "title_ja": "残機",
+      "title_ko": "잔기",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Time Left",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/33/",
+        "https://zutomayo.net/release/32/",
+        "https://zutomayo.net/release/31/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/29/",
+        "https://www.youtube.com/watch?v=6OC92oxs4gA&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=6OC92oxs4gA&hl=ko&gl=KR",
+      "official_video": {
+        "id": "6OC92oxs4gA",
+        "title": "ずっと真夜中でいいのに。『残機』MV (ZUTOMAYO - Time Left)",
+        "url": "https://www.youtube.com/watch?v=6OC92oxs4gA&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "残機",
+          "en": "Time Left",
+          "url": "https://music.apple.com/us/album/time-left/1649264702?i=1649264715&uo=4",
+          "track_id": 1649264715
+        },
+        {
+          "ja": "残機",
+          "en": "Time Left",
+          "url": "https://music.apple.com/us/album/time-left/1688968525?i=1688968529&uo=4",
+          "track_id": 1688968529
+        },
+        {
+          "ja": "残機",
+          "en": "Time Left",
+          "url": "https://music.apple.com/us/album/time-left/1737877379?i=1737877516&uo=4",
+          "track_id": 1737877516
+        },
+        {
+          "ja": "残機",
+          "en": "Time Left",
+          "url": "https://music.apple.com/kr/album/time-left/1737877379?i=1737877516&uo=4",
+          "track_id": 1737877516
+        },
+        {
+          "ja": "残機",
+          "en": "Time Left",
+          "url": "https://music.apple.com/us/album/time-left/1697385931?i=1697387161&uo=4",
+          "track_id": 1697387161
+        },
+        {
+          "ja": "残機",
+          "en": "Time Left",
+          "url": "https://music.apple.com/us/album/time-left/1698745592?i=1698746331&uo=4",
+          "track_id": 1698746331
+        },
+        {
+          "ja": "残機",
+          "en": "Time Left",
+          "url": "https://music.apple.com/us/album/time-left/1701008400?i=1701009030&uo=4",
+          "track_id": 1701009030
+        },
+        {
+          "ja": "残機",
+          "en": "Time Left",
+          "url": "https://music.apple.com/kr/album/time-left/1701008400?i=1701009030&uo=4",
+          "track_id": 1701009030
+        },
+        {
+          "ja": "残機",
+          "en": "Time Left",
+          "url": "https://music.apple.com/us/album/time-left/6819335010?i=6819335467&uo=4",
+          "track_id": 6819335467
+        },
+        {
+          "ja": "残機",
+          "en": "Time Left",
+          "url": "https://music.apple.com/kr/album/time-left/6819335010?i=6819335467&uo=4",
+          "track_id": 6819335467
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "残機",
+          "url": "https://music.apple.com/kr/album/%E6%AE%8B%E6%A9%9F/1688968525?i=1688968529&uo=4",
+          "track_id": 1688968529
+        },
+        {
+          "title": "Time Left",
+          "url": "https://music.apple.com/kr/album/time-left/1737877379?i=1737877516&uo=4",
+          "track_id": 1737877516
+        },
+        {
+          "title": "Time Left",
+          "url": "https://music.apple.com/kr/album/time-left/1701008400?i=1701009030&uo=4",
+          "track_id": 1701009030
+        },
+        {
+          "title": "Time Left",
+          "url": "https://music.apple.com/kr/album/time-left/6819335010?i=6819335467&uo=4",
+          "track_id": 6819335467
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/zanki",
+        "title_ja": "残機",
+        "title_en": "Time Left"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E6%AE%8B%E6%A9%9F",
+      "title_ko_source_excerpt": "残機잔기 | Time Left",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "natsugare",
+      "no": 28,
+      "kind": "original",
+      "title_ja": "夏枯れ",
+      "title_ko": "여름철",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Summer Slack",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/33/",
+        "https://zutomayo.net/release/29/",
+        "https://zutomayo.net/release/28/",
+        "https://www.youtube.com/watch?v=Nmemc-b6cdU&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=Nmemc-b6cdU&hl=ko&gl=KR",
+      "official_video": {
+        "id": "Nmemc-b6cdU",
+        "title": "ずっと真夜中でいいのに。『夏枯れ』Special Movie (ZUTOMAYO - Summer Slack)",
+        "url": "https://www.youtube.com/watch?v=Nmemc-b6cdU&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "夏枯れ",
+          "en": "Summer Slack",
+          "url": "https://music.apple.com/us/album/summer-slack/1642916641?i=1642916642&uo=4",
+          "track_id": 1642916642
+        },
+        {
+          "ja": "夏枯れ",
+          "en": "Summer Slack",
+          "url": "https://music.apple.com/us/album/summer-slack/1688968525?i=1688968545&uo=4",
+          "track_id": 1688968545
+        },
+        {
+          "ja": "夏枯れ",
+          "en": "Summer Slack",
+          "url": "https://music.apple.com/kr/album/summer-slack/1763092838?i=1763093070&uo=4",
+          "track_id": 1763093070
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "夏枯れ",
+          "url": "https://music.apple.com/kr/album/%E5%A4%8F%E6%9E%AF%E3%82%8C/1688968525?i=1688968545&uo=4",
+          "track_id": 1688968545
+        },
+        {
+          "title": "Summer Slack",
+          "url": "https://music.apple.com/kr/album/summer-slack/1763092838?i=1763093070&uo=4",
+          "track_id": 1763093070
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/natsugare",
+        "title_ja": "夏枯れ",
+        "title_en": "Summer Slack"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E5%A4%8F%E6%9E%AF%E3%82%8C",
+      "title_ko_source_excerpt": "夏枯れ여름철 | Summer Slack",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "kiete-shimaisou-desu",
+      "no": 29,
+      "kind": "original",
+      "title_ja": "消えてしまいそうです",
+      "title_ko": "사라져 버릴 것 같아요",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Blush",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/33/",
+        "https://zutomayo.net/release/32/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/29/",
+        "https://zutomayo.net/release/28/",
+        "https://www.youtube.com/watch?v=OxcnK1s2Fww&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=OxcnK1s2Fww&hl=ko&gl=KR",
+      "official_video": {
+        "id": "OxcnK1s2Fww",
+        "title": "ずっと真夜中でいいのに。『消えてしまいそうです』MV  (ZUTOMAYO - Blush)",
+        "url": "https://www.youtube.com/watch?v=OxcnK1s2Fww&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "消えてしまいそうです",
+          "en": "Blush",
+          "url": "https://music.apple.com/us/album/blush/1641695834?i=1641695835&uo=4",
+          "track_id": 1641695835
+        },
+        {
+          "ja": "消えてしまいそうです",
+          "en": "Blush",
+          "url": "https://music.apple.com/kr/album/blush/1641695834?i=1641695835&uo=4",
+          "track_id": 1641695835
+        },
+        {
+          "ja": "消えてしまいそうです",
+          "en": "Blush",
+          "url": "https://music.apple.com/kr/album/blush/1764572716?i=1764573391&uo=4",
+          "track_id": 1764573391
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Blush",
+          "url": "https://music.apple.com/kr/album/blush/1641695834?i=1641695835&uo=4",
+          "track_id": 1641695835
+        },
+        {
+          "title": "消えてしまいそうです",
+          "url": "https://music.apple.com/kr/album/%E6%B6%88%E3%81%88%E3%81%A6%E3%81%97%E3%81%BE%E3%81%84%E3%81%9D%E3%81%86%E3%81%A7%E3%81%99/1688968525?i=1688968789&uo=4",
+          "track_id": 1688968789
+        },
+        {
+          "title": "Blush",
+          "url": "https://music.apple.com/kr/album/blush/1764572716?i=1764573391&uo=4",
+          "track_id": 1764573391
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/kiete-shimaisou-desu",
+        "title_ja": "消えてしまいそうです",
+        "title_en": "Blush"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E6%B6%88%E3%81%88%E3%81%A6%E3%81%97%E3%81%BE%E3%81%84%E3%81%9D%E3%81%86%E3%81%A7%E3%81%99",
+      "title_ko_source_excerpt": "消えてしまいそうです사라져 버릴 것 같아요 | Blush",
+      "title_ko_aliases": [
+        {
+          "title": "사라져버릴 것 같아요",
+          "source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+          "source_excerpt": "消えてしまいそうです\n사라져버릴 것 같아요 | Blush"
+        }
+      ],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "mirror-tune",
+      "no": 30,
+      "kind": "original",
+      "title_ja": "ミラーチューン",
+      "title_ko": "미러 튠",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "MIRROR TUNE",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [
+        "Mirror Tune"
+      ],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/33/",
+        "https://zutomayo.net/release/32/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/29/",
+        "https://zutomayo.net/release/27/",
+        "https://www.youtube.com/watch?v=BVvvUGP0MFw&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=BVvvUGP0MFw&hl=ko&gl=KR",
+      "official_video": {
+        "id": "BVvvUGP0MFw",
+        "title": "ずっと真夜中でいいのに。『ミラーチューン』MV (ZUTOMAYO - MIRROR TUNE)",
+        "url": "https://www.youtube.com/watch?v=BVvvUGP0MFw&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "ミラーチューン",
+          "en": "Mirror Tune",
+          "url": "https://music.apple.com/us/album/mirror-tune/1616088538?i=1616088939&uo=4",
+          "track_id": 1616088939
+        },
+        {
+          "ja": "ミラーチューン",
+          "en": "Mirror Tune",
+          "url": "https://music.apple.com/kr/album/mirror-tune/1616088538?i=1616088939&uo=4",
+          "track_id": 1616088939
+        },
+        {
+          "ja": "ミラーチューン",
+          "en": "MIRROR TUNE",
+          "url": "https://music.apple.com/us/album/mirror-tune/1688968525?i=1688968790&uo=4",
+          "track_id": 1688968790
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Mirror Tune",
+          "url": "https://music.apple.com/kr/album/mirror-tune/1616088538?i=1616088939&uo=4",
+          "track_id": 1616088939
+        },
+        {
+          "title": "ミラーチューン",
+          "url": "https://music.apple.com/kr/album/%E3%83%9F%E3%83%A9%E3%83%BC%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3/1688968525?i=1688968790&uo=4",
+          "track_id": 1688968790
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/mirror-tune",
+        "title_ja": "ミラーチューン",
+        "title_en": "MIRROR TUNE"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E3%83%9F%E3%83%A9%E3%83%BC%E3%83%81%E3%83%A5%E3%83%BC%E3%83%B3",
+      "title_ko_source_excerpt": "ミラーチューン미러 튠 | Mirror Tune",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "yonaka-no-kisumi",
+      "no": 31,
+      "kind": "original",
+      "title_ja": "夜中のキスミ",
+      "title_ko": "한밤중의 키스미",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Kisumi at Midnight",
+      "title_en_type": "official_latin_or_romanized",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/29/",
+        "https://zutomayo.net/release/27/",
+        "https://zutomayo.net/release/26/",
+        "https://www.youtube.com/watch?v=zruIvqmwSIs&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=zruIvqmwSIs&hl=ko&gl=KR",
+      "official_video": {
+        "id": "zruIvqmwSIs",
+        "title": "ずっと真夜中でいいのに。『夜中のキスミ』 (ZUTOMAYO - Kisumi at Midnight)（Audio Track）",
+        "url": "https://www.youtube.com/watch?v=zruIvqmwSIs&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "夜中のキスミ",
+          "en": "Kisumi at Midnight",
+          "url": "https://music.apple.com/us/album/kisumi-at-midnight/1607082967?i=1607082994&uo=4",
+          "track_id": 1607082994
+        },
+        {
+          "ja": "夜中のキスミ",
+          "en": "Kisumi at Midnight",
+          "url": "https://music.apple.com/kr/album/kisumi-at-midnight/1607082967?i=1607082994&uo=4",
+          "track_id": 1607082994
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Kisumi at Midnight",
+          "url": "https://music.apple.com/kr/album/kisumi-at-midnight/1607082967?i=1607082994&uo=4",
+          "track_id": 1607082994
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/yonaka-no-kisumi",
+        "title_ja": "夜中のキスミ",
+        "title_en": "Kisumi at Midnight"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "夜中のキスミ\n한밤중의 키스미 | Kisumi at Midnight",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "chigau-kyoku-ni-shiyouyo",
+      "no": 32,
+      "kind": "original",
+      "title_ja": "違う曲にしようよ",
+      "title_ko": "다른 노래로 하자",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Flow Different",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/27/",
+        "https://zutomayo.net/release/26/",
+        "https://www.youtube.com/watch?v=YCn_pu5E1kI&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=YCn_pu5E1kI&hl=ko&gl=KR",
+      "official_video": {
+        "id": "YCn_pu5E1kI",
+        "title": "ずっと真夜中でいいのに。『違う曲にしようよ』 (ZUTOMAYO - Flow Different)（Audio Track）",
+        "url": "https://www.youtube.com/watch?v=YCn_pu5E1kI&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "違う曲にしようよ",
+          "en": "Flow Different",
+          "url": "https://music.apple.com/us/album/flow-different/1607082967?i=1607082972&uo=4",
+          "track_id": 1607082972
+        }
+      ],
+      "korea_storefront_titles": [],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/chigau-kyoku-ni-shiyouyo",
+        "title_ja": "違う曲にしようよ",
+        "title_en": "Flow Different"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E9%81%95%E3%81%86%E6%9B%B2%E3%81%AB%E3%81%97%E3%82%88%E3%81%86%E3%82%88",
+      "title_ko_source_excerpt": "違う曲にしようよ다른 노래로 하자 | Flow Different",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "sode-no-quilt",
+      "no": 33,
+      "kind": "original",
+      "title_ja": "袖のキルト",
+      "title_ko": "소매의 퀼트",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "QUILT",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/33/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/29/",
+        "https://zutomayo.net/release/27/",
+        "https://zutomayo.net/release/26/",
+        "https://www.youtube.com/watch?v=9PnCSI8ndws&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=9PnCSI8ndws&hl=ko&gl=KR",
+      "official_video": {
+        "id": "9PnCSI8ndws",
+        "title": "ずっと真夜中でいいのに。『袖のキルト』MV (ZUTOMAYO - QUILT)",
+        "url": "https://www.youtube.com/watch?v=9PnCSI8ndws&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "袖のキルト",
+          "en": "QUILT",
+          "url": "https://music.apple.com/us/album/quilt/1607082967?i=1607082981&uo=4",
+          "track_id": 1607082981
+        },
+        {
+          "ja": "袖のキルト",
+          "en": "QUILT",
+          "url": "https://music.apple.com/kr/album/quilt/1607082967?i=1607082981&uo=4",
+          "track_id": 1607082981
+        },
+        {
+          "ja": "袖のキルト",
+          "en": "QUILT",
+          "url": "https://music.apple.com/us/album/quilt/1688968525?i=1688968786&uo=4",
+          "track_id": 1688968786
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "QUILT",
+          "url": "https://music.apple.com/kr/album/quilt/1607082967?i=1607082981&uo=4",
+          "track_id": 1607082981
+        },
+        {
+          "title": "袖のキルト",
+          "url": "https://music.apple.com/kr/album/%E8%A2%96%E3%81%AE%E3%82%AD%E3%83%AB%E3%83%88/1688968525?i=1688968786&uo=4",
+          "track_id": 1688968786
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/sode-no-quilt",
+        "title_ja": "袖のキルト",
+        "title_en": "QUILT"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E8%A2%96%E3%81%AE%E3%82%AD%E3%83%AB%E3%83%88",
+      "title_ko_source_excerpt": "袖のキルト소매의 퀼트 | QUILT",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "neko-reset",
+      "no": 34,
+      "kind": "original",
+      "title_ja": "猫リセット",
+      "title_ko": "고양이 리셋",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Neko Reset",
+      "title_en_type": "official_latin_or_romanized",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/33/",
+        "https://zutomayo.net/release/29/",
+        "https://zutomayo.net/release/26/",
+        "https://www.youtube.com/watch?v=Sfz5TpCRSiI&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=Sfz5TpCRSiI&hl=ko&gl=KR",
+      "official_video": {
+        "id": "Sfz5TpCRSiI",
+        "title": "ずっと真夜中でいいのに。『猫リセット』MV (ZUTOMAYO – Neko Reset)",
+        "url": "https://www.youtube.com/watch?v=Sfz5TpCRSiI&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "猫リセット",
+          "en": "Neko Reset",
+          "url": "https://music.apple.com/kr/album/neko-reset/1596281552?i=1596281571&uo=4",
+          "track_id": 1596281571
+        },
+        {
+          "ja": "猫リセット",
+          "en": "Neko Reset",
+          "url": "https://music.apple.com/us/album/neko-reset/1607082967?i=1607082990&uo=4",
+          "track_id": 1607082990
+        },
+        {
+          "ja": "猫リセット",
+          "en": "Neko Reset",
+          "url": "https://music.apple.com/us/album/neko-reset/1688968525?i=1688968530&uo=4",
+          "track_id": 1688968530
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Neko Reset",
+          "url": "https://music.apple.com/kr/album/neko-reset/1596281552?i=1596281571&uo=4",
+          "track_id": 1596281571
+        },
+        {
+          "title": "猫リセット",
+          "url": "https://music.apple.com/kr/album/%E7%8C%AB%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88/1688968525?i=1688968530&uo=4",
+          "track_id": 1688968530
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/neko-reset",
+        "title_ja": "猫リセット",
+        "title_en": "Neko Reset"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E7%8C%AB%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88",
+      "title_ko_source_excerpt": "猫リセット고양이 리셋 | Neko Reset",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "baka-janai-noni",
+      "no": 35,
+      "kind": "original",
+      "title_ja": "ばかじゃないのに",
+      "title_ko": "바보가 아닌데도",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Stay Foolish",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/33/",
+        "https://zutomayo.net/release/32/",
+        "https://zutomayo.net/release/29/",
+        "https://zutomayo.net/release/27/",
+        "https://zutomayo.net/release/26/",
+        "https://www.youtube.com/watch?v=YgmFIVOR1-I&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=YgmFIVOR1-I&hl=ko&gl=KR",
+      "official_video": {
+        "id": "YgmFIVOR1-I",
+        "title": "ずっと真夜中でいいのに。『ばかじゃないのに』MV (ZUTOMAYO - Stay Foolish)",
+        "url": "https://www.youtube.com/watch?v=YgmFIVOR1-I&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "ばかじゃないのに",
+          "en": "Stay Foolish",
+          "url": "https://music.apple.com/kr/album/stay-foolish/1607082967?i=1607083420&uo=4",
+          "track_id": 1607083420
+        },
+        {
+          "ja": "ばかじゃないのに",
+          "en": "Stay Foolish",
+          "url": "https://music.apple.com/kr/album/stay-foolish/1694361691?i=1694362223&uo=4",
+          "track_id": 1694362223
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Stay Foolish",
+          "url": "https://music.apple.com/kr/album/stay-foolish/1607082967?i=1607083420&uo=4",
+          "track_id": 1607083420
+        },
+        {
+          "title": "Stay Foolish",
+          "url": "https://music.apple.com/kr/album/stay-foolish/1694361691?i=1694362223&uo=4",
+          "track_id": 1694362223
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/baka-janai-noni",
+        "title_ja": "ばかじゃないのに",
+        "title_en": "Stay Foolish"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E3%81%B0%E3%81%8B%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%AE%E3%81%AB",
+      "title_ko_source_excerpt": "ばかじゃないのに바보가 아닌데도 | Stay Foolish",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "aitsura-zenin-dousoukai",
+      "no": 36,
+      "kind": "original",
+      "title_ja": "あいつら全員同窓会",
+      "title_ko": "저 녀석들 전원 동창회",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Inside Joke",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/33/",
+        "https://zutomayo.net/release/32/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/29/",
+        "https://zutomayo.net/release/27/",
+        "https://zutomayo.net/release/25/",
+        "https://zutomayo.net/release/26/",
+        "https://www.youtube.com/watch?v=ZUwaudw8ht0&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=ZUwaudw8ht0&hl=ko&gl=KR",
+      "official_video": {
+        "id": "ZUwaudw8ht0",
+        "title": "ずっと真夜中でいいのに。『あいつら全員同窓会』MV (ZUTOMAYO - Inside Joke)",
+        "url": "https://www.youtube.com/watch?v=ZUwaudw8ht0&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "あいつら全員同窓会",
+          "en": "Inside Joke",
+          "url": "https://music.apple.com/us/album/inside-joke/1570795386?i=1570795403&uo=4",
+          "track_id": 1570795403
+        },
+        {
+          "ja": "あいつら全員同窓会",
+          "en": "Inside Joke",
+          "url": "https://music.apple.com/kr/album/inside-joke/1570795386?i=1570795403&uo=4",
+          "track_id": 1570795403
+        },
+        {
+          "ja": "あいつら全員同窓会",
+          "en": "Inside Joke",
+          "url": "https://music.apple.com/us/album/inside-joke/1607082967?i=1607082986&uo=4",
+          "track_id": 1607082986
+        },
+        {
+          "ja": "あいつら全員同窓会",
+          "en": "Inside Joke",
+          "url": "https://music.apple.com/us/album/inside-joke/1612150568?i=1612150981&uo=4",
+          "track_id": 1612150981
+        },
+        {
+          "ja": "あいつら全員同窓会",
+          "en": "Inside Joke",
+          "url": "https://music.apple.com/kr/album/inside-joke/1612150568?i=1612150981&uo=4",
+          "track_id": 1612150981
+        },
+        {
+          "ja": "あいつら全員同窓会",
+          "en": "Inside Joke",
+          "url": "https://music.apple.com/us/album/inside-joke/1638977725?i=1638977744&uo=4",
+          "track_id": 1638977744
+        },
+        {
+          "ja": "あいつら全員同窓会",
+          "en": "Inside Joke",
+          "url": "https://music.apple.com/kr/album/inside-joke/1638977725?i=1638977744&uo=4",
+          "track_id": 1638977744
+        },
+        {
+          "ja": "あいつら全員同窓会",
+          "en": "Inside Joke",
+          "url": "https://music.apple.com/us/album/inside-joke/1701008400?i=1701008405&uo=4",
+          "track_id": 1701008405
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Inside Joke",
+          "url": "https://music.apple.com/kr/album/inside-joke/1570795386?i=1570795403&uo=4",
+          "track_id": 1570795403
+        },
+        {
+          "title": "あいつら全員同窓会",
+          "url": "https://music.apple.com/kr/album/%E3%81%82%E3%81%84%E3%81%A4%E3%82%89%E5%85%A8%E5%93%A1%E5%90%8C%E7%AA%93%E4%BC%9A/1688968525?i=1688968541&uo=4",
+          "track_id": 1688968541
+        },
+        {
+          "title": "Inside Joke",
+          "url": "https://music.apple.com/kr/album/inside-joke/1612150568?i=1612150981&uo=4",
+          "track_id": 1612150981
+        },
+        {
+          "title": "Inside Joke",
+          "url": "https://music.apple.com/kr/album/inside-joke/1638977725?i=1638977744&uo=4",
+          "track_id": 1638977744
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/aitsura-zenin-dousoukai",
+        "title_ja": "あいつら全員同窓会",
+        "title_en": "Inside Joke"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E3%81%82%E3%81%84%E3%81%A4%E3%82%89%E5%85%A8%E5%93%A1%E5%90%8C%E7%AA%93%E4%BC%9A",
+      "title_ko_source_excerpt": "あいつら全員同窓会저 녀석들 전원 동창회 | Inside Joke",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "kikai-abura",
+      "no": 37,
+      "kind": "original",
+      "title_ja": "機械油",
+      "title_ko": "기계유",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Engine Oil",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/34/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/27/",
+        "https://zutomayo.net/release/25/",
+        "https://zutomayo.net/release/16/",
+        "https://www.youtube.com/watch?v=_JdiIp92rYk&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=_JdiIp92rYk&hl=ko&gl=KR",
+      "official_video": {
+        "id": "_JdiIp92rYk",
+        "title": "ずっと真夜中でいいのに。『機械油』 (ZUTOMAYO - Engine Oil)（Audio Track）",
+        "url": "https://www.youtube.com/watch?v=_JdiIp92rYk&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "機械油",
+          "en": "Engine Oil",
+          "url": "https://music.apple.com/us/album/engine-oil/1548835870?i=1548835894&uo=4",
+          "track_id": 1548835894
+        },
+        {
+          "ja": "機械油",
+          "en": "Engine Oil",
+          "url": "https://music.apple.com/kr/album/engine-oil/1548835870?i=1548835894&uo=4",
+          "track_id": 1548835894
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Engine Oil",
+          "url": "https://music.apple.com/kr/album/engine-oil/1548835870?i=1548835894&uo=4",
+          "track_id": 1548835894
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/kikai-abura",
+        "title_ja": "機械油",
+        "title_en": "Engine Oil"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "機械油\n기계유 | Engine Oil",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "loneliness",
+      "no": 38,
+      "kind": "original",
+      "title_ja": "ろんりねす",
+      "title_ko": "론리네스",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Loneliness",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/34/",
+        "https://zutomayo.net/release/25/",
+        "https://zutomayo.net/release/26/",
+        "https://zutomayo.net/release/16/",
+        "https://www.youtube.com/watch?v=h5CpUsC3Xi8&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=h5CpUsC3Xi8&hl=ko&gl=KR",
+      "official_video": {
+        "id": "h5CpUsC3Xi8",
+        "title": "ずっと真夜中でいいのに。『ろんりねす』 (ZUTOMAYO - Loneliness)（Audio Track）",
+        "url": "https://www.youtube.com/watch?v=h5CpUsC3Xi8&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "ろんりねす",
+          "en": "Loneliness",
+          "url": "https://music.apple.com/us/album/loneliness/1548835870?i=1548835934&uo=4",
+          "track_id": 1548835934
+        },
+        {
+          "ja": "ろんりねす",
+          "en": "Loneliness",
+          "url": "https://music.apple.com/kr/album/loneliness/1548835870?i=1548835934&uo=4",
+          "track_id": 1548835934
+        },
+        {
+          "ja": "ろんりねす",
+          "en": "Loneliness",
+          "url": "https://music.apple.com/us/album/loneliness/1638977725?i=1638977909&uo=4",
+          "track_id": 1638977909
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Loneliness",
+          "url": "https://music.apple.com/kr/album/loneliness/1548835870?i=1548835934&uo=4",
+          "track_id": 1548835934
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/loneliness",
+        "title_ja": "ろんりねす",
+        "title_en": "Loneliness"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "るんりねす\n론리네스 | loneliness",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "kurikaesu-shuukaku",
+      "no": 39,
+      "kind": "original",
+      "title_ja": "繰り返す収穫",
+      "title_ko": "반복되는 수확",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Crop",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/34/",
+        "https://zutomayo.net/release/32/",
+        "https://zutomayo.net/release/25/",
+        "https://zutomayo.net/release/16/",
+        "https://www.youtube.com/watch?v=AIB36neGqt4&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=AIB36neGqt4&hl=ko&gl=KR",
+      "official_video": {
+        "id": "AIB36neGqt4",
+        "title": "ずっと真夜中でいいのに。『繰り返す収穫』 (ZUTOMAYO - Crop)（Audio Track）",
+        "url": "https://www.youtube.com/watch?v=AIB36neGqt4&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "繰り返す収穫",
+          "en": "Crop",
+          "url": "https://music.apple.com/us/album/crop/1548835870?i=1548835937&uo=4",
+          "track_id": 1548835937
+        },
+        {
+          "ja": "繰り返す収穫",
+          "en": "Crop",
+          "url": "https://music.apple.com/kr/album/crop/1548835870?i=1548835937&uo=4",
+          "track_id": 1548835937
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Crop",
+          "url": "https://music.apple.com/kr/album/crop/1548835870?i=1548835937&uo=4",
+          "track_id": 1548835937
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/kurikaesu-shuukaku",
+        "title_ja": "繰り返す収穫",
+        "title_en": "Crop"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "繰り返す収穫\n반복되는 수확 | Crop",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "mune-no-kemuri",
+      "no": 40,
+      "kind": "original",
+      "title_ja": "胸の煙",
+      "title_ko": "마음의 연기",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "One's Mind",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/34/",
+        "https://zutomayo.net/release/32/",
+        "https://zutomayo.net/release/29/",
+        "https://zutomayo.net/release/25/",
+        "https://zutomayo.net/release/16/",
+        "https://www.youtube.com/watch?v=wQPgM-9LatM&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=wQPgM-9LatM&hl=ko&gl=KR",
+      "official_video": {
+        "id": "wQPgM-9LatM",
+        "title": "ずっと真夜中でいいのに。『胸の煙』MV（ZUTOMAYO – One's Mind)",
+        "url": "https://www.youtube.com/watch?v=wQPgM-9LatM&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "胸の煙",
+          "en": "One's Mind",
+          "url": "https://music.apple.com/us/album/ones-mind/1548835870?i=1548835885&uo=4",
+          "track_id": 1548835885
+        },
+        {
+          "ja": "胸の煙",
+          "en": "One's Mind",
+          "url": "https://music.apple.com/kr/album/ones-mind/1548835870?i=1548835885&uo=4",
+          "track_id": 1548835885
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "One's Mind",
+          "url": "https://music.apple.com/kr/album/ones-mind/1548835870?i=1548835885&uo=4",
+          "track_id": 1548835885
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/mune-no-kemuri",
+        "title_ja": "胸の煙",
+        "title_en": "One's Mind"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E8%83%B8%E3%81%AE%E7%85%99",
+      "title_ko_source_excerpt": "胸の煙마음의 연기 | One’s mind",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "hava",
+      "no": 41,
+      "kind": "original",
+      "title_ja": "はゔぁ",
+      "title_ko": "해브 어",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Have A",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/32/",
+        "https://zutomayo.net/release/25/",
+        "https://zutomayo.net/release/16/",
+        "https://www.youtube.com/watch?v=Ws4OaBFAa_s&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=Ws4OaBFAa_s&hl=ko&gl=KR",
+      "official_video": {
+        "id": "Ws4OaBFAa_s",
+        "title": "ずっと真夜中でいいのに。『はゔぁ』 (ZUTOMAYO - Have A)（Audio Track）",
+        "url": "https://www.youtube.com/watch?v=Ws4OaBFAa_s&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "はゔぁ",
+          "en": "Have A",
+          "url": "https://music.apple.com/us/album/have-a/1548835870?i=1548835891&uo=4",
+          "track_id": 1548835891
+        },
+        {
+          "ja": "はゔぁ",
+          "en": "Have A",
+          "url": "https://music.apple.com/kr/album/have-a/1548835870?i=1548835891&uo=4",
+          "track_id": 1548835891
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Have A",
+          "url": "https://music.apple.com/kr/album/have-a/1548835870?i=1548835891&uo=4",
+          "track_id": 1548835891
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/hava",
+        "title_ja": "はゔぁ",
+        "title_en": "Have A"
+      },
+      "notes": [
+        "일부 공식 재발매 페이지의 はヴぁ 표기도 존재; 원발매 및 공식 Audio Track의 はゔぁ를 기준으로 사용"
+      ],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "はゔぁ\n해브 어 | Have a",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "okusoko-ni-nemuru-roots",
+      "no": 42,
+      "kind": "original",
+      "title_ja": "奥底に眠るルーツ",
+      "title_ko": "깊이 잠든 뿌리",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Inner Heart",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/34/",
+        "https://zutomayo.net/release/25/",
+        "https://zutomayo.net/release/16/",
+        "https://www.youtube.com/watch?v=o7jp25p-ZWU&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=o7jp25p-ZWU&hl=ko&gl=KR",
+      "official_video": {
+        "id": "o7jp25p-ZWU",
+        "title": "ずっと真夜中でいいのに。『奥底に眠るルーツ』 (ZUTOMAYO - Inner Heart)（Audio Track）",
+        "url": "https://www.youtube.com/watch?v=o7jp25p-ZWU&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "奥底に眠るルーツ",
+          "en": "Inner Heart",
+          "url": "https://music.apple.com/us/album/inner-heart/1548835870?i=1548835940&uo=4",
+          "track_id": 1548835940
+        }
+      ],
+      "korea_storefront_titles": [],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/okusoko-ni-nemuru-roots",
+        "title_ja": "奥底に眠るルーツ",
+        "title_en": "Inner Heart"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "奥底に眠るルーツ\n깊이 잠든 뿌리 | Inner Heart",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "kamin",
+      "no": 43,
+      "kind": "original",
+      "title_ja": "過眠",
+      "title_ko": "과면",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Hypersomnia",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/34/",
+        "https://zutomayo.net/release/29/",
+        "https://zutomayo.net/release/25/",
+        "https://zutomayo.net/release/16/",
+        "https://www.youtube.com/watch?v=4tDBohUTYAk&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=4tDBohUTYAk&hl=ko&gl=KR",
+      "official_video": {
+        "id": "4tDBohUTYAk",
+        "title": "ずっと真夜中でいいのに。『過眠』 (ZUTOMAYO - Hypersomnia)（Audio Track）",
+        "url": "https://www.youtube.com/watch?v=4tDBohUTYAk&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "過眠",
+          "en": "Hypersomnia",
+          "url": "https://music.apple.com/us/album/hypersomnia/1548835870?i=1548835938&uo=4",
+          "track_id": 1548835938
+        },
+        {
+          "ja": "過眠",
+          "en": "Hypersomnia",
+          "url": "https://music.apple.com/kr/album/hypersomnia/1548835870?i=1548835938&uo=4",
+          "track_id": 1548835938
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Hypersomnia",
+          "url": "https://music.apple.com/kr/album/hypersomnia/1548835870?i=1548835938&uo=4",
+          "track_id": 1548835938
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/kamin",
+        "title_ja": "過眠",
+        "title_en": "Hypersomnia"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E9%81%8E%E7%9C%A0",
+      "title_ko_source_excerpt": "過眠과면 | Hypersomnia",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "tadashiku-narenai",
+      "no": 44,
+      "kind": "original",
+      "title_ja": "正しくなれない",
+      "title_ko": "올바르게 될 수 없어",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Can’t Be Right",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [
+        "Can't Be Right"
+      ],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/34/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/27/",
+        "https://zutomayo.net/release/25/",
+        "https://zutomayo.net/release/16/",
+        "https://www.youtube.com/watch?v=258qUAI7rck&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=258qUAI7rck&hl=ko&gl=KR",
+      "official_video": {
+        "id": "258qUAI7rck",
+        "title": "ずっと真夜中でいいのに。『正しくなれない』MV（ZUTOMAYO – Can’t Be Right）",
+        "url": "https://www.youtube.com/watch?v=258qUAI7rck&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "正しくなれない",
+          "en": "Can't Be Right",
+          "url": "https://music.apple.com/us/album/cant-be-right/1543162290?i=1543162548&uo=4",
+          "track_id": 1543162548
+        },
+        {
+          "ja": "正しくなれない",
+          "en": "Can't Be Right",
+          "url": "https://music.apple.com/us/album/cant-be-right/1548835870?i=1548835887&uo=4",
+          "track_id": 1548835887
+        },
+        {
+          "ja": "正しくなれない",
+          "en": "Can't Be Right",
+          "url": "https://music.apple.com/us/album/cant-be-right/1644986401?i=1644986758&uo=4",
+          "track_id": 1644986758
+        }
+      ],
+      "korea_storefront_titles": [],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/tadashiku-narenai",
+        "title_ja": "正しくなれない",
+        "title_en": "Can't Be Right"
+      },
+      "notes": [
+        "DB 영문 표기 Can't Be Right; 공식 기준 Can’t Be Right"
+      ],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E6%AD%A3%E3%81%97%E3%81%8F%E3%81%AA%E3%82%8C%E3%81%AA%E3%81%84",
+      "title_ko_source_excerpt": "正しくなれない올바르게 될 수 없어 | Can't Be Right",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "kangurei",
+      "no": 45,
+      "kind": "original",
+      "title_ja": "勘ぐれい",
+      "title_ko": "감 그레이",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Hunch Gray",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/34/",
+        "https://zutomayo.net/release/32/",
+        "https://zutomayo.net/release/29/",
+        "https://zutomayo.net/release/25/",
+        "https://zutomayo.net/release/16/",
+        "https://www.youtube.com/watch?v=ugpywe34_30&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=ugpywe34_30&hl=ko&gl=KR",
+      "official_video": {
+        "id": "ugpywe34_30",
+        "title": "ずっと真夜中でいいのに。『勘ぐれい』MV（ZUTOMAYO – Hunch Gray）",
+        "url": "https://www.youtube.com/watch?v=ugpywe34_30&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "勘ぐれい",
+          "en": "Hunch Gray",
+          "url": "https://music.apple.com/kr/album/hunch-gray/1540258076?i=1540258079&uo=4",
+          "track_id": 1540258079
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Hunch Gray",
+          "url": "https://music.apple.com/kr/album/hunch-gray/1540258076?i=1540258079&uo=4",
+          "track_id": 1540258079
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/kangurei",
+        "title_ja": "勘ぐれい",
+        "title_en": "Hunch Gray"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E5%8B%98%E3%81%90%E3%82%8C%E3%81%84",
+      "title_ko_source_excerpt": "勘ぐれい감 그레이 | Hunch Gray",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "kuraku-kuroku",
+      "no": 46,
+      "kind": "original",
+      "title_ja": "暗く黒く",
+      "title_ko": "어둡게 검게",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "DARKEN",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [
+        "Darken"
+      ],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/34/",
+        "https://zutomayo.net/release/32/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/29/",
+        "https://zutomayo.net/release/27/",
+        "https://zutomayo.net/release/25/",
+        "https://zutomayo.net/release/16/",
+        "https://www.youtube.com/watch?v=dcOwj-QE_ZE&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=dcOwj-QE_ZE&hl=ko&gl=KR",
+      "official_video": {
+        "id": "dcOwj-QE_ZE",
+        "title": "ずっと真夜中でいいのに。『暗く黒く』MV（ZUTOMAYO – DARKEN）",
+        "url": "https://www.youtube.com/watch?v=dcOwj-QE_ZE&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "暗く黒く",
+          "en": "Darken",
+          "url": "https://music.apple.com/us/album/darken/1548835870?i=1548835927&uo=4",
+          "track_id": 1548835927
+        },
+        {
+          "ja": "暗く黒く",
+          "en": "Darken",
+          "url": "https://music.apple.com/us/album/darken/1559621557?i=1559623140&uo=4",
+          "track_id": 1559623140
+        }
+      ],
+      "korea_storefront_titles": [],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/kuraku-kuroku",
+        "title_ja": "暗く黒く",
+        "title_en": "Darken"
+      },
+      "notes": [
+        "DB 영문 표기 Darken; 공식 기준 DARKEN"
+      ],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E6%9A%97%E3%81%8F%E9%BB%92%E3%81%8F",
+      "title_ko_source_excerpt": "暗く黒く어둡게 검게 | Darken",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "ham",
+      "no": 47,
+      "kind": "original",
+      "title_ja": "Ham",
+      "title_ko": "Ham",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Ham",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/31/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/27/",
+        "https://zutomayo.net/release/25/",
+        "https://zutomayo.net/release/11/",
+        "https://zutomayo.net/release/16/",
+        "https://www.youtube.com/watch?v=ouLndhBRL4w&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=ouLndhBRL4w&hl=ko&gl=KR",
+      "official_video": {
+        "id": "ouLndhBRL4w",
+        "title": "ずっと真夜中でいいのに。『Ham』MV (ZUTOMAYO  – Ham)",
+        "url": "https://www.youtube.com/watch?v=ouLndhBRL4w&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "Ham",
+          "en": "Ham",
+          "url": "https://music.apple.com/us/album/ham/1522244018?i=1522244022&uo=4",
+          "track_id": 1522244022
+        },
+        {
+          "ja": "Ham",
+          "en": "Ham",
+          "url": "https://music.apple.com/kr/album/ham/1522244018?i=1522244022&uo=4",
+          "track_id": 1522244022
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Ham",
+          "url": "https://music.apple.com/kr/album/ham/1522244018?i=1522244022&uo=4",
+          "track_id": 1522244022
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/ham",
+        "title_ja": "Ham",
+        "title_en": "Ham"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "Ham",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "jk-bomber",
+      "no": 48,
+      "kind": "original",
+      "title_ja": "JK BOMBER",
+      "title_ko": "JK BOMBER",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "JK BOMBER",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/32/",
+        "https://zutomayo.net/release/27/",
+        "https://zutomayo.net/release/25/",
+        "https://zutomayo.net/release/11/",
+        "https://www.youtube.com/watch?v=g3N3czs2U9s&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=g3N3czs2U9s&hl=ko&gl=KR",
+      "official_video": {
+        "id": "g3N3czs2U9s",
+        "title": "ずっと真夜中でいいのに。『JK BOMBER』 (ZUTOMAYO - JK BOMBER)（Audio Track）",
+        "url": "https://www.youtube.com/watch?v=g3N3czs2U9s&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [],
+      "korea_storefront_titles": [],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/jk-bomber",
+        "title_ja": "JK BOMBER",
+        "title_en": "JK Bomber"
+      },
+      "notes": [
+        "DB 영문 표기 JK Bomber; 공식 기준 JK BOMBER"
+      ],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "JK BOMBER",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "marine-blue-no-teien",
+      "no": 49,
+      "kind": "original",
+      "title_ja": "マリンブルーの庭園",
+      "title_ko": "마린블루의 정원",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Marine Blue Garden",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/31/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/25/",
+        "https://zutomayo.net/release/26/",
+        "https://zutomayo.net/release/11/",
+        "https://www.youtube.com/watch?v=CBJ8Fre_SRk&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=CBJ8Fre_SRk&hl=ko&gl=KR",
+      "official_video": {
+        "id": "CBJ8Fre_SRk",
+        "title": "ずっと真夜中でいいのに。『マリンブルーの庭園』 (ZUTOMAYO - Marine Blue Garden)（Audio Track）",
+        "url": "https://www.youtube.com/watch?v=CBJ8Fre_SRk&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "マリンブルーの庭園",
+          "en": "Marine Blue Garden",
+          "url": "https://music.apple.com/us/album/marine-blue-garden/1522244018?i=1522244025&uo=4",
+          "track_id": 1522244025
+        },
+        {
+          "ja": "マリンブルーの庭園",
+          "en": "Marine Blue Garden",
+          "url": "https://music.apple.com/kr/album/marine-blue-garden/1522244018?i=1522244025&uo=4",
+          "track_id": 1522244025
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Marine Blue Garden",
+          "url": "https://music.apple.com/kr/album/marine-blue-garden/1522244018?i=1522244025&uo=4",
+          "track_id": 1522244025
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/marine-blue-no-teien",
+        "title_ja": "マリンブルーの庭園",
+        "title_en": "Marine Blue Garden"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "マリンブルーの庭園\n마린블루의 정원 | Marine Blue Garden",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "teiketsu-bolt",
+      "no": 50,
+      "kind": "original",
+      "title_ja": "低血ボルト",
+      "title_ko": "저혈 볼트",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "FASTENING",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [
+        "Fastening"
+      ],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/34/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/27/",
+        "https://zutomayo.net/release/25/",
+        "https://zutomayo.net/release/11/",
+        "https://zutomayo.net/release/16/",
+        "https://www.youtube.com/watch?v=COll6PdtI5w&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=COll6PdtI5w&hl=ko&gl=KR",
+      "official_video": {
+        "id": "COll6PdtI5w",
+        "title": "ずっと真夜中でいいのに。『低血ボルト』MV (ZUTOMAYO – FASTENING)",
+        "url": "https://www.youtube.com/watch?v=COll6PdtI5w&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "低血ボルト",
+          "en": "Fastening",
+          "url": "https://music.apple.com/kr/album/fastening/1522244018?i=1522244019&uo=4",
+          "track_id": 1522244019
+        },
+        {
+          "ja": "低血ボルト",
+          "en": "Fastening",
+          "url": "https://music.apple.com/us/album/fastening/1548835870?i=1548835939&uo=4",
+          "track_id": 1548835939
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Fastening",
+          "url": "https://music.apple.com/kr/album/fastening/1522244018?i=1522244019&uo=4",
+          "track_id": 1522244019
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/teiketsu-bolt",
+        "title_ja": "低血ボルト",
+        "title_en": "Fastening"
+      },
+      "notes": [
+        "DB 영문 표기 Fastening; 공식 기준 FASTENING"
+      ],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E4%BD%8E%E8%A1%80%E3%83%9C%E3%83%AB%E3%83%88",
+      "title_ko_source_excerpt": "低血ボルト저혈 볼트 | FASTENING",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "milabo",
+      "no": 51,
+      "kind": "original",
+      "title_ja": "MILABO",
+      "title_ko": "MILABO",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "MILABO",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [
+        "Milabo"
+      ],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/34/",
+        "https://zutomayo.net/release/32/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/29/",
+        "https://zutomayo.net/release/27/",
+        "https://zutomayo.net/release/25/",
+        "https://zutomayo.net/release/11/",
+        "https://zutomayo.net/release/16/",
+        "https://www.youtube.com/watch?v=I88PrE-KUPk&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=I88PrE-KUPk&hl=ko&gl=KR",
+      "official_video": {
+        "id": "I88PrE-KUPk",
+        "title": "ずっと真夜中でいいのに。『MILABO』MV (ZUTOMAYO – MILABO)",
+        "url": "https://www.youtube.com/watch?v=I88PrE-KUPk&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "MILABO",
+          "en": "Milabo",
+          "url": "https://music.apple.com/us/album/milabo/1522244018?i=1522244028&uo=4",
+          "track_id": 1522244028
+        },
+        {
+          "ja": "MILABO",
+          "en": "Milabo",
+          "url": "https://music.apple.com/us/album/milabo/1548835870?i=1548835931&uo=4",
+          "track_id": 1548835931
+        },
+        {
+          "ja": "MILABO",
+          "en": "Milabo",
+          "url": "https://music.apple.com/kr/album/milabo/1548835870?i=1548835931&uo=4",
+          "track_id": 1548835931
+        },
+        {
+          "ja": "MILABO",
+          "en": "Milabo",
+          "url": "https://music.apple.com/us/album/milabo/1569457701?i=1569458272&uo=4",
+          "track_id": 1569458272
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Milabo",
+          "url": "https://music.apple.com/kr/album/milabo/1548835870?i=1548835931&uo=4",
+          "track_id": 1548835931
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/milabo",
+        "title_ja": "MILABO",
+        "title_en": "Milabo"
+      },
+      "notes": [
+        "DB 영문 표기 Milabo; 공식 기준 MILABO"
+      ],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "MILABO",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "obenkyou-shitoiteyo",
+      "no": 52,
+      "kind": "original",
+      "title_ja": "お勉強しといてよ",
+      "title_ko": "공부해 둬",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "STUDY ME",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [
+        "Obenkyou Shitoiteyo"
+      ],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/34/",
+        "https://zutomayo.net/release/32/",
+        "https://zutomayo.net/release/31/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/29/",
+        "https://zutomayo.net/release/27/",
+        "https://zutomayo.net/release/25/",
+        "https://zutomayo.net/release/26/",
+        "https://zutomayo.net/release/11/",
+        "https://zutomayo.net/release/16/",
+        "https://www.youtube.com/watch?v=Atvsg_zogxo&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=Atvsg_zogxo&hl=ko&gl=KR",
+      "official_video": {
+        "id": "Atvsg_zogxo",
+        "title": "ずっと真夜中でいいのに。『お勉強しといてよ』MV (ZUTOMAYO – STUDY ME)",
+        "url": "https://www.youtube.com/watch?v=Atvsg_zogxo&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "お勉強しといてよ",
+          "en": "Obenkyou Shitoiteyo",
+          "url": "https://music.apple.com/kr/album/obenkyou-shitoiteyo/1548835870?i=1548835888&uo=4",
+          "track_id": 1548835888
+        },
+        {
+          "ja": "お勉強しといてよ",
+          "en": "Obenkyou Shitoiteyo",
+          "url": "https://music.apple.com/us/album/obenkyou-shitoiteyo/1522244018?i=1522244021&uo=4",
+          "track_id": 1522244021
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Obenkyou Shitoiteyo",
+          "url": "https://music.apple.com/kr/album/obenkyou-shitoiteyo/1548835870?i=1548835888&uo=4",
+          "track_id": 1548835888
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/obenkyou-shitoiteyo",
+        "title_ja": "お勉強しといてよ",
+        "title_en": "STUDY ME"
+      },
+      "notes": [
+        "공식 MV 영문 STUDY ME, 공식 음원 로마자 Obenkyou Shitoiteyo를 모두 보존"
+      ],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E3%81%8A%E5%8B%89%E5%BC%B7%E3%81%97%E3%81%A8%E3%81%84%E3%81%A6%E3%82%88",
+      "title_ko_source_excerpt": "お勉強しといてよ공부해 둬 | STUDY ME",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "inemuri-enseitai",
+      "no": 53,
+      "kind": "original",
+      "title_ja": "居眠り遠征隊",
+      "title_ko": "말뚝잠 원정대",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Inemuri Enseitai",
+      "title_en_type": "official_latin_or_romanized",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/35/",
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/32/",
+        "https://zutomayo.net/release/29/",
+        "https://zutomayo.net/release/9/",
+        "https://www.youtube.com/watch?v=n5xGJHErs_A&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=n5xGJHErs_A&hl=ko&gl=KR",
+      "official_video": {
+        "id": "n5xGJHErs_A",
+        "title": "ずっと真夜中でいいのに。『居眠り遠征隊』 (ZUTOMAYO - Inemuri Enseitai)（Audio Track）",
+        "url": "https://www.youtube.com/watch?v=n5xGJHErs_A&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "居眠り遠征隊",
+          "en": "Inemuri Enseitai",
+          "url": "https://music.apple.com/us/album/inemuri-enseitai/1481464093?i=1481464102&uo=4",
+          "track_id": 1481464102
+        }
+      ],
+      "korea_storefront_titles": [],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/inemuri-enseitai",
+        "title_ja": "居眠り遠征隊",
+        "title_en": "Inemuri Enseitai"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "居眠り遠征隊\n말뚝잠 원정대 | Inemuri Enseitai",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "dear-mr-f",
+      "no": 54,
+      "kind": "original",
+      "title_ja": "Dear. Mr「F」",
+      "title_ko": "Dear. Mr「F」",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Dear. Mr\"F\"",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/35/",
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/26/",
+        "https://zutomayo.net/release/9/",
+        "https://www.youtube.com/watch?v=Qw-FSw7d2zE&hl=ko&gl=KR"
+      ],
+      "en_source": "https://music.apple.com/us/album/dear-mr-f/1481464093?i=1481464168&uo=4",
+      "official_video": {
+        "id": "Qw-FSw7d2zE",
+        "title": "ずっと真夜中でいいのに。『Dear. Mr「F」』MV",
+        "url": "https://www.youtube.com/watch?v=Qw-FSw7d2zE&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "Dear Mr「F」",
+          "en": "Dear. Mr\"F\"",
+          "url": "https://music.apple.com/us/album/dear-mr-f/1481464093?i=1481464168&uo=4",
+          "track_id": 1481464168
+        }
+      ],
+      "korea_storefront_titles": [],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/dear-mr-f",
+        "title_ja": "Dear. Mr「F」",
+        "title_en": "Dear. Mr\"F\""
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "Dear. Mr「F」",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "glass-to-rum-raisin",
+      "no": 55,
+      "kind": "original",
+      "title_ja": "グラスとラムレーズン",
+      "title_ko": "글라스와 럼레이즌",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Glass To Rum Raisin",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [
+        "Glass to Rum Raisin"
+      ],
+      "ja_sources": [
+        "https://zutomayo.net/release/35/",
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/31/",
+        "https://zutomayo.net/release/9/",
+        "https://www.youtube.com/watch?v=8FH4cBJ1y-E&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=8FH4cBJ1y-E&hl=ko&gl=KR",
+      "official_video": {
+        "id": "8FH4cBJ1y-E",
+        "title": "ずっと真夜中でいいのに。『グラスとラムレーズン』 (ZUTOMAYO -Glass To Rum Raisin)（Audio Track）",
+        "url": "https://www.youtube.com/watch?v=8FH4cBJ1y-E&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "グラスとラムレーズン",
+          "en": "Glass to Rum Raisin",
+          "url": "https://music.apple.com/us/album/glass-to-rum-raisin/1481464093?i=1481464172&uo=4",
+          "track_id": 1481464172
+        },
+        {
+          "ja": "グラスとラムレーズン",
+          "en": "Glass to Rum Raisin",
+          "url": "https://music.apple.com/kr/album/glass-to-rum-raisin/1481464093?i=1481464172&uo=4",
+          "track_id": 1481464172
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Glass to Rum Raisin",
+          "url": "https://music.apple.com/kr/album/glass-to-rum-raisin/1481464093?i=1481464172&uo=4",
+          "track_id": 1481464172
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/glass-to-rum-raisin",
+        "title_ja": "グラスとラムレーズン",
+        "title_en": "Glass To Rum Raisin"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "グラスとラムレーズン\n글라스와 럼레이즌 | Glass To Rum Raisin",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "yasashiku-last-smile",
+      "no": 56,
+      "kind": "original",
+      "title_ja": "優しくLAST SMILE",
+      "title_ko": "상냥하게 LAST SMILE",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Yasashiku Last Smile",
+      "title_en_type": "official_latin_or_romanized",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/35/",
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/31/",
+        "https://zutomayo.net/release/9/",
+        "https://www.youtube.com/watch?v=00GDulz0q8w&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=00GDulz0q8w&hl=ko&gl=KR",
+      "official_video": {
+        "id": "00GDulz0q8w",
+        "title": "ずっと真夜中でいいのに。『優しくLAST SMILE』 (ZUTOMAYO -Yasashiku Last Smile)（Audio Track）",
+        "url": "https://www.youtube.com/watch?v=00GDulz0q8w&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "優しくLAST SMILE",
+          "en": "Yasashiku Last Smile",
+          "url": "https://music.apple.com/us/album/yasashiku-last-smile/1481464093?i=1481464175&uo=4",
+          "track_id": 1481464175
+        },
+        {
+          "ja": "優しくLAST SMILE",
+          "en": "Yasashiku Last Smile",
+          "url": "https://music.apple.com/kr/album/yasashiku-last-smile/1481464093?i=1481464175&uo=4",
+          "track_id": 1481464175
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Yasashiku Last Smile",
+          "url": "https://music.apple.com/kr/album/yasashiku-last-smile/1481464093?i=1481464175&uo=4",
+          "track_id": 1481464175
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/yasashiku-last-smile",
+        "title_ja": "優しくLAST SMILE",
+        "title_en": "Yasashiku Last Smile"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "優しくLAST SMILE\n상냥하게 LAST SMILE | Yasashiku Last Smile",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "konnakoto-soudou",
+      "no": 57,
+      "kind": "original",
+      "title_ja": "こんなこと騒動",
+      "title_ko": "이런 일 소동",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Konnakoto Soudou",
+      "title_en_type": "official_latin_or_romanized",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/35/",
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/32/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/25/",
+        "https://zutomayo.net/release/9/",
+        "https://www.youtube.com/watch?v=mlA-Z7zSLHU&hl=ko&gl=KR"
+      ],
+      "en_source": "https://music.apple.com/us/album/konnakoto-soudou/1481464093?i=1481464169&uo=4",
+      "official_video": {
+        "id": "mlA-Z7zSLHU",
+        "title": "ずっと真夜中でいいのに。『こんなこと騒動』MV",
+        "url": "https://www.youtube.com/watch?v=mlA-Z7zSLHU&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "こんなこと騒動",
+          "en": "Konnakoto Soudou",
+          "url": "https://music.apple.com/us/album/konnakoto-soudou/1481464093?i=1481464169&uo=4",
+          "track_id": 1481464169
+        }
+      ],
+      "korea_storefront_titles": [],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/konnakoto-soudou",
+        "title_ja": "こんなこと騒動",
+        "title_en": "Konnakoto Soudou"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E3%81%93%E3%82%93%E3%81%AA%E3%81%93%E3%81%A8%E9%A8%92%E5%8B%95",
+      "title_ko_source_excerpt": "こんなこと騒動이런 일 소동 | Konnakoto Soudou",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "haze-haseru-hateru-made",
+      "no": 58,
+      "kind": "original",
+      "title_ja": "ハゼ馳せる果てるまで",
+      "title_ko": "망둥이 달린다 끝까지",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Haze Haseru Haterumade",
+      "title_en_type": "official_latin_or_romanized",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/35/",
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/31/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/27/",
+        "https://zutomayo.net/release/9/",
+        "https://www.youtube.com/watch?v=ElnxZtiBDvs&hl=ko&gl=KR"
+      ],
+      "en_source": "https://music.apple.com/kr/album/haze-haseru-haterumade/1481464093?i=1481464103&uo=4",
+      "official_video": {
+        "id": "ElnxZtiBDvs",
+        "title": "ずっと真夜中でいいのに。『ハゼ馳せる果てるまで』MV",
+        "url": "https://www.youtube.com/watch?v=ElnxZtiBDvs&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "ハゼ馳せる果てるまで",
+          "en": "Haze Haseru Haterumade",
+          "url": "https://music.apple.com/kr/album/haze-haseru-haterumade/1481464093?i=1481464103&uo=4",
+          "track_id": 1481464103
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Haze Haseru Haterumade",
+          "url": "https://music.apple.com/kr/album/haze-haseru-haterumade/1481464093?i=1481464103&uo=4",
+          "track_id": 1481464103
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/haze-haseru-hateru-made",
+        "title_ja": "ハゼ馳せる果てるまで",
+        "title_en": "Haze Haseru Haterumade"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E3%83%8F%E3%82%BC%E9%A6%B3%E3%81%9B%E3%82%8B%E6%9E%9C%E3%81%A6%E3%82%8B%E3%81%BE%E3%81%A7",
+      "title_ko_source_excerpt": "ハゼ馳せる果てるまで망둥이 달린다 끝까지 | Haze Haseru Haterumade",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "kettobashita-moufu",
+      "no": 59,
+      "kind": "original",
+      "title_ja": "蹴っ飛ばした毛布",
+      "title_ko": "걷어차버린 담요",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Kettobashita Moufu",
+      "title_en_type": "official_latin_or_romanized",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/35/",
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/26/",
+        "https://zutomayo.net/release/11/",
+        "https://zutomayo.net/release/9/",
+        "https://www.youtube.com/watch?v=iyCRK5WfFOI&hl=ko&gl=KR"
+      ],
+      "en_source": "https://music.apple.com/us/album/kettobashita-moufu/1481464093?i=1481464105&uo=4",
+      "official_video": {
+        "id": "iyCRK5WfFOI",
+        "title": "ずっと真夜中でいいのに。『蹴っ飛ばした毛布』MV",
+        "url": "https://www.youtube.com/watch?v=iyCRK5WfFOI&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "蹴っ飛ばした毛布",
+          "en": "Kettobashita Moufu",
+          "url": "https://music.apple.com/us/album/kettobashita-moufu/1481464093?i=1481464105&uo=4",
+          "track_id": 1481464105
+        }
+      ],
+      "korea_storefront_titles": [],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/kettobashita-moufu",
+        "title_ja": "蹴っ飛ばした毛布",
+        "title_en": "Kettobashita Moufu"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E8%B9%B4%E3%81%A3%E9%A3%9B%E3%81%B0%E3%81%97%E3%81%9F%E6%AF%9B%E5%B8%83",
+      "title_ko_source_excerpt": "蹴っ飛ばした毛布걷어차버린 담요 | Kettobashita Moufu",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "samayoi-yoi-ondo",
+      "no": 60,
+      "kind": "original",
+      "title_ja": "彷徨い酔い温度",
+      "title_ko": "방황하고 취한 온도",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Samayoi Yoi Ondo",
+      "title_en_type": "official_latin_or_romanized",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/32/",
+        "https://zutomayo.net/release/27/",
+        "https://zutomayo.net/release/25/",
+        "https://zutomayo.net/release/8/",
+        "https://www.youtube.com/watch?v=SPam1BBKUjQ&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=SPam1BBKUjQ&hl=ko&gl=KR",
+      "official_video": {
+        "id": "SPam1BBKUjQ",
+        "title": "ずっと真夜中でいいのに。『彷徨い酔い温度』 (ZUTOMAYO - Samayoi Yoi Ondo)（Audio Track）",
+        "url": "https://www.youtube.com/watch?v=SPam1BBKUjQ&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "彷徨い酔い温度",
+          "en": "Samayoi Yoi Ondo",
+          "url": "https://music.apple.com/us/album/samayoi-yoi-ondo/1464108327?i=1464108354&uo=4",
+          "track_id": 1464108354
+        },
+        {
+          "ja": "彷徨い酔い温度",
+          "en": "Samayoi Yoi Ondo",
+          "url": "https://music.apple.com/kr/album/samayoi-yoi-ondo/1464108327?i=1464108354&uo=4",
+          "track_id": 1464108354
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Samayoi Yoi Ondo",
+          "url": "https://music.apple.com/kr/album/samayoi-yoi-ondo/1464108327?i=1464108354&uo=4",
+          "track_id": 1464108354
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/samayoi-yoi-ondo",
+        "title_ja": "彷徨い酔い温度",
+        "title_en": "Samayoi Yoi Ondo"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "彷徨い酔い温度\n방황하고 취한 온도 | Samayoi Yoi Ondo",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "minority-myakuraku",
+      "no": 61,
+      "kind": "original",
+      "title_ja": "マイノリティ脈絡",
+      "title_ko": "마이너리티 맥락",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Minority Myakuraku",
+      "title_en_type": "official_latin_or_romanized",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/27/",
+        "https://zutomayo.net/release/25/",
+        "https://zutomayo.net/release/8/",
+        "https://www.youtube.com/watch?v=v43Ke1W7zb4&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=v43Ke1W7zb4&hl=ko&gl=KR",
+      "official_video": {
+        "id": "v43Ke1W7zb4",
+        "title": "ずっと真夜中でいいのに。『マイノリティ脈絡』 (ZUTOMAYO - Minority Myakuraku)（Audio Track）",
+        "url": "https://www.youtube.com/watch?v=v43Ke1W7zb4&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "マイノリティ脈絡",
+          "en": "Minority Myakuraku",
+          "url": "https://music.apple.com/kr/album/minority-myakuraku/1464108327?i=1464108351&uo=4",
+          "track_id": 1464108351
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Minority Myakuraku",
+          "url": "https://music.apple.com/kr/album/minority-myakuraku/1464108327?i=1464108351&uo=4",
+          "track_id": 1464108351
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/minority-myakuraku",
+        "title_ja": "マイノリティ脈絡",
+        "title_en": "Minority Myakuraku"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "マイノリティ脈絡\n마이너리티 맥락 | Minority Myakuraku",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "matane-maboroshi",
+      "no": 62,
+      "kind": "original",
+      "title_ja": "またね幻",
+      "title_ko": "또 보자 환상",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Matane Maboroshi",
+      "title_en_type": "official_latin_or_romanized",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/31/",
+        "https://zutomayo.net/release/27/",
+        "https://zutomayo.net/release/8/",
+        "https://www.youtube.com/watch?v=6PpOOKEGX-4&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=6PpOOKEGX-4&hl=ko&gl=KR",
+      "official_video": {
+        "id": "6PpOOKEGX-4",
+        "title": "ずっと真夜中でいいのに。『またね幻』 (ZUTOMAYO - Matane Maboroshi)（Audio Track）",
+        "url": "https://www.youtube.com/watch?v=6PpOOKEGX-4&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "またね幻",
+          "en": "Matane Maboroshi",
+          "url": "https://music.apple.com/us/album/matane-maboroshi/1464108327?i=1464108347&uo=4",
+          "track_id": 1464108347
+        },
+        {
+          "ja": "またね幻",
+          "en": "Matane Maboroshi",
+          "url": "https://music.apple.com/kr/album/matane-maboroshi/1464108327?i=1464108347&uo=4",
+          "track_id": 1464108347
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Matane Maboroshi",
+          "url": "https://music.apple.com/kr/album/matane-maboroshi/1464108327?i=1464108347&uo=4",
+          "track_id": 1464108347
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/matane-maboroshi",
+        "title_ja": "またね幻",
+        "title_en": "Matane Maboroshi"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "まてね幻\n또 보자 환상 | Matene Maboroshi",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "kan-saete-kuyashiiwa",
+      "no": 63,
+      "kind": "original",
+      "title_ja": "勘冴えて悔しいわ",
+      "title_ko": "감이 좋아서 분해",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Kansaete Kuyashiiwa",
+      "title_en_type": "official_latin_or_romanized",
+      "title_en_aliases": [
+        "Kan Saete Kuyashiiwa"
+      ],
+      "ja_sources": [
+        "https://zutomayo.net/release/35/",
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/32/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/29/",
+        "https://zutomayo.net/release/27/",
+        "https://zutomayo.net/release/25/",
+        "https://zutomayo.net/release/16/",
+        "https://zutomayo.net/release/9/",
+        "https://zutomayo.net/release/8/",
+        "https://www.youtube.com/watch?v=4QePrv24TBU&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=4QePrv24TBU&hl=ko&gl=KR",
+      "official_video": {
+        "id": "4QePrv24TBU",
+        "title": "ずっと真夜中でいいのに。『勘冴えて悔しいわ』MV (ZUTOMAYO - Kansaete Kuyashiiwa)",
+        "url": "https://www.youtube.com/watch?v=4QePrv24TBU&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "勘冴えて悔しいわ",
+          "en": "Kan Saete Kuyashiiwa",
+          "url": "https://music.apple.com/kr/album/kan-saete-kuyashiiwa/1464108327?i=1464108341&uo=4",
+          "track_id": 1464108341
+        },
+        {
+          "ja": "勘冴えて悔しいわ",
+          "en": "Kan Saete Kuyashiiwa",
+          "url": "https://music.apple.com/us/album/kan-saete-kuyashiiwa/1693504633?i=1693505012&uo=4",
+          "track_id": 1693505012
+        },
+        {
+          "ja": "勘冴えて悔しいわ",
+          "en": "Kan Saete Kuyashiiwa",
+          "url": "https://music.apple.com/us/album/kan-saete-kuyashiiwa/1559621557?i=1559621816&uo=4",
+          "track_id": 1559621816
+        },
+        {
+          "ja": "勘冴えて悔しいわ",
+          "en": "Kan Saete Kuyashiiwa",
+          "url": "https://music.apple.com/kr/album/kan-saete-kuyashiiwa/1559621557?i=1559621816&uo=4",
+          "track_id": 1559621816
+        },
+        {
+          "ja": "勘冴えて悔しいわ",
+          "en": "Kan Saete Kuyashiiwa",
+          "url": "https://music.apple.com/kr/album/kan-saete-kuyashiiwa/1885843251?i=1885843796&uo=4",
+          "track_id": 1885843796
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Kan Saete Kuyashiiwa",
+          "url": "https://music.apple.com/kr/album/kan-saete-kuyashiiwa/1464108327?i=1464108341&uo=4",
+          "track_id": 1464108341
+        },
+        {
+          "title": "Kan Saete Kuyashiiwa",
+          "url": "https://music.apple.com/kr/album/kan-saete-kuyashiiwa/1559621557?i=1559621816&uo=4",
+          "track_id": 1559621816
+        },
+        {
+          "title": "Kan Saete Kuyashiiwa",
+          "url": "https://music.apple.com/kr/album/kan-saete-kuyashiiwa/1885843251?i=1885843796&uo=4",
+          "track_id": 1885843796
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/kan-saete-kuyashiiwa",
+        "title_ja": "勘冴えて悔しいわ",
+        "title_en": "Kan Saete Kuyashiiwa"
+      },
+      "notes": [
+        "DB 영문 표기 Kan Saete Kuyashiiwa; 공식 기준 Kansaete Kuyashiiwa"
+      ],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E5%8B%98%E5%86%B4%E3%81%88%E3%81%A6%E6%82%94%E3%81%97%E3%81%84%E3%82%8F",
+      "title_ko_source_excerpt": "勘冴えて悔しいわ감이 좋아서 분해 | Kan Saete Kuyashiiwa",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "seigi",
+      "no": 64,
+      "kind": "original",
+      "title_ja": "正義",
+      "title_ko": "정의",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Seigi",
+      "title_en_type": "official_latin_or_romanized",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/35/",
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/32/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/29/",
+        "https://zutomayo.net/release/27/",
+        "https://zutomayo.net/release/25/",
+        "https://zutomayo.net/release/9/",
+        "https://zutomayo.net/release/8/",
+        "https://www.youtube.com/watch?v=7kUbX4DoZoc&hl=ko&gl=KR"
+      ],
+      "en_source": "https://music.apple.com/us/album/seigi/1481464093?i=1481464174&uo=4",
+      "official_video": {
+        "id": "7kUbX4DoZoc",
+        "title": "ずっと真夜中でいいのに。『正義』MV",
+        "url": "https://www.youtube.com/watch?v=7kUbX4DoZoc&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "正義",
+          "en": "Seigi",
+          "url": "https://music.apple.com/us/album/seigi/1481464093?i=1481464174&uo=4",
+          "track_id": 1481464174
+        },
+        {
+          "ja": "正義",
+          "en": "Seigi",
+          "url": "https://music.apple.com/kr/album/seigi/1481464093?i=1481464174&uo=4",
+          "track_id": 1481464174
+        },
+        {
+          "ja": "正義",
+          "en": "Seigi",
+          "url": "https://music.apple.com/us/album/seigi/1464108327?i=1464108346&uo=4",
+          "track_id": 1464108346
+        },
+        {
+          "ja": "正義",
+          "en": "Seigi",
+          "url": "https://music.apple.com/kr/album/seigi/1464108327?i=1464108346&uo=4",
+          "track_id": 1464108346
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Seigi",
+          "url": "https://music.apple.com/kr/album/seigi/1481464093?i=1481464174&uo=4",
+          "track_id": 1481464174
+        },
+        {
+          "title": "Seigi",
+          "url": "https://music.apple.com/kr/album/seigi/1464108327?i=1464108346&uo=4",
+          "track_id": 1464108346
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/seigi",
+        "title_ja": "正義",
+        "title_en": "Seigi"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E6%AD%A3%E7%BE%A9",
+      "title_ko_source_excerpt": "正義정의 | Seigi",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "mabushii-dna-dake",
+      "no": 65,
+      "kind": "original",
+      "title_ja": "眩しいDNAだけ",
+      "title_ko": "눈부신 DNA뿐",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Mabushii DNA Dake",
+      "title_en_type": "official_latin_or_romanized",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/35/",
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/27/",
+        "https://zutomayo.net/release/25/",
+        "https://zutomayo.net/release/9/",
+        "https://zutomayo.net/release/8/",
+        "https://www.youtube.com/watch?v=VJy8qZ77bpE&hl=ko&gl=KR"
+      ],
+      "en_source": "https://music.apple.com/kr/album/mabushii-dna-dake/1481464093?i=1481464170&uo=4",
+      "official_video": {
+        "id": "VJy8qZ77bpE",
+        "title": "ずっと真夜中でいいのに。『眩しいDNAだけ』MV",
+        "url": "https://www.youtube.com/watch?v=VJy8qZ77bpE&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "眩しいDNAだけ",
+          "en": "Mabushii DNA Dake",
+          "url": "https://music.apple.com/kr/album/mabushii-dna-dake/1481464093?i=1481464170&uo=4",
+          "track_id": 1481464170
+        },
+        {
+          "ja": "眩しいDNAだけ",
+          "en": "Mabushii DNA Dake",
+          "url": "https://music.apple.com/us/album/mabushii-dna-dake/1464108327?i=1464108476&uo=4",
+          "track_id": 1464108476
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Mabushii DNA Dake",
+          "url": "https://music.apple.com/kr/album/mabushii-dna-dake/1481464093?i=1481464170&uo=4",
+          "track_id": 1481464170
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/mabushii-dna-dake",
+        "title_ja": "眩しいDNAだけ",
+        "title_en": "Mabushii DNA Dake"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E7%9C%A9%E3%81%97%E3%81%84DNA%E3%81%A0%E3%81%91",
+      "title_ko_source_excerpt": "眩しいDNAだけ눈부신 DNA뿐 | Mabushii DNA Dake",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "kimi-ga-ite-mizu-ni-naru",
+      "no": 66,
+      "kind": "original",
+      "title_ja": "君がいて水になる",
+      "title_ko": "네가 있어서 물이 돼",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Kimigaite Mizuninaru",
+      "title_en_type": "official_latin_or_romanized",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/26/",
+        "https://zutomayo.net/release/5/",
+        "https://www.youtube.com/watch?v=8jZ8Plz_SSM&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=8jZ8Plz_SSM&hl=ko&gl=KR",
+      "official_video": {
+        "id": "8jZ8Plz_SSM",
+        "title": "ずっと真夜中でいいのに。『君がいて水になる』 (ZUTOMAYO - Kimigaite Mizuninaru)（Audio Track）",
+        "url": "https://www.youtube.com/watch?v=8jZ8Plz_SSM&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "君がいて水になる",
+          "en": "Kimigaite Mizuninaru",
+          "url": "https://music.apple.com/us/album/kimigaite-mizuninaru/1440133774?i=1440134065&uo=4",
+          "track_id": 1440134065
+        }
+      ],
+      "korea_storefront_titles": [],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/kimi-ga-ite-mizu-ni-naru",
+        "title_ja": "君がいて水になる",
+        "title_en": "Kimigaite Mizuninaru"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "君がいて水になる \n네가 있어서 물이 돼 | Kimigaite Mizunina",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "uni-to-kuri",
+      "no": 67,
+      "kind": "original",
+      "title_ja": "雲丹と栗",
+      "title_ko": "성게와 밤",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Uni To Kuri",
+      "title_en_type": "official_latin_or_romanized",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/29/",
+        "https://zutomayo.net/release/25/",
+        "https://zutomayo.net/release/16/",
+        "https://zutomayo.net/release/5/",
+        "https://www.youtube.com/watch?v=OtF5VtmhjnQ&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=OtF5VtmhjnQ&hl=ko&gl=KR",
+      "official_video": {
+        "id": "OtF5VtmhjnQ",
+        "title": "ずっと真夜中でいいのに。『雲丹と栗』 (ZUTOMAYO - Uni To Kuri)（Audio Track）",
+        "url": "https://www.youtube.com/watch?v=OtF5VtmhjnQ&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "雲丹と栗",
+          "en": "Uni To Kuri",
+          "url": "https://music.apple.com/kr/album/uni-to-kuri/1440133774?i=1440134057&uo=4",
+          "track_id": 1440134057
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Uni To Kuri",
+          "url": "https://music.apple.com/kr/album/uni-to-kuri/1440133774?i=1440134057&uo=4",
+          "track_id": 1440134057
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/uni-to-kuri",
+        "title_ja": "雲丹と栗",
+        "title_en": "Uni To Kuri"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "雲丹と栗 \n성게와 밤 | Uni To Kuri",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "saturn",
+      "no": 68,
+      "kind": "original",
+      "title_ja": "サターン",
+      "title_ko": "새턴",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "SATURN",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [
+        "Saturn"
+      ],
+      "ja_sources": [
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/31/",
+        "https://zutomayo.net/release/29/",
+        "https://zutomayo.net/release/27/",
+        "https://zutomayo.net/release/25/",
+        "https://zutomayo.net/release/11/",
+        "https://zutomayo.net/release/5/",
+        "https://www.youtube.com/watch?v=Ni5jPjvGxtw&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=Ni5jPjvGxtw&hl=ko&gl=KR",
+      "official_video": {
+        "id": "Ni5jPjvGxtw",
+        "title": "ずっと真夜中でいいのに。『サターン』 (ZUTOMAYO - SATURN)（Audio Track）",
+        "url": "https://www.youtube.com/watch?v=Ni5jPjvGxtw&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "サターン",
+          "en": "Saturn",
+          "url": "https://music.apple.com/us/album/saturn/1440133774?i=1440134053&uo=4",
+          "track_id": 1440134053
+        },
+        {
+          "ja": "サターン",
+          "en": "Saturn",
+          "url": "https://music.apple.com/kr/album/saturn/1440133774?i=1440134053&uo=4",
+          "track_id": 1440134053
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Saturn",
+          "url": "https://music.apple.com/kr/album/saturn/1440133774?i=1440134053&uo=4",
+          "track_id": 1440134053
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/saturn",
+        "title_ja": "サターン",
+        "title_en": "Saturn"
+      },
+      "notes": [
+        "DB 영문 표기 Saturn; 공식 기준 SATURN"
+      ],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E3%82%B5%E3%82%BF%E3%83%BC%E3%83%B3",
+      "title_ko_source_excerpt": "サターン새턴 | Saturn",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "humanoid",
+      "no": 69,
+      "kind": "original",
+      "title_ja": "ヒューマノイド",
+      "title_ko": "휴머노이드",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Humanoid",
+      "title_en_type": "official_english_or_shared_latin",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/35/",
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/32/",
+        "https://zutomayo.net/release/27/",
+        "https://zutomayo.net/release/25/",
+        "https://zutomayo.net/release/9/",
+        "https://zutomayo.net/release/5/",
+        "https://www.youtube.com/watch?v=GAB26GgJ8V8&hl=ko&gl=KR"
+      ],
+      "en_source": "https://music.apple.com/kr/album/humanoid/1440133774?i=1440134014&uo=4",
+      "official_video": {
+        "id": "GAB26GgJ8V8",
+        "title": "ずっと真夜中でいいのに。『ヒューマノイド』MV",
+        "url": "https://www.youtube.com/watch?v=GAB26GgJ8V8&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "ヒューマノイド",
+          "en": "Humanoid",
+          "url": "https://music.apple.com/kr/album/humanoid/1440133774?i=1440134014&uo=4",
+          "track_id": 1440134014
+        },
+        {
+          "ja": "ヒューマノイド",
+          "en": "Humanoid",
+          "url": "https://music.apple.com/kr/album/humanoid/1481464093?i=1481464171&uo=4",
+          "track_id": 1481464171
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Humanoid",
+          "url": "https://music.apple.com/kr/album/humanoid/1440133774?i=1440134014&uo=4",
+          "track_id": 1440134014
+        },
+        {
+          "title": "Humanoid",
+          "url": "https://music.apple.com/kr/album/humanoid/1481464093?i=1481464171&uo=4",
+          "track_id": 1481464171
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/humanoid",
+        "title_ja": "ヒューマノイド",
+        "title_en": "Humanoid"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89",
+      "title_ko_source_excerpt": "ヒューマノイド휴머노이드 | Humanoid",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "nouriue-no-cracker",
+      "no": 70,
+      "kind": "original",
+      "title_ja": "脳裏上のクラッカー",
+      "title_ko": "뇌리 위의 크래커",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Nouriueno Cracker",
+      "title_en_type": "official_latin_or_romanized",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/35/",
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/31/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/29/",
+        "https://zutomayo.net/release/27/",
+        "https://zutomayo.net/release/25/",
+        "https://zutomayo.net/release/26/",
+        "https://zutomayo.net/release/16/",
+        "https://zutomayo.net/release/9/",
+        "https://zutomayo.net/release/5/",
+        "https://www.youtube.com/watch?v=3iAXclHlTTg&hl=ko&gl=KR"
+      ],
+      "en_source": "https://music.apple.com/us/album/nouriueno-cracker/1438584985?i=1438584986&uo=4",
+      "official_video": {
+        "id": "3iAXclHlTTg",
+        "title": "ずっと真夜中でいいのに。『脳裏上のクラッカー』MV",
+        "url": "https://www.youtube.com/watch?v=3iAXclHlTTg&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "脳裏上のクラッカー",
+          "en": "Nouriueno Cracker",
+          "url": "https://music.apple.com/us/album/nouriueno-cracker/1438584985?i=1438584986&uo=4",
+          "track_id": 1438584986
+        },
+        {
+          "ja": "脳裏上のクラッカー",
+          "en": "Nouriueno Cracker",
+          "url": "https://music.apple.com/kr/album/nouriueno-cracker/1438584985?i=1438584986&uo=4",
+          "track_id": 1438584986
+        },
+        {
+          "ja": "脳裏上のクラッカー",
+          "en": "Nouriueno Cracker",
+          "url": "https://music.apple.com/us/album/nouriueno-cracker/1481464093?i=1481464099&uo=4",
+          "track_id": 1481464099
+        },
+        {
+          "ja": "脳裏上のクラッカー",
+          "en": "Nouriueno Cracker",
+          "url": "https://music.apple.com/kr/album/nouriueno-cracker/1481464093?i=1481464099&uo=4",
+          "track_id": 1481464099
+        },
+        {
+          "ja": "脳裏上のクラッカー",
+          "en": "Nouriueno Cracker",
+          "url": "https://music.apple.com/us/album/nouriueno-cracker/1440133774?i=1440134058&uo=4",
+          "track_id": 1440134058
+        }
+      ],
+      "korea_storefront_titles": [
+        {
+          "title": "Nouriueno Cracker",
+          "url": "https://music.apple.com/kr/album/nouriueno-cracker/1438584985?i=1438584986&uo=4",
+          "track_id": 1438584986
+        },
+        {
+          "title": "Nouriueno Cracker",
+          "url": "https://music.apple.com/kr/album/nouriueno-cracker/1481464093?i=1481464099&uo=4",
+          "track_id": 1481464099
+        }
+      ],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/nouriue-no-cracker",
+        "title_ja": "脳裏上のクラッカー",
+        "title_en": "Nouriueno Cracker"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E8%84%B3%E8%A3%8F%E4%B8%8A%E3%81%AE%E3%82%AF%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC",
+      "title_ko_source_excerpt": "脳裏上のクラッカー뇌리 위의 크래커 | Nouriueno Cracker",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "byoushin-wo-kamu",
+      "no": 71,
+      "kind": "original",
+      "title_ja": "秒針を噛む",
+      "title_ko": "초침을 깨물다",
+      "title_ko_status": "namuwiki_reference",
+      "title_en": "Byoushinwo Kamu",
+      "title_en_type": "official_latin_or_romanized",
+      "title_en_aliases": [],
+      "ja_sources": [
+        "https://zutomayo.net/release/35/",
+        "https://zutomayo.net/release/36/",
+        "https://zutomayo.net/release/32/",
+        "https://zutomayo.net/release/31/",
+        "https://zutomayo.net/release/30/",
+        "https://zutomayo.net/release/29/",
+        "https://zutomayo.net/release/27/",
+        "https://zutomayo.net/release/25/",
+        "https://zutomayo.net/release/26/",
+        "https://zutomayo.net/release/16/",
+        "https://zutomayo.net/release/9/",
+        "https://zutomayo.net/release/5/",
+        "https://www.youtube.com/watch?v=GJI4Gv7NbmE&hl=ko&gl=KR"
+      ],
+      "en_source": "https://www.youtube.com/watch?v=GJI4Gv7NbmE&hl=ko&gl=KR",
+      "official_video": {
+        "id": "GJI4Gv7NbmE",
+        "title": "ずっと真夜中でいいのに。『秒針を噛む』MV (ZUTOMAYO – Byoushinwo Kamu)",
+        "url": "https://www.youtube.com/watch?v=GJI4Gv7NbmE&hl=ko&gl=KR",
+        "channel_id": "UCv6P5nsS9rP4tDtFlqLU_QQ"
+      },
+      "official_apple_pairs": [
+        {
+          "ja": "秒針を噛む",
+          "en": "Byoushinwo Kamu",
+          "url": "https://music.apple.com/us/album/byoushinwo-kamu/1428083643?i=1428083880&uo=4",
+          "track_id": 1428083880
+        },
+        {
+          "ja": "秒針を噛む",
+          "en": "Byoushinwo Kamu",
+          "url": "https://music.apple.com/us/album/byoushinwo-kamu/1481464093?i=1481464176&uo=4",
+          "track_id": 1481464176
+        },
+        {
+          "ja": "秒針を噛む",
+          "en": "Byoushinwo Kamu",
+          "url": "https://music.apple.com/us/album/byoushinwo-kamu/1440133774?i=1440134010&uo=4",
+          "track_id": 1440134010
+        }
+      ],
+      "korea_storefront_titles": [],
+      "db_reference": {
+        "url": "https://zutomayo-db.pages.dev/songs/byoushin-wo-kamu",
+        "title_ja": "秒針を噛む",
+        "title_en": "Byoushinwo Kamu"
+      },
+      "notes": [],
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E7%A7%92%E9%87%9D%E3%82%92%E5%99%9B%E3%82%80",
+      "title_ko_source_excerpt": "秒針を噛む초침을 깨물다 | Byoushinwo Kamu",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    }
+  ],
+  "supplementary": [
+    {
+      "id": "yushinron",
+      "kind": "released_cover",
+      "title_ja": "有心論",
+      "title_en": "Yushinron",
+      "title_en_type": "official_latin_or_romanized",
+      "sources": [
+        "https://zutomayo.net/news/547/",
+        "https://www.youtube.com/watch?v=EgzDEQA7qGo&hl=ko&gl=KR"
+      ],
+      "note": "RADWIMPS 트리뷰트 수록 커버. 71곡 원곡 목록과 별도.",
+      "title_ko": "유심론",
+      "title_ko_status": "namuwiki_reference",
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%E6%9C%89%E5%BF%83%E8%AB%96",
+      "title_ko_source_excerpt": "有心論 / 유심론",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "character",
+      "kind": "acane_collaboration",
+      "title_ja": "Character",
+      "title_en": "Character",
+      "title_en_type": "shared_latin_original",
+      "sources": [
+        "https://www.youtube.com/watch?v=XH-gOoeoZD8&hl=ko&gl=KR",
+        "https://music.apple.com/us/album/character-single/1568991497"
+      ],
+      "note": "ACAね × Rin音, Prod by Yaffle. 일본 발매 원제도 Character이며 캐릭터라는 한글 제목을 만들지 않음.",
+      "title_ko": "Character",
+      "title_ko_status": "namuwiki_reference",
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "Character",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "front-memory",
+      "kind": "acane_feature",
+      "title_ja": "フロントメモリー (feat. ACAね)",
+      "title_en": null,
+      "title_en_type": "official_unverified",
+      "sources": [
+        "https://www.universal-music.co.jp/zutomayo/news/2023-08-23/",
+        "https://music.apple.com/jp/album/1701175550?i=1701175553"
+      ],
+      "note": "神聖かまってちゃん의 2023년 재녹음 피처링. 해당 녹음의 영문 표기를 직접 확인하지 못하여 비워 둠. 레이블 공지의 MV 링크가 馴れ合いサーブ로 연결되는 오류가 있어 그 링크는 곡명 근거로 쓰지 않음.",
+      "title_ko": "프론트 메모리(feat. ACA네)",
+      "title_ko_status": "namuwiki_reference",
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "フロントメモリー(feat.ACAね) / 프론트 메모리(feat. ACA네)",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "hippocampal-pain-mashup",
+      "kind": "official_mashup",
+      "title_ja": "海馬成長痛 × Mass Destruction -Reload-",
+      "title_en": null,
+      "title_en_type": "official_unverified",
+      "sources": [
+        "https://www.sega.jp/topics/detail/260202_3/"
+      ],
+      "note": "SEGA/ATLUS 공식 타이업 매시업. 일본어 공지로 확인; 이번 조사에서 영어·한국어 공식 타이틀 원문을 직접 확보하지 못함.",
+      "title_ko": null,
+      "title_ko_status": "namuwiki_unverified",
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": null,
+      "title_ko_source_excerpt": null,
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "kohakuiro-no-machi-cover",
+      "kind": "official_short_cover",
+      "title_ja": "琥珀色の街、上海蟹の朝",
+      "title_en": null,
+      "title_en_type": "official_unverified",
+      "sources": [
+        "https://www.youtube.com/watch?v=Kk20yekpc4U&hl=ko&gl=KR"
+      ],
+      "note": "くるり 곡의 공식 채널 shorts 커버. 독립 정규 발매곡이나 ZUTOMAYO 작곡 원곡으로 계산하지 않음.",
+      "title_ko": null,
+      "title_ko_status": "namuwiki_unverified",
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": null,
+      "title_ko_source_excerpt": null,
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "almond-mondo",
+      "kind": "announced_original",
+      "title_ja": "アーモンド問答",
+      "title_en": null,
+      "title_en_type": "official_unverified",
+      "sources": [
+        "https://zutomayo.net/news/650/"
+      ],
+      "note": "2026-09-21 공식 타이업 발표. 2026-10-14 확인 자료에서는 독립 음원 발매 및 영문·한글 제목을 확인하지 못함; 발표된 곡명으로만 저장.",
+      "title_ko": null,
+      "title_ko_status": "namuwiki_unverified",
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko_source": null,
+      "title_ko_source_excerpt": null,
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    },
+    {
+      "id": "aoku-aoku-hikaru",
+      "kind": "acane_feature",
+      "title_ja": "青く青く光る",
+      "title_en": null,
+      "title_en_type": "official_unverified",
+      "sources": [
+        "https://ultrapanic.com/",
+        "https://open.spotify.com/intl-de/track/7tIogxMoaDHGfLKIlkUlqk"
+      ],
+      "note": "Lanndo의 ULTRAPANIC 수록곡. ACAね와 ぬゆり 참여를 공식 앨범 사이트와 유통 메타데이터로 확인. 이번 나무위키 대조에서 발견해 참여곡 목록에 보완. 별도의 공식 영문 제목은 미확인.",
+      "checked_at": "2026-10-14",
+      "title_ko_official": null,
+      "title_ko_official_status": "official_unverified",
+      "title_ko": "푸르게 푸르게 빛나는(feat. ACA네)",
+      "title_ko_status": "namuwiki_reference",
+      "title_ko_source": "https://namu.wiki/w/%EA%B3%84%EC%86%8D%20%ED%95%9C%EB%B0%A4%EC%A4%91%EC%9D%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%85%90%EB%8D%B0.%2F%EB%94%94%EC%8A%A4%EC%BD%94%EA%B7%B8%EB%9E%98%ED%94%BC",
+      "title_ko_source_excerpt": "青く青く光る(feat. ACAね) / 푸르게 푸르게 빛나는(feat. ACA네)",
+      "title_ko_aliases": [],
+      "title_ko_checked_at": "2026-10-14"
+    }
+  ]
+}

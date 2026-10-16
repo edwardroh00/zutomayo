@@ -1,0 +1,597 @@
+{
+  "updatedAt": "2026-10-14",
+  "songs": [
+    {
+      "id": "akanesasu",
+      "ko": "노을빛이 물들 무렵",
+      "ja": "あかねさす頃",
+      "en": "akanesasu",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=Z_k0hvdXYjM&hl=ko&gl=KR"
+    },
+    {
+      "id": "ichijiku-kemuri",
+      "ko": "무화과 연기",
+      "ja": "イチジク煙",
+      "en": "Fig Smoke",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=4LDQXYTfWjA&hl=ko&gl=KR"
+    },
+    {
+      "id": "lowmotion-algae",
+      "ko": "lowmotion algae",
+      "ja": "lowmotion algae",
+      "en": "lowmotion algae",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=RHu1YnJvdDU&hl=ko&gl=KR"
+    },
+    {
+      "id": "antimony",
+      "ko": "안티몬",
+      "ja": "アンチモン",
+      "en": "antimony",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=arkEQD4vsIk&hl=ko&gl=KR"
+    },
+    {
+      "id": "fujimi-no-kunren",
+      "ko": "불사신 훈련",
+      "ja": "不死身の訓練",
+      "en": "Learning How Not to Break",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=l1wiiEQdBx4&hl=ko&gl=KR"
+    },
+    {
+      "id": "ultra-tamashii",
+      "ko": "ultra혼",
+      "ja": "ultra魂",
+      "en": "ultra soul",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=lpg5nhWapjU&hl=ko&gl=KR"
+    },
+    {
+      "id": "kani-shabu-funk",
+      "ko": "카니샤브 펑크",
+      "ja": "蟹しゃぶふぁんく",
+      "en": "Kani Shabu Funk",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=UHQJ1b-zYDM&hl=ko&gl=KR"
+    },
+    {
+      "id": "ma-ningen",
+      "ko": "간인간",
+      "ja": "間人間",
+      "en": "Almost Human",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=Pd2HGnmkJ20&hl=ko&gl=KR"
+    },
+    {
+      "id": "chikyu-sonzai-shinai-setsu",
+      "ko": "지구 존재하지 않는다는 설",
+      "ja": "地球存在しない説",
+      "en": "This Planet Feels Fake",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=KS0hxEI-cBc&hl=ko&gl=KR"
+    },
+    {
+      "id": "yomosugara",
+      "ko": "밤새도록",
+      "ja": "よもすがら",
+      "en": "yomosugara",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=rsjaFk0Z5es&hl=ko&gl=KR"
+    },
+    {
+      "id": "medianoche",
+      "ko": "메디아노체",
+      "ja": "メディアノーチェ",
+      "en": "Medianoche",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=sBpITQ7oXxM&hl=ko&gl=KR"
+    },
+    {
+      "id": "katachi",
+      "ko": "형태",
+      "ja": "形",
+      "en": "Pain Give Form",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=6eFajRiOrpY&hl=ko&gl=KR"
+    },
+    {
+      "id": "cream-de-ai-ni-ikemasuka",
+      "ko": "크림으로 만나러 갈 수 있나요",
+      "ja": "クリームで会いにいけますか",
+      "en": "CREAM",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=JQ2913bVo30&hl=ko&gl=KR"
+    },
+    {
+      "id": "binetsuma",
+      "ko": "미열마",
+      "ja": "微熱魔",
+      "en": "Warmthaholic",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=plpVOHqh3lA&hl=ko&gl=KR"
+    },
+    {
+      "id": "shade-no-hokori-wa-enchou",
+      "ko": "쉐이드 커튼 위 먼지는 쌓이는 중",
+      "ja": "シェードの埃は延長",
+      "en": "SHADE",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=zjEMFuj23B4&hl=ko&gl=KR"
+    },
+    {
+      "id": "kuzuri-nen",
+      "ko": "족제비 이념",
+      "ja": "クズリ念",
+      "en": "KUZURI",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=ut889MZ9yNo&hl=ko&gl=KR"
+    },
+    {
+      "id": "koke-ni-shite-kure",
+      "ko": "바보 취급해 줘",
+      "ja": "虚仮にしてくれ",
+      "en": "KOKE",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=QVeAdBHkhD8&hl=ko&gl=KR"
+    },
+    {
+      "id": "taidada",
+      "ko": "TAIDADA",
+      "ja": "TAIDADA",
+      "en": "TAIDADA",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=IeyCdm9WwXM&hl=ko&gl=KR"
+    },
+    {
+      "id": "kaiba-seichoutsuu",
+      "ko": "해마성장통",
+      "ja": "海馬成長痛",
+      "en": "Hippocampal Pain",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=PLG2Uexyi9s&hl=ko&gl=KR"
+    },
+    {
+      "id": "blues-in-the-closet",
+      "ko": "Blues in the Closet",
+      "ja": "Blues in the Closet",
+      "en": "Blues in the Closet",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=E8RMWLoAsa0&hl=ko&gl=KR"
+    },
+    {
+      "id": "uso-janai",
+      "ko": "거짓이 아니야",
+      "ja": "嘘じゃない",
+      "en": "Truth In Lies",
+      "aliases": [
+        "Truth in Lies"
+      ],
+      "source": "https://www.youtube.com/watch?v=GfDXqY-V0EY&hl=ko&gl=KR"
+    },
+    {
+      "id": "nareai-serve",
+      "ko": "짜고 치는 서브",
+      "ja": "馴れ合いサーブ",
+      "en": "Nareai Serve",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=bIW0n36TUSQ&hl=ko&gl=KR"
+    },
+    {
+      "id": "uwabe-no-watashi-jishin-nandayo",
+      "ko": "겉의 나 자신이야",
+      "ja": "上辺の私自身なんだよ",
+      "en": "Superficial Me",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=cWK45FChXdk&hl=ko&gl=KR"
+    },
+    {
+      "id": "hanaichimonme",
+      "ko": "하나이치몬메",
+      "ja": "花一匁",
+      "en": "Hanaichi Monnme",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=H88kps8X4Mk&hl=ko&gl=KR"
+    },
+    {
+      "id": "fuhou-shinnyuu",
+      "ko": "불법침입",
+      "ja": "不法侵入",
+      "en": "Intrusion",
+      "aliases": [
+        "INTRUSION"
+      ],
+      "source": "https://www.youtube.com/watch?v=SAdkxVFyAyc&hl=ko&gl=KR"
+    },
+    {
+      "id": "kira-killer",
+      "ko": "키라 킬러",
+      "ja": "綺羅キラー",
+      "en": "Kira Killer",
+      "aliases": [
+        "Kira Killer (feat. Mori Calliope)"
+      ],
+      "source": "https://www.youtube.com/watch?v=e5LaKxJVeVI&hl=ko&gl=KR"
+    },
+    {
+      "id": "zanki",
+      "ko": "잔기",
+      "ja": "残機",
+      "en": "Time Left",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=6OC92oxs4gA&hl=ko&gl=KR"
+    },
+    {
+      "id": "natsugare",
+      "ko": "여름철",
+      "ja": "夏枯れ",
+      "en": "Summer Slack",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=Nmemc-b6cdU&hl=ko&gl=KR"
+    },
+    {
+      "id": "kiete-shimaisou-desu",
+      "ko": "사라져 버릴 것 같아요",
+      "ja": "消えてしまいそうです",
+      "en": "Blush",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=OxcnK1s2Fww&hl=ko&gl=KR"
+    },
+    {
+      "id": "mirror-tune",
+      "ko": "미러 튠",
+      "ja": "ミラーチューン",
+      "en": "MIRROR TUNE",
+      "aliases": [
+        "Mirror Tune"
+      ],
+      "source": "https://www.youtube.com/watch?v=BVvvUGP0MFw&hl=ko&gl=KR"
+    },
+    {
+      "id": "yonaka-no-kisumi",
+      "ko": "한밤중의 키스미",
+      "ja": "夜中のキスミ",
+      "en": "Kisumi at Midnight",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=zruIvqmwSIs&hl=ko&gl=KR"
+    },
+    {
+      "id": "chigau-kyoku-ni-shiyouyo",
+      "ko": "다른 노래로 하자",
+      "ja": "違う曲にしようよ",
+      "en": "Flow Different",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=YCn_pu5E1kI&hl=ko&gl=KR"
+    },
+    {
+      "id": "sode-no-quilt",
+      "ko": "소매의 퀼트",
+      "ja": "袖のキルト",
+      "en": "QUILT",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=9PnCSI8ndws&hl=ko&gl=KR"
+    },
+    {
+      "id": "neko-reset",
+      "ko": "고양이 리셋",
+      "ja": "猫リセット",
+      "en": "Neko Reset",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=Sfz5TpCRSiI&hl=ko&gl=KR"
+    },
+    {
+      "id": "baka-janai-noni",
+      "ko": "바보가 아닌데도",
+      "ja": "ばかじゃないのに",
+      "en": "Stay Foolish",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=YgmFIVOR1-I&hl=ko&gl=KR"
+    },
+    {
+      "id": "aitsura-zenin-dousoukai",
+      "ko": "저 녀석들 전원 동창회",
+      "ja": "あいつら全員同窓会",
+      "en": "Inside Joke",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=ZUwaudw8ht0&hl=ko&gl=KR"
+    },
+    {
+      "id": "kikai-abura",
+      "ko": "기계유",
+      "ja": "機械油",
+      "en": "Engine Oil",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=_JdiIp92rYk&hl=ko&gl=KR"
+    },
+    {
+      "id": "loneliness",
+      "ko": "론리네스",
+      "ja": "ろんりねす",
+      "en": "Loneliness",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=h5CpUsC3Xi8&hl=ko&gl=KR"
+    },
+    {
+      "id": "kurikaesu-shuukaku",
+      "ko": "반복되는 수확",
+      "ja": "繰り返す収穫",
+      "en": "Crop",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=AIB36neGqt4&hl=ko&gl=KR"
+    },
+    {
+      "id": "mune-no-kemuri",
+      "ko": "마음의 연기",
+      "ja": "胸の煙",
+      "en": "One's Mind",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=wQPgM-9LatM&hl=ko&gl=KR"
+    },
+    {
+      "id": "hava",
+      "ko": "해브 어",
+      "ja": "はゔぁ",
+      "en": "Have A",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=Ws4OaBFAa_s&hl=ko&gl=KR"
+    },
+    {
+      "id": "okusoko-ni-nemuru-roots",
+      "ko": "깊이 잠든 뿌리",
+      "ja": "奥底に眠るルーツ",
+      "en": "Inner Heart",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=o7jp25p-ZWU&hl=ko&gl=KR"
+    },
+    {
+      "id": "kamin",
+      "ko": "과면",
+      "ja": "過眠",
+      "en": "Hypersomnia",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=4tDBohUTYAk&hl=ko&gl=KR"
+    },
+    {
+      "id": "tadashiku-narenai",
+      "ko": "올바르게 될 수 없어",
+      "ja": "正しくなれない",
+      "en": "Can’t Be Right",
+      "aliases": [
+        "Can't Be Right"
+      ],
+      "source": "https://www.youtube.com/watch?v=258qUAI7rck&hl=ko&gl=KR"
+    },
+    {
+      "id": "kangurei",
+      "ko": "감 그레이",
+      "ja": "勘ぐれい",
+      "en": "Hunch Gray",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=ugpywe34_30&hl=ko&gl=KR"
+    },
+    {
+      "id": "kuraku-kuroku",
+      "ko": "어둡게 검게",
+      "ja": "暗く黒く",
+      "en": "DARKEN",
+      "aliases": [
+        "Darken"
+      ],
+      "source": "https://www.youtube.com/watch?v=dcOwj-QE_ZE&hl=ko&gl=KR"
+    },
+    {
+      "id": "ham",
+      "ko": "Ham",
+      "ja": "Ham",
+      "en": "Ham",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=ouLndhBRL4w&hl=ko&gl=KR"
+    },
+    {
+      "id": "jk-bomber",
+      "ko": "JK BOMBER",
+      "ja": "JK BOMBER",
+      "en": "JK BOMBER",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=g3N3czs2U9s&hl=ko&gl=KR"
+    },
+    {
+      "id": "marine-blue-no-teien",
+      "ko": "마린블루의 정원",
+      "ja": "マリンブルーの庭園",
+      "en": "Marine Blue Garden",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=CBJ8Fre_SRk&hl=ko&gl=KR"
+    },
+    {
+      "id": "teiketsu-bolt",
+      "ko": "저혈 볼트",
+      "ja": "低血ボルト",
+      "en": "FASTENING",
+      "aliases": [
+        "Fastening"
+      ],
+      "source": "https://www.youtube.com/watch?v=COll6PdtI5w&hl=ko&gl=KR"
+    },
+    {
+      "id": "milabo",
+      "ko": "MILABO",
+      "ja": "MILABO",
+      "en": "MILABO",
+      "aliases": [
+        "Milabo"
+      ],
+      "source": "https://www.youtube.com/watch?v=I88PrE-KUPk&hl=ko&gl=KR"
+    },
+    {
+      "id": "obenkyou-shitoiteyo",
+      "ko": "공부해 둬",
+      "ja": "お勉強しといてよ",
+      "en": "STUDY ME",
+      "aliases": [
+        "Obenkyou Shitoiteyo"
+      ],
+      "source": "https://www.youtube.com/watch?v=Atvsg_zogxo&hl=ko&gl=KR"
+    },
+    {
+      "id": "inemuri-enseitai",
+      "ko": "말뚝잠 원정대",
+      "ja": "居眠り遠征隊",
+      "en": "Inemuri Enseitai",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=n5xGJHErs_A&hl=ko&gl=KR"
+    },
+    {
+      "id": "dear-mr-f",
+      "ko": "Dear. Mr「F」",
+      "ja": "Dear. Mr「F」",
+      "en": "Dear. Mr\"F\"",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=Qw-FSw7d2zE&hl=ko&gl=KR"
+    },
+    {
+      "id": "glass-to-rum-raisin",
+      "ko": "글라스와 럼레이즌",
+      "ja": "グラスとラムレーズン",
+      "en": "Glass To Rum Raisin",
+      "aliases": [
+        "Glass to Rum Raisin"
+      ],
+      "source": "https://www.youtube.com/watch?v=8FH4cBJ1y-E&hl=ko&gl=KR"
+    },
+    {
+      "id": "yasashiku-last-smile",
+      "ko": "상냥하게 LAST SMILE",
+      "ja": "優しくLAST SMILE",
+      "en": "Yasashiku Last Smile",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=00GDulz0q8w&hl=ko&gl=KR"
+    },
+    {
+      "id": "konnakoto-soudou",
+      "ko": "이런 일 소동",
+      "ja": "こんなこと騒動",
+      "en": "Konnakoto Soudou",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=mlA-Z7zSLHU&hl=ko&gl=KR"
+    },
+    {
+      "id": "haze-haseru-hateru-made",
+      "ko": "망둥이 달린다 끝까지",
+      "ja": "ハゼ馳せる果てるまで",
+      "en": "Haze Haseru Haterumade",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=ElnxZtiBDvs&hl=ko&gl=KR"
+    },
+    {
+      "id": "kettobashita-moufu",
+      "ko": "걷어차버린 담요",
+      "ja": "蹴っ飛ばした毛布",
+      "en": "Kettobashita Moufu",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=iyCRK5WfFOI&hl=ko&gl=KR"
+    },
+    {
+      "id": "samayoi-yoi-ondo",
+      "ko": "방황하고 취한 온도",
+      "ja": "彷徨い酔い温度",
+      "en": "Samayoi Yoi Ondo",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=SPam1BBKUjQ&hl=ko&gl=KR"
+    },
+    {
+      "id": "minority-myakuraku",
+      "ko": "마이너리티 맥락",
+      "ja": "マイノリティ脈絡",
+      "en": "Minority Myakuraku",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=v43Ke1W7zb4&hl=ko&gl=KR"
+    },
+    {
+      "id": "matane-maboroshi",
+      "ko": "또 보자 환상",
+      "ja": "またね幻",
+      "en": "Matane Maboroshi",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=6PpOOKEGX-4&hl=ko&gl=KR"
+    },
+    {
+      "id": "kan-saete-kuyashiiwa",
+      "ko": "감이 좋아서 분해",
+      "ja": "勘冴えて悔しいわ",
+      "en": "Kansaete Kuyashiiwa",
+      "aliases": [
+        "Kan Saete Kuyashiiwa"
+      ],
+      "source": "https://www.youtube.com/watch?v=4QePrv24TBU&hl=ko&gl=KR"
+    },
+    {
+      "id": "seigi",
+      "ko": "정의",
+      "ja": "正義",
+      "en": "Seigi",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=7kUbX4DoZoc&hl=ko&gl=KR"
+    },
+    {
+      "id": "mabushii-dna-dake",
+      "ko": "눈부신 DNA뿐",
+      "ja": "眩しいDNAだけ",
+      "en": "Mabushii DNA Dake",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=VJy8qZ77bpE&hl=ko&gl=KR"
+    },
+    {
+      "id": "kimi-ga-ite-mizu-ni-naru",
+      "ko": "네가 있어서 물이 돼",
+      "ja": "君がいて水になる",
+      "en": "Kimigaite Mizuninaru",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=8jZ8Plz_SSM&hl=ko&gl=KR"
+    },
+    {
+      "id": "uni-to-kuri",
+      "ko": "성게와 밤",
+      "ja": "雲丹と栗",
+      "en": "Uni To Kuri",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=OtF5VtmhjnQ&hl=ko&gl=KR"
+    },
+    {
+      "id": "saturn",
+      "ko": "새턴",
+      "ja": "サターン",
+      "en": "SATURN",
+      "aliases": [
+        "Saturn"
+      ],
+      "source": "https://www.youtube.com/watch?v=Ni5jPjvGxtw&hl=ko&gl=KR"
+    },
+    {
+      "id": "humanoid",
+      "ko": "휴머노이드",
+      "ja": "ヒューマノイド",
+      "en": "Humanoid",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=GAB26GgJ8V8&hl=ko&gl=KR"
+    },
+    {
+      "id": "nouriue-no-cracker",
+      "ko": "뇌리 위의 크래커",
+      "ja": "脳裏上のクラッカー",
+      "en": "Nouriueno Cracker",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=3iAXclHlTTg&hl=ko&gl=KR"
+    },
+    {
+      "id": "byoushin-wo-kamu",
+      "ko": "초침을 깨물다",
+      "ja": "秒針を噛む",
+      "en": "Byoushinwo Kamu",
+      "aliases": [],
+      "source": "https://www.youtube.com/watch?v=GJI4Gv7NbmE&hl=ko&gl=KR"
+    }
+  ]
+}

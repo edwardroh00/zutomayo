@@ -1,0 +1,247 @@
+{
+  "source": "OpenStreetMap contributors, venue access maps and individual coordinate sources",
+  "checkedAt": "2026-10-16",
+  "venues": [
+    {
+      "venue": "広島文化学園HBGホール",
+      "city": "히로시마",
+      "region": "広島県",
+      "lat": 34.3886487,
+      "lng": 132.4485527,
+      "displayName": "広島文化学園HBGホール, 文化の道, 加古町, 中区, 広島市, 広島県, 730-0812, 日本",
+      "source": "https://www.openstreetmap.org/node/10004197177",
+      "query": "広島文化学園HBGホール",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "venue": "市川市文化会館 大ホール",
+      "city": "이치카와",
+      "region": "千葉県",
+      "lat": 35.7165449,
+      "lng": 139.92188,
+      "displayName": "文化会館, 行徳街道, 大和田一丁目, 市川市, 千葉県, 272-0025, 日本",
+      "source": "https://www.openstreetmap.org/node/6918654989",
+      "query": "市川市文化会館",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "venue": "J:COMホール八王子",
+      "lat": 35.65439924,
+      "lng": 139.33785273,
+      "source": "https://jcom.hall-info.jp/access/",
+      "checkedAt": "2026-10-16",
+      "city": "하치오지",
+      "region": "東京都"
+    },
+    {
+      "venue": "SGCホール有明",
+      "city": "도쿄 아리아케",
+      "region": "東京都",
+      "lat": 35.6293533,
+      "lng": 139.7877861,
+      "displayName": "東京ドリームパーク, センタープロムナード, 有明三丁目, 有明, 江東区, 東京都, 135-0063, 日本",
+      "source": "https://www.openstreetmap.org/way/671323718",
+      "query": "東京ドリームパーク",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "venue": "富士市文化会館ロゼシアター",
+      "lat": 35.1587,
+      "lng": 138.66819,
+      "source": "https://www.openstreetmap.org/node/2992095338",
+      "checkedAt": "2026-10-16",
+      "city": "후지",
+      "region": "静岡県"
+    },
+    {
+      "venue": "神戸国際会館こくさいホール",
+      "city": "고베",
+      "region": "兵庫県",
+      "lat": 34.6922553,
+      "lng": 135.1959282,
+      "displayName": "神戸国際会館, 中央区, 神戸市, 兵庫県, 651-0087, 日本",
+      "source": "https://www.openstreetmap.org/way/1371966797",
+      "query": "神戸国際会館",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "venue": "iichikoグランシアタ",
+      "lat": 33.23838178,
+      "lng": 131.60139665,
+      "source": "https://mapfan.com/spots/SQC3,J,UCX21",
+      "checkedAt": "2026-10-16",
+      "city": "오이타",
+      "region": "大分県"
+    },
+    {
+      "venue": "熊本城ホール メインホール",
+      "lat": 32.7998611,
+      "lng": 130.7031111,
+      "source": "https://commons.wikimedia.org/wiki/Category:Kumamoto-jo_Hall",
+      "checkedAt": "2026-10-16",
+      "city": "구마모토",
+      "region": "熊本県"
+    },
+    {
+      "venue": "いわき芸術文化交流館アリオス アルパイン大ホール",
+      "lat": 37.04986,
+      "lng": 140.88931,
+      "source": "https://www.openstreetmap.org/way/129282907",
+      "checkedAt": "2026-10-16",
+      "city": "이와키",
+      "region": "福島県"
+    },
+    {
+      "venue": "東京ガーデンシアター",
+      "city": "도쿄",
+      "region": "東京都",
+      "lat": 35.6377499,
+      "lng": 139.7920431,
+      "displayName": "東京ガーデンシアター, 6, 有明二丁目, 有明, 江東区, 東京都, 135-0063, 日本",
+      "source": "https://www.openstreetmap.org/way/1357127331",
+      "query": "東京ガーデンシアター",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "venue": "松山市民会館 大ホール",
+      "city": "마쓰야마",
+      "region": "愛媛県",
+      "lat": 33.8408631,
+      "lng": 132.7609879,
+      "displayName": "松山市民会館, 国道56号, 三番町六丁目, 南堀端町, 松山市, 愛媛県, 790-0007, 日本",
+      "source": "https://www.openstreetmap.org/way/204405283",
+      "query": "松山市民会館",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "venue": "福岡サンパレス",
+      "city": "후쿠오카",
+      "region": "福岡県",
+      "lat": 33.6039554,
+      "lng": 130.4020808,
+      "displayName": "福岡サンパレス, 福岡都市高速環状線, 築港本町, 博多区, 福岡市, 福岡県, 812-0033, 日本",
+      "source": "https://www.openstreetmap.org/node/10736292678",
+      "query": "福岡サンパレス",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "venue": "KDDI維新ホール",
+      "city": "야마구치",
+      "region": "山口県",
+      "lat": 34.0930855,
+      "lng": 131.3942134,
+      "displayName": "KDDI維新ホール, 小郡令和一丁目, 小郡下郷, 元橋, 山口市, 山口県, 754-0041, 日本",
+      "source": "https://www.openstreetmap.org/way/1049783496",
+      "query": "KDDI維新ホール",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "venue": "愛知県芸術劇場 大ホール",
+      "lat": 35.1708617,
+      "lng": 136.9112669,
+      "source": "https://mapfan.com/spots/SC3AH,J,27",
+      "checkedAt": "2026-10-16",
+      "city": "나고야",
+      "region": "愛知県"
+    },
+    {
+      "venue": "金沢歌劇座",
+      "city": "가나자와",
+      "region": "石川県",
+      "lat": 36.5588717,
+      "lng": 136.6585031,
+      "displayName": "金沢歌劇座, 本多通り, 新竪町三丁目, 下本多町六番丁, 金沢市, 石川県, 920-0964, 日本",
+      "source": "https://www.openstreetmap.org/way/300752558",
+      "query": "金沢歌劇座",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "venue": "なら100年会館（大ホール）",
+      "city": "나라",
+      "region": "奈良県",
+      "lat": 34.6802897,
+      "lng": 135.8166256,
+      "displayName": "なら100年会館, 三条通り, 三条添川町, 奈良市, 奈良県, 630-8121, 日本",
+      "source": "https://www.openstreetmap.org/way/174376113",
+      "query": "なら100年会館",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "venue": "岡山芸術創造劇場 ハレノワ 大劇場",
+      "city": "오카야마",
+      "region": "岡山県",
+      "lat": 34.656745,
+      "lng": 133.929611,
+      "displayName": "岡山芸術創造劇場 ハレノワ, オランダ東通り, 表町三丁目, 天神町, 北区, 岡山市, 岡山県, 700-0822, 日本",
+      "source": "https://www.openstreetmap.org/way/1316821359",
+      "query": "ハレノワ",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "venue": "札幌文化芸術劇場 hitaru",
+      "city": "삿포로",
+      "region": "北海道",
+      "lat": 43.0629759,
+      "lng": 141.3559677,
+      "displayName": "札幌市民交流プラザ, 北1条・雁来通, 北1西1, 狸小路, 中央区, 札幌市, 石狩振興局, 北海道, 北海道地方, 060-8406, 日本",
+      "source": "https://www.openstreetmap.org/node/10816414980",
+      "query": "札幌市民交流プラザ",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "venue": "フェスティバルホール",
+      "city": "오사카",
+      "region": "大阪府",
+      "lat": 34.6933441,
+      "lng": 135.4965478,
+      "displayName": "フェスティバルホール, 18, 中之島二丁目, 北区, 大阪市, 大阪府, 530-0005, 日本",
+      "source": "https://www.openstreetmap.org/node/2574538383",
+      "query": "フェスティバルホール",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "venue": "立川ステージガーデン",
+      "city": "다치카와",
+      "region": "東京都",
+      "lat": 35.7048566,
+      "lng": 139.4118845,
+      "displayName": "立川ステージガーデン, 3, 緑町, 立川市, 東京都, 190-0014, 日本",
+      "source": "https://www.openstreetmap.org/node/13759899060",
+      "query": "立川ステージガーデン",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "venue": "仙台サンプラザホール",
+      "city": "센다이",
+      "region": "宮城県",
+      "lat": 38.257724,
+      "lng": 140.8940725,
+      "displayName": "仙台サンプラザホール, 1, 榴岡五丁目, 榴ヶ岡, 宮城野区, 仙台市, 宮城県, 983-0852, 日本",
+      "source": "https://www.openstreetmap.org/node/10016805504",
+      "query": "仙台サンプラザホール",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "venue": "カルッツかわさき ホール",
+      "city": "가와사키",
+      "region": "神奈川県",
+      "lat": 35.5296175,
+      "lng": 139.7089254,
+      "displayName": "カルッツかわさき 川崎市スポーツ・文化総合センター, 4, 富士見一丁目, 富士見, 川崎区, 川崎市, 神奈川県, 210-0011, 日本",
+      "source": "https://www.openstreetmap.org/node/6246661486",
+      "query": "カルッツかわさき",
+      "checkedAt": "2026-10-16"
+    },
+    {
+      "venue": "和歌山県民文化会館",
+      "city": "와카야마",
+      "region": "和歌山県",
+      "lat": 34.2247703,
+      "lng": 135.16802,
+      "displayName": "和歌山県民文化会館, 和歌山港線, 東長町五丁目, 南中間町, 和歌山市, 和歌山県, 640-8511, 日本",
+      "source": "https://www.openstreetmap.org/way/474144390",
+      "query": "和歌山県民文化会館",
+      "checkedAt": "2026-10-16"
+    }
+  ]
+}

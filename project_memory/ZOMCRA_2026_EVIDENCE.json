@@ -1,0 +1,25 @@
+{
+  "checked_at": "2026-10-15",
+  "officialSchedule": "https://zutomayo.net/intense2/",
+  "officialCancellation": "https://zutomayo.net/news/562/",
+  "heldCount": 19,
+  "cancelledCount": 1,
+  "setlistPolicy": "공연일·장소는 공식 자료. 곡 목록은 공연별 팬 DB와 setlist.fm의 보조 자료이며 공식 인증이 아님. 빈 페이지는 교차 검증 성공으로 취급하지 않음.",
+  "checks": [
+    {"date":"2026-03-28","url":"https://www.setlist.fm/setlist/zutomayo/2026/marine-messe-fukuoka-b-kan-fukuoka-japan-6b4d5ece.html","rows":23,"status":"order_conflict","note":"곡 집합·횟수 일치. DB 15~19번: TAIDADA → アンチモン → ヒューマノイド → マイノリティ脈絡 → あいつら全員同窓会. setlist.fm 15~19번 원문: Antimony → Humanoid → Minority Myakuraku → Aitsura Zenin Dousoukai → TAIDADA. DB 순서를 표시하되 순서 미확정으로 보존."},
+    {"date":"2026-03-29","url":"https://www.setlist.fm/setlist/zutomayo/2026/marine-messe-fukuoka-b-kan-fukuoka-japan-734d5ecd.html","rows":23,"status":"order_conflict","note":"3/28과 같은 15~19번 순서 충돌. 곡 집합·횟수 일치. 夜中のキスミ는 setlist.fm Acoustic 표기, DB의 개별 편곡 설명 보존."},
+    {"date":"2026-04-04","url":"https://www.setlist.fm/setlist/zutomayo/2026/yokohama-arena-yokohama-japan-4b4c03de.html","rows":23,"status":"matched"},
+    {"date":"2026-04-05","url":"https://www.setlist.fm/setlist/zutomayo/2026/yokohama-arena-yokohama-japan-534c03dd.html","rows":23,"status":"matched"},
+    {"date":"2026-04-17","url":"https://www.setlist.fm/setlist/zutomayo/2026/the-star-performing-arts-centre-the-star-theatre-queenstown-singapore-434c03d3.html","rows":23,"status":"matched"},
+    {"date":"2026-04-24","url":"https://www.setlist.fm/setlist/zutomayo/2026/osaka-jou-hall-osaka-japan-534c03d1.html","rows":23,"status":"matched"},
+    {"date":"2026-04-25","url":"https://www.setlist.fm/setlist/zutomayo/2026/osaka-jou-hall-osaka-japan-5b4c03d0.html","rows":23,"status":"matched"},
+    {"date":"2026-05-02","url":"https://www.setlist.fm/setlist/zutomayo/2026/union-hall-1-bangkok-thailand-1340c94d.html","rows":23,"status":"matched"},
+    {"date":"2026-05-16","url":"https://www.setlist.fm/setlist/zutomayo/2026/new-taipei-city-exhibition-hall-taipei-taiwan-5b4b3f44.html","rows":0,"status":"empty","note":"setlist.fm은 공연 페이지에 곡이 없어 곡 교차 확인 불가. DB의 해당 날짜 23곡만 수록."},
+    {"date":"2026-05-17","url":"https://www.setlist.fm/setlist/zutomayo/2026/new-taipei-city-exhibition-hall-taipei-taiwan-434b3f3b.html","rows":23,"status":"matched","note":"setlist.fm 첫 3곡 shortened 표기."},
+    {"date":"2026-06-02","url":"https://www.setlist.fm/setlist/zutomayo/2026/k-arena-yokohama-yokohama-japan-434c03d7.html","rows":23,"status":"matched","note":"setlist.fm은 残機(Zanki)까지 첫 4곡 shortened. DB는 첫 3곡 short ver. 곡 매칭·횟수는 같으며 버전 주석 차이를 보존."},
+    {"date":"2026-06-03","url":"https://www.setlist.fm/setlist/zutomayo/2026/k-arena-yokohama-yokohama-japan-4b4c03d6.html","rows":23,"status":"matched","note":"setlist.fm은 残機(Zanki)까지 첫 4곡 shortened. DB는 첫 3곡 short ver. 곡 매칭·횟수는 같으며 버전 주석 차이를 보존.","extraOfficialSource":"https://zutomayo.net/news/626/"},
+    {"date":"2026-06-06","url":"https://www.setlist.fm/setlist/zutomayo/2026/asiaworld-expo-hall-10-islands-district-hong-kong-sar-china-7b4d5ecc.html","rows":0,"status":"empty","note":"setlist.fm은 공연 페이지에 곡이 없어 곡 교차 확인 불가. DB의 해당 날짜 23곡만 수록."},
+    {"date":"2026-06-17","url":"https://www.setlist.fm/setlist/zutomayo/2026/glion-arena-kobe-kobe-japan-634d5ec3.html","rows":23,"status":"matched"},
+    {"date":"2026-06-18","url":"https://www.setlist.fm/setlist/zutomayo/2026/glion-arena-kobe-kobe-japan-6b4d5ec2.html","rows":23,"status":"matched","note":"ultra魂: DB 어쿠스틱 편곡, setlist.fm Live debut 표시. 반복곡·메들리 없음."}
+  ]
+}

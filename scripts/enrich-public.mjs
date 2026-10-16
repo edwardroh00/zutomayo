@@ -1,0 +1,12 @@
+import {readFile,writeFile} from 'node:fs/promises';
+const f=async n=>readFile(`.research/${n}`,'utf8');
+const pickup=await f('pickup.html');const api=pickup.match(/var api_url = '([^']+)'/)[1];
+const r=await fetch(api);await writeFile('.research/official-lineup.json',await r.text());
+const all=JSON.parse(await f('all-catalog.json'));const p=await f('popup.html');
+const clean=s=>s.replace(/<[^>]+>/g,'').replace(/&amp;/g,'&').replace(/&yen;/g,'¥').trim();
+const norm=s=>s.toLowerCase().replace(/＜limited color＞/g,'').replace(/[^a-z0-9\u3040-\u30ff\u4e00-\u9fff]/g,'');
+const popup=[...p.matchAll(/<span class="nrp-lu__n">([\s\S]*?)<\/span><span class="nrp-lu__p">([\s\S]*?)<\/span>/g)].map(m=>({name:clean(m[1]),price:Number(clean(m[2]).replace(/[^0-9]/g,''))}));
+await writeFile('.research/popup-list.json',JSON.stringify(popup,null,2));
+const selected=all.filter(g=>popup.some(x=>norm(x.name)===norm(g.name))||/5TH YEAR MEMBER|3RD YEAR MEMBER|正しい偽りからの起床【初回|Yomosugara|Paper Shopping Bag \(L\)/.test(g.name));
+let pos=0;await Promise.all(Array.from({length:5},async()=>{while(pos<selected.length){const g=selected[pos++];try{await f(`${g.id}.html`);}catch{const resp=await fetch(g.url);if(resp.ok)await writeFile(`.research/${g.id}.html`,await resp.text());}}}));
+console.log(JSON.stringify({popup:popup.length,matched:selected.length,missing:popup.filter(x=>!all.some(g=>norm(g.name)===norm(x.name))).map(x=>x.name)}));
