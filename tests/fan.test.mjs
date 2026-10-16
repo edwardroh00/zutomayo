@@ -4,7 +4,7 @@ import {readFile} from 'node:fs/promises';
 import {emptyProfile,validateProfile,calculateStats,parseBackup,exportBackup,importLegacyCart,matchSong,validDate,filterLiveEvents,isRecordableEvent,canAttendEvent} from '../fan-model.js';
 const songs=(JSON.parse(await readFile(new URL('../data/songs.json',import.meta.url)))).songs;
 const events=(JSON.parse(await readFile(new URL('../data/lives.json',import.meta.url)))).events;
-const historicalEvents=events.filter(e=>e.metadataStatus!=='user_poster');
+const historicalEvents=events.filter(e=>e.groupId!=='hall-tour-2027');
 const goods=(JSON.parse(await readFile(new URL('../data/goods.json',import.meta.url)))).goods;
 const event={id:'example',date:'2026-10-11',name:'Test',setlistStatus:'complete',setlist:[{id:'one',rawTitle:songs[0].ja,songIds:[songs[0].id],kind:'song'},{id:'medley',rawTitle:songs[0].ja+' / '+songs[1].ja,songIds:[songs[0].id,songs[1].id],kind:'medley'},{id:'repeat',rawTitle:songs[0].ja,songIds:[songs[0].id],kind:'song'}]};
 const attendance=(mode='venue',ids=event.setlist.map(x=>x.id))=>({id:`example@${mode}`,eventId:'example',mode,coverage:'full',heardEntryIds:ids,seat:'',memo:''});
@@ -44,7 +44,7 @@ test('history accounts for the official archive and every DB row without treatin
  assert.equal(historicalEvents.at(-1).date,'2018-08-29');assert.ok(!events.some(e=>e.date==='2018-08-18'));
  assert.ok(!events.some(e=>e.name.includes('ふふふ展')));
  for(const e of historicalEvents){assert.ok(e.sourceUrls.length);assert.ok(e.checked_at);assert.ok(e.officialSource);assert.equal(new Set(e.sourceUrls).size,e.sourceUrls.length);}
- for(const e of events.filter(e=>e.metadataStatus==='user_poster')){assert.equal(e.eventStatus,'scheduled');assert.ok(e.scheduleSource);assert.equal(e.scheduleImage,'./assets/hall-tour-2027.png');assert.equal(e.setlist.length,0);assert.equal(e.officialSource,undefined);}
+ for(const e of events.filter(e=>e.groupId==='hall-tour-2027')){assert.equal(e.eventStatus,'scheduled');assert.equal(e.metadataStatus,'official_checked');assert.equal(e.officialSource,'https://zutomayo.net/apicula/');assert.ok(e.sourceUrls.includes(e.officialSource));assert.equal(e.scheduleEvidence,'official_web_cross_checked');assert.equal(e.scheduleImage,'./assets/hall-tour-2027.png');assert.equal(e.setlist.length,0);}
 });
 test('same-day first and second sessions stay separate and use final official start times',()=>{
  for(const [day,times] of [['2021-05-15',['13:00','18:00']],['2021-05-16',['12:30','17:30']],['2022-03-18',['16:30','19:30']],['2022-03-20',['16:30','19:30']]]){

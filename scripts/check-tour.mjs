@@ -17,6 +17,9 @@ assert(events.every(e=>!/[ぁ-鿿]/.test(ko(e.name))&&!/[ぁ-鿿]/.test(ko(e.ven
 assert(bilingual('東京ガーデンシアター').startsWith('도쿄 가든 시어터'));
 assert(bilingual('東京ガーデンシアター').includes('class="original-name"'));
 assert.equal(tour.length,36);assert.equal(new Set(tour.map(e=>e.id)).size,36);
+const evidence=JSON.parse(fs.readFileSync('project_memory/APICULA_2027_EVIDENCE.json'));
+assert.equal(evidence.count,36);assert.deepEqual(evidence.differences,[]);
+for(const e of tour){const official=evidence.rows.find(r=>r.date===e.date);assert(official);for(const key of ['venue','region','open','start'])assert.equal(e[key],official[key]);assert.equal(e.officialSource,evidence.source);assert.equal(e.metadataStatus,'official_checked');}
 assert.equal(tour[0].date,'2027-01-15');assert.equal(tour.at(-1).date,'2027-05-23');
 assert.deepEqual([1,2,3,4,5].map(m=>tour.filter(e=>Number(e.date.slice(5,7))===m).length),[6,6,9,7,8]);
 assert(tour.every(e=>!isRecordableEvent(e)));

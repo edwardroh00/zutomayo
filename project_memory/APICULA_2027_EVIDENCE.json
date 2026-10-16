@@ -1,0 +1,304 @@
+{
+  "source": "https://zutomayo.net/apicula/",
+  "checkedAt": "2026-10-16",
+  "title": "ZUTOMAYO Hall Tour 2027 「アピクラ電機」LÚ.NIM.LÀL | ずっと真夜中でいいのに。ZUTOMAYO",
+  "count": 36,
+  "matchedFields": [
+    "date",
+    "venue",
+    "region",
+    "open",
+    "start"
+  ],
+  "differences": [],
+  "rows": [
+    {
+      "date": "2027-01-15",
+      "venue": "広島文化学園HBGホール",
+      "venueOfficialUrl": "https://h-bkk.jp/hall/",
+      "region": "広島県",
+      "open": "17:00",
+      "start": "18:00"
+    },
+    {
+      "date": "2027-01-18",
+      "venue": "市川市文化会館 大ホール",
+      "venueOfficialUrl": "https://www.tekona.net/bunkakaikan/",
+      "region": "千葉県",
+      "open": "17:30",
+      "start": "18:30"
+    },
+    {
+      "date": "2027-01-19",
+      "venue": "市川市文化会館 大ホール",
+      "venueOfficialUrl": "https://www.tekona.net/bunkakaikan/",
+      "region": "千葉県",
+      "open": "17:30",
+      "start": "18:30"
+    },
+    {
+      "date": "2027-01-21",
+      "venue": "J:COMホール八王子",
+      "venueOfficialUrl": "https://jcom.hall-info.jp/",
+      "region": "東京都",
+      "open": "18:00",
+      "start": "19:00"
+    },
+    {
+      "date": "2027-01-26",
+      "venue": "SGCホール有明",
+      "venueOfficialUrl": "https://tdp.tv-asahi.co.jp/hall/",
+      "region": "東京都",
+      "open": "18:00",
+      "start": "19:00"
+    },
+    {
+      "date": "2027-01-27",
+      "venue": "SGCホール有明",
+      "venueOfficialUrl": "https://tdp.tv-asahi.co.jp/hall/",
+      "region": "東京都",
+      "open": "18:00",
+      "start": "19:00"
+    },
+    {
+      "date": "2027-02-06",
+      "venue": "富士市文化会館ロゼシアター",
+      "venueOfficialUrl": "https://www.rose-theatre.jp/",
+      "region": "静岡県",
+      "open": "17:00",
+      "start": "18:00"
+    },
+    {
+      "date": "2027-02-15",
+      "venue": "神戸国際会館こくさいホール",
+      "venueOfficialUrl": "https://www.kih.co.jp/kokusaihall/",
+      "region": "兵庫県",
+      "open": "18:00",
+      "start": "19:00"
+    },
+    {
+      "date": "2027-02-16",
+      "venue": "神戸国際会館こくさいホール",
+      "venueOfficialUrl": "https://www.kih.co.jp/kokusaihall/",
+      "region": "兵庫県",
+      "open": "18:00",
+      "start": "19:00"
+    },
+    {
+      "date": "2027-02-21",
+      "venue": "iichikoグランシアタ",
+      "venueOfficialUrl": "https://emo.or.jp/facilities/grand-theater/",
+      "region": "大分県",
+      "open": "17:00",
+      "start": "18:00"
+    },
+    {
+      "date": "2027-02-23",
+      "venue": "熊本城ホール メインホール",
+      "venueOfficialUrl": "https://www.kumamoto-jo-hall.jp/",
+      "region": "熊本県",
+      "open": "18:00",
+      "start": "19:00"
+    },
+    {
+      "date": "2027-02-27",
+      "venue": "いわき芸術文化交流館アリオス アルパイン大ホール",
+      "venueOfficialUrl": "https://iwaki-alios.jp/",
+      "region": "福島県",
+      "open": "17:00",
+      "start": "18:00"
+    },
+    {
+      "date": "2027-03-04",
+      "venue": "東京ガーデンシアター",
+      "venueOfficialUrl": "https://www.shopping-sumitomo-rd.com/tokyo_garden_theater/",
+      "region": "東京都",
+      "open": "18:00",
+      "start": "19:00"
+    },
+    {
+      "date": "2027-03-05",
+      "venue": "東京ガーデンシアター",
+      "venueOfficialUrl": "https://www.shopping-sumitomo-rd.com/tokyo_garden_theater/",
+      "region": "東京都",
+      "open": "18:00",
+      "start": "19:00"
+    },
+    {
+      "date": "2027-03-13",
+      "venue": "松山市民会館 大ホール",
+      "venueOfficialUrl": "https://www.cul-spo.or.jp/mcph/",
+      "region": "愛媛県",
+      "open": "17:00",
+      "start": "18:00"
+    },
+    {
+      "date": "2027-03-15",
+      "venue": "福岡サンパレス",
+      "venueOfficialUrl": "https://www.f-sunpalace.com/",
+      "region": "福岡県",
+      "open": "18:00",
+      "start": "19:00"
+    },
+    {
+      "date": "2027-03-16",
+      "venue": "KDDI維新ホール",
+      "venueOfficialUrl": "https://ishinhall.com/",
+      "region": "山口県",
+      "open": "18:00",
+      "start": "19:00"
+    },
+    {
+      "date": "2027-03-24",
+      "venue": "愛知県芸術劇場 大ホール",
+      "venueOfficialUrl": "https://www-stage.aac.pref.aichi.jp/",
+      "region": "愛知県",
+      "open": "17:30",
+      "start": "18:30"
+    },
+    {
+      "date": "2027-03-25",
+      "venue": "愛知県芸術劇場 大ホール",
+      "venueOfficialUrl": "https://www-stage.aac.pref.aichi.jp/",
+      "region": "愛知県",
+      "open": "17:30",
+      "start": "18:30"
+    },
+    {
+      "date": "2027-03-30",
+      "venue": "金沢歌劇座",
+      "venueOfficialUrl": "https://www.kagekiza.gr.jp/",
+      "region": "石川県",
+      "open": "18:00",
+      "start": "19:00"
+    },
+    {
+      "date": "2027-03-31",
+      "venue": "金沢歌劇座",
+      "venueOfficialUrl": "https://www.kagekiza.gr.jp/",
+      "region": "石川県",
+      "open": "18:00",
+      "start": "19:00"
+    },
+    {
+      "date": "2027-04-08",
+      "venue": "なら100年会館（大ホール）",
+      "venueOfficialUrl": "https://www.nara100.com/",
+      "region": "奈良県",
+      "open": "18:00",
+      "start": "19:00"
+    },
+    {
+      "date": "2027-04-10",
+      "venue": "岡山芸術創造劇場 ハレノワ 大劇場",
+      "venueOfficialUrl": "https://okayama-pat.jp/",
+      "region": "岡山県",
+      "open": "17:00",
+      "start": "18:00"
+    },
+    {
+      "date": "2027-04-11",
+      "venue": "岡山芸術創造劇場 ハレノワ 大劇場",
+      "venueOfficialUrl": "https://okayama-pat.jp/",
+      "region": "岡山県",
+      "open": "16:00",
+      "start": "17:00"
+    },
+    {
+      "date": "2027-04-20",
+      "venue": "札幌文化芸術劇場 hitaru",
+      "venueOfficialUrl": "https://www.sapporo-community-plaza.jp/theater.html",
+      "region": "北海道",
+      "open": "18:00",
+      "start": "19:00"
+    },
+    {
+      "date": "2027-04-21",
+      "venue": "札幌文化芸術劇場 hitaru",
+      "venueOfficialUrl": "https://www.sapporo-community-plaza.jp/theater.html",
+      "region": "北海道",
+      "open": "18:00",
+      "start": "19:00"
+    },
+    {
+      "date": "2027-04-27",
+      "venue": "フェスティバルホール",
+      "venueOfficialUrl": "https://www.festivalhall.jp/",
+      "region": "大阪府",
+      "open": "18:00",
+      "start": "19:00"
+    },
+    {
+      "date": "2027-04-28",
+      "venue": "フェスティバルホール",
+      "venueOfficialUrl": "https://www.festivalhall.jp/",
+      "region": "大阪府",
+      "open": "18:00",
+      "start": "19:00"
+    },
+    {
+      "date": "2027-05-01",
+      "venue": "立川ステージガーデン",
+      "venueOfficialUrl": "https://www.t-sg.jp/",
+      "region": "東京都",
+      "open": "17:00",
+      "start": "18:00"
+    },
+    {
+      "date": "2027-05-02",
+      "venue": "立川ステージガーデン",
+      "venueOfficialUrl": "https://www.t-sg.jp/",
+      "region": "東京都",
+      "open": "17:00",
+      "start": "18:00"
+    },
+    {
+      "date": "2027-05-11",
+      "venue": "仙台サンプラザホール",
+      "venueOfficialUrl": "https://www.sendai-sunplaza.com/",
+      "region": "宮城県",
+      "open": "18:00",
+      "start": "19:00"
+    },
+    {
+      "date": "2027-05-12",
+      "venue": "仙台サンプラザホール",
+      "venueOfficialUrl": "https://www.sendai-sunplaza.com/",
+      "region": "宮城県",
+      "open": "18:00",
+      "start": "19:00"
+    },
+    {
+      "date": "2027-05-17",
+      "venue": "カルッツかわさき ホール",
+      "venueOfficialUrl": "https://culttz.city.kawasaki.jp/",
+      "region": "神奈川県",
+      "open": "18:00",
+      "start": "19:00"
+    },
+    {
+      "date": "2027-05-18",
+      "venue": "カルッツかわさき ホール",
+      "venueOfficialUrl": "https://culttz.city.kawasaki.jp/",
+      "region": "神奈川県",
+      "open": "18:00",
+      "start": "19:00"
+    },
+    {
+      "date": "2027-05-22",
+      "venue": "和歌山県民文化会館",
+      "venueOfficialUrl": "http://www.wacaf.or.jp/culturehall/",
+      "region": "和歌山県",
+      "open": "17:00",
+      "start": "18:00"
+    },
+    {
+      "date": "2027-05-23",
+      "venue": "和歌山県民文化会館",
+      "venueOfficialUrl": "http://www.wacaf.or.jp/culturehall/",
+      "region": "和歌山県",
+      "open": "17:00",
+      "start": "18:00"
+    }
+  ]
+}

@@ -95,3 +95,9 @@
 ## 데이터 갱신
 
 `scripts/collect-public.mjs`, `scripts/enrich-public.mjs`, `scripts/build-catalog.mjs`는 공개 자료 수집·가공 보조 스크립트입니다. `.research/`는 Git에서 제외됩니다. 자동 수집 결과를 그대로 게시하지 말고 가격·회원 조건·판매 채널·별칭·한정 색상을 공식 공지와 대조한 뒤 갱신하세요. 정보 확인일도 함께 바꾸세요.
+
+## 2027 홀투어 공식 일정 대조 · 2026-10-16
+
+- 공식 투어: https://zutomayo.net/apicula/
+- 36회 공연의 날짜·공연장·지역·입장·시작 시간을 기존 사용자 제공 포스터 입력과 대조했고 모두 일치했습니다. 공연 일정과 공식 공연장 링크를 데이터에 연결했습니다. 예정 공연의 세트리스트를 확인한 것은 아닙니다.
+- 검증 기록: `project_memory/APICULA_2027_EVIDENCE.json`. 원문 HTML은 Git에서 제외되는 `.research/apicula/index.html`에 보관하며 `node scripts/verify-apicula.mjs`로 대조합니다.

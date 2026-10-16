@@ -36,9 +36,16 @@
       "from": "2027-01-15",
       "to": "2027-05-23",
       "count": 36,
-      "source": "사용자 제공 일정 이미지",
+      "source": "https://zutomayo.net/apicula/",
       "checked_at": "2026-10-16",
-      "officialWebVerified": false
+      "officialWebVerified": true,
+      "verifiedFields": [
+        "date",
+        "venue",
+        "region",
+        "open",
+        "start"
+      ]
     }
   },
   "groups": [
@@ -50,7 +57,8 @@
       "scheduledCount": 36,
       "heldCount": 0,
       "cancelledCount": 0,
-      "postponedCount": 0
+      "postponedCount": 0,
+      "officialSource": "https://zutomayo.net/apicula/"
     },
     {
       "id": "/lives/events/bunka_denrai",
@@ -99802,9 +99810,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://h-bkk.jp/hall/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -99814,7 +99825,11 @@
         "아피쿠라 전기",
         "히로시마",
         "広島県"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://h-bkk.jp/hall/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-01-18",
@@ -99835,9 +99850,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://www.tekona.net/bunkakaikan/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -99847,7 +99865,11 @@
         "아피쿠라 전기",
         "이치카와",
         "千葉県"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://www.tekona.net/bunkakaikan/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-01-19",
@@ -99868,9 +99890,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://www.tekona.net/bunkakaikan/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -99880,7 +99905,11 @@
         "아피쿠라 전기",
         "이치카와",
         "千葉県"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://www.tekona.net/bunkakaikan/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-01-21",
@@ -99901,9 +99930,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://jcom.hall-info.jp/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -99913,7 +99945,11 @@
         "아피쿠라 전기",
         "하치오지",
         "東京都"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://jcom.hall-info.jp/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-01-26",
@@ -99934,9 +99970,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://tdp.tv-asahi.co.jp/hall/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -99946,7 +99985,11 @@
         "아피쿠라 전기",
         "도쿄 아리아케",
         "東京都"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://tdp.tv-asahi.co.jp/hall/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-01-27",
@@ -99967,9 +100010,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://tdp.tv-asahi.co.jp/hall/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -99979,7 +100025,11 @@
         "아피쿠라 전기",
         "도쿄 아리아케",
         "東京都"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://tdp.tv-asahi.co.jp/hall/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-02-06",
@@ -100000,9 +100050,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://www.rose-theatre.jp/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100012,7 +100065,11 @@
         "아피쿠라 전기",
         "후지",
         "静岡県"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://www.rose-theatre.jp/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-02-15",
@@ -100033,9 +100090,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://www.kih.co.jp/kokusaihall/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100045,7 +100105,11 @@
         "아피쿠라 전기",
         "고베",
         "兵庫県"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://www.kih.co.jp/kokusaihall/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-02-16",
@@ -100066,9 +100130,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://www.kih.co.jp/kokusaihall/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100078,7 +100145,11 @@
         "아피쿠라 전기",
         "고베",
         "兵庫県"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://www.kih.co.jp/kokusaihall/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-02-21",
@@ -100099,9 +100170,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://emo.or.jp/facilities/grand-theater/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100111,7 +100185,11 @@
         "아피쿠라 전기",
         "오이타",
         "大分県"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://emo.or.jp/facilities/grand-theater/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-02-23",
@@ -100132,9 +100210,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://www.kumamoto-jo-hall.jp/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100144,7 +100225,11 @@
         "아피쿠라 전기",
         "구마모토",
         "熊本県"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://www.kumamoto-jo-hall.jp/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-02-27",
@@ -100165,9 +100250,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://iwaki-alios.jp/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100177,7 +100265,11 @@
         "아피쿠라 전기",
         "이와키",
         "福島県"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://iwaki-alios.jp/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-03-04",
@@ -100198,9 +100290,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://www.shopping-sumitomo-rd.com/tokyo_garden_theater/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100210,7 +100305,11 @@
         "아피쿠라 전기",
         "도쿄",
         "東京都"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://www.shopping-sumitomo-rd.com/tokyo_garden_theater/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-03-05",
@@ -100231,9 +100330,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://www.shopping-sumitomo-rd.com/tokyo_garden_theater/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100243,7 +100345,11 @@
         "아피쿠라 전기",
         "도쿄",
         "東京都"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://www.shopping-sumitomo-rd.com/tokyo_garden_theater/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-03-13",
@@ -100264,9 +100370,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://www.cul-spo.or.jp/mcph/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100276,7 +100385,11 @@
         "아피쿠라 전기",
         "마쓰야마",
         "愛媛県"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://www.cul-spo.or.jp/mcph/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-03-15",
@@ -100297,9 +100410,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://www.f-sunpalace.com/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100309,7 +100425,11 @@
         "아피쿠라 전기",
         "후쿠오카",
         "福岡県"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://www.f-sunpalace.com/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-03-16",
@@ -100330,9 +100450,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://ishinhall.com/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100342,7 +100465,11 @@
         "아피쿠라 전기",
         "야마구치",
         "山口県"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://ishinhall.com/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-03-24",
@@ -100363,9 +100490,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://www-stage.aac.pref.aichi.jp/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100375,7 +100505,11 @@
         "아피쿠라 전기",
         "나고야",
         "愛知県"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://www-stage.aac.pref.aichi.jp/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-03-25",
@@ -100396,9 +100530,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://www-stage.aac.pref.aichi.jp/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100408,7 +100545,11 @@
         "아피쿠라 전기",
         "나고야",
         "愛知県"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://www-stage.aac.pref.aichi.jp/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-03-30",
@@ -100429,9 +100570,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://www.kagekiza.gr.jp/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100441,7 +100585,11 @@
         "아피쿠라 전기",
         "가나자와",
         "石川県"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://www.kagekiza.gr.jp/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-03-31",
@@ -100462,9 +100610,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://www.kagekiza.gr.jp/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100474,7 +100625,11 @@
         "아피쿠라 전기",
         "가나자와",
         "石川県"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://www.kagekiza.gr.jp/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-04-08",
@@ -100495,9 +100650,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://www.nara100.com/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100507,7 +100665,11 @@
         "아피쿠라 전기",
         "나라",
         "奈良県"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://www.nara100.com/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-04-10",
@@ -100528,9 +100690,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://okayama-pat.jp/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100540,7 +100705,11 @@
         "아피쿠라 전기",
         "오카야마",
         "岡山県"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://okayama-pat.jp/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-04-11",
@@ -100561,9 +100730,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://okayama-pat.jp/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100573,7 +100745,11 @@
         "아피쿠라 전기",
         "오카야마",
         "岡山県"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://okayama-pat.jp/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-04-20",
@@ -100594,9 +100770,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://www.sapporo-community-plaza.jp/theater.html"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100606,7 +100785,11 @@
         "아피쿠라 전기",
         "삿포로",
         "北海道"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://www.sapporo-community-plaza.jp/theater.html",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-04-21",
@@ -100627,9 +100810,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://www.sapporo-community-plaza.jp/theater.html"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100639,7 +100825,11 @@
         "아피쿠라 전기",
         "삿포로",
         "北海道"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://www.sapporo-community-plaza.jp/theater.html",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-04-27",
@@ -100660,9 +100850,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://www.festivalhall.jp/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100672,7 +100865,11 @@
         "아피쿠라 전기",
         "오사카",
         "大阪府"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://www.festivalhall.jp/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-04-28",
@@ -100693,9 +100890,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://www.festivalhall.jp/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100705,7 +100905,11 @@
         "아피쿠라 전기",
         "오사카",
         "大阪府"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://www.festivalhall.jp/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-05-01",
@@ -100726,9 +100930,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://www.t-sg.jp/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100738,7 +100945,11 @@
         "아피쿠라 전기",
         "다치카와",
         "東京都"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://www.t-sg.jp/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-05-02",
@@ -100759,9 +100970,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://www.t-sg.jp/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100771,7 +100985,11 @@
         "아피쿠라 전기",
         "다치카와",
         "東京都"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://www.t-sg.jp/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-05-11",
@@ -100792,9 +101010,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://www.sendai-sunplaza.com/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100804,7 +101025,11 @@
         "아피쿠라 전기",
         "센다이",
         "宮城県"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://www.sendai-sunplaza.com/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-05-12",
@@ -100825,9 +101050,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://www.sendai-sunplaza.com/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100837,7 +101065,11 @@
         "아피쿠라 전기",
         "센다이",
         "宮城県"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://www.sendai-sunplaza.com/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-05-17",
@@ -100858,9 +101090,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://culttz.city.kawasaki.jp/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100870,7 +101105,11 @@
         "아피쿠라 전기",
         "가와사키",
         "神奈川県"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://culttz.city.kawasaki.jp/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-05-18",
@@ -100891,9 +101130,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "https://culttz.city.kawasaki.jp/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100903,7 +101145,11 @@
         "아피쿠라 전기",
         "가와사키",
         "神奈川県"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "https://culttz.city.kawasaki.jp/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-05-22",
@@ -100924,9 +101170,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "http://www.wacaf.or.jp/culturehall/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100936,7 +101185,11 @@
         "아피쿠라 전기",
         "와카야마",
         "和歌山県"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "http://www.wacaf.or.jp/culturehall/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     },
     {
       "id": "hall-tour-2027-2027-05-23",
@@ -100957,9 +101210,12 @@
       "allowedModes": [
         "venue"
       ],
-      "sourceUrls": [],
-      "metadataStatus": "user_poster",
-      "scheduleSource": "사용자 제공 투어 일정 이미지 (2026-10-16)",
+      "sourceUrls": [
+        "https://zutomayo.net/apicula/",
+        "http://www.wacaf.or.jp/culturehall/"
+      ],
+      "metadataStatus": "official_checked",
+      "scheduleSource": "공식 투어 페이지 · 날짜·공연장·지역·입장·시작 시간 대조 완료",
       "scheduleImage": "./assets/hall-tour-2027.png",
       "setlistStatus": "unknown",
       "setlistSourceLabel": "공연 전 · 세트리스트 미공개",
@@ -100969,7 +101225,11 @@
         "아피쿠라 전기",
         "와카야마",
         "和歌山県"
-      ]
+      ],
+      "officialSource": "https://zutomayo.net/apicula/",
+      "venueOfficialUrl": "http://www.wacaf.or.jp/culturehall/",
+      "checked_at": "2026-10-16",
+      "scheduleEvidence": "official_web_cross_checked"
     }
   ]
 }
