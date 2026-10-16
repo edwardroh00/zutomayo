@@ -6,6 +6,7 @@
   "description": "Unofficial Korean field guide for ZUTOMAYO Bunka Denrai in Nara",
   "scripts": {
     "start": "node scripts/serve.mjs",
-    "check": "node --check app.js && node --check planner.js && node --check my-room.js && node --check fan-model.js && node --check tour-planner.js && node --check tour-map.js && node --check google-tour-map.js && node --check korean.js && node --check scripts/serve.mjs && node --test tests/cart.test.mjs tests/fan.test.mjs && node scripts/check-tour.mjs"
+    "check": "node --check app.js && node --check planner.js && node --check my-room.js && node --check fan-model.js && node --check tour-planner.js && node --check tour-map.js && node --check google-tour-map.js && node --check korean.js && node --check scripts/serve.mjs && node --test tests/cart.test.mjs tests/fan.test.mjs tests/mart.test.mjs && node scripts/check-tour.mjs",
+    "mart:collect": "node scripts/collect-mart.mjs && node scripts/collect-mart-details.mjs && node scripts/build-mart-catalog.mjs"
   }
 }

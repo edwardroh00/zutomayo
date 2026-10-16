@@ -2,7 +2,8 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
 import {validateRecord,parseBackup,mergeRecords,summary,priceFor} from '../cart-model.js';
-const {goods}=JSON.parse(await readFile(new URL('../data/goods.json',import.meta.url),'utf8'));
+const catalog=JSON.parse(await readFile(new URL('../data/goods.json',import.meta.url),'utf8'));
+const goods=catalog.goods;
 const base={id:'test-1',productId:'ZMY798',channel:'pickup',option:'M',quantity:1,unitPrice:16500,status:'planned',orderAt:'',pickupAt:'',receivedAt:'',memo:'',createdAt:'2026-10-03T08:00:00Z'};
 test('same product remains distinct by channel, size and order date; cancelled excluded',()=>{
  const rs=['preorder','pickup','popup','venue'].map((channel,i)=>validateRecord({...base,id:`record-${i}`,channel,option:i%2?'L':'M',status:'ordered',orderAt:`2026-10-0${i+1}T12:00`},goods));
@@ -22,7 +23,7 @@ test('membership album uses channel-specific tax-included prices and one-item li
  const g=goods.find(x=>x.id==='UPCH-29308');assert.equal(priceFor(g,'pickup'),3565);assert.equal(priceFor(g,'venue'),3600);assert.equal(g.premium,true);assert.throws(()=>validateRecord({...base,productId:g.id,quantity:2},goods));
 });
 test('limited colours exclude venue/pickup; catalogue sources and all prices are complete',()=>{
- assert.equal(new Set(goods.map(g=>g.id)).size,goods.length);assert.equal(goods.length,234);
- for(const g of goods){assert.ok(g.channels.length>0);assert.ok(Number.isInteger(g.price)&&g.price>0);assert.ok(g.sourceUrls.length>0);if(g.limitedColor){assert.ok(!g.channels.includes('venue'));assert.ok(!g.channels.includes('pickup'));}for(const image of g.images)assert.equal(new URL(image).protocol,'https:');}
+ assert.equal(new Set(goods.map(g=>g.id)).size,goods.length);const legacy=goods.filter(g=>!catalog.legacyGuideIds||catalog.legacyGuideIds.includes(g.id));assert.equal(legacy.length,234);
+ for(const g of legacy){assert.ok(g.channels.length>0);assert.ok(Number.isInteger(g.price)&&g.price>0);assert.ok(g.sourceUrls.length>0);if(g.limitedColor){assert.ok(!g.channels.includes('venue'));assert.ok(!g.channels.includes('pickup'));}for(const image of g.images)assert.equal(new URL(image).protocol,'https:');}
  for(const id of ['ZMY796','ZMY798'])assert.equal(goods.find(g=>g.id===id).images.length,12);
 });

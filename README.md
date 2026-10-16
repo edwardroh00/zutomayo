@@ -126,3 +126,9 @@ GitHub 공식 문서: https://docs.github.com/en/pages/getting-started-with-gith
 - `assets/favicon.svg`: 브라우저 아이콘
 
 공식 안내의 변경을 확인한 뒤 내용과 확인일을 함께 갱신하세요. 본 페이지는 공식 사이트를 대체하지 않습니다.
+
+## 굿즈 전체 도감 · 2026-10-17
+
+공식 ZUTOMAYO MART 전체 75페이지/898개 상품을 상세 페이지와 함께 수집했습니다. 기존 234개 상품 ID와 구매 기록의 판매 채널을 보존하며, 초기 공식 뉴스로 확인한 10개를 포함해 도감은 총 913개입니다. 투어·컬렉션/종류/판매 상태 필터, 한국어 표시명과 원문, 공식 링크, 전체 CSV 다운로드를 제공합니다. 의류 공식 실측표는 `data/size-charts.json`에 연결합니다.
+
+`npm run mart:collect`로 공개 목록과 상세를 갱신합니다. 원문 캐시는 `.research/mart/`에만 보관하며 Git에 포함하지 않습니다. 재확인 시 두 수집 스크립트에 `--refresh`를 주고 재빌드하세요. 한국어 이름은 편집용 번역이며 원문과 공식 현지화는 구분합니다. `data/goods-archive.json`은 2019~2020년 공식 공지에서 확인한 일부 목록으로, 닫힌 구 공식몰의 모든 상품을 복원했다는 뜻은 아닙니다. 근거: `project_memory/MART_CATALOG_EVIDENCE.json`.

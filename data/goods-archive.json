@@ -1,0 +1,22 @@
+{
+  "checkedAt": "2026-10-17",
+  "scope": "Current shop predates no earlier than its 2021 relaunch. These additional items are individually confirmed in historical official notices. This is a partial archive, not a complete pre-2021 merchandise history.",
+  "goods": [
+    {"id":"ARCHIVE-2019-FIRST-TEE","name":"金と銀の絵文字ついてるTシャツ","ko":"금·은 이모지가 그려진 티셔츠","price":3000,"category":"의류","collection":"첫 라이브 · 아직 거짓이옵니다 (2019)","collectionOriginal":"1st LIVE 〜まだ偽りでありんす。〜","url":"https://zutomayo.net/news/41/","publishedAt":"2019-01-08","options":[]},
+    {"id":"ARCHIVE-2019-FIRST-TOWEL","name":"土星とト音記号のタオル","ko":"토성과 높은음자리표 타월","price":1800,"category":"소품","collection":"첫 라이브 · 아직 거짓이옵니다 (2019)","collectionOriginal":"1st LIVE 〜まだ偽りでありんす。〜","url":"https://zutomayo.net/news/41/","publishedAt":"2019-01-08","options":[]},
+    {"id":"ARCHIVE-2019-FIRST-BADGE","name":"「秒針を噛む」缶バッジ","ko":"초침을 깨물다 캔 배지","price":500,"category":"소품","collection":"첫 라이브 · 아직 거짓이옵니다 (2019)","collectionOriginal":"1st LIVE 〜まだ偽りでありんす。〜","url":"https://zutomayo.net/news/41/","publishedAt":"2019-01-08","options":[]},
+    {"id":"ARCHIVE-2019-HISO-ACA-TEE","name":"ACAちゃん毛布T","ko":"아카짱 담요 티셔츠","price":3800,"category":"의류","collection":"잠잠 투어 · 가을의 맛 편 (2019)","collectionOriginal":"潜潜ツアー（秋の味覚編）","url":"https://zutomayo.net/news/65/","publishedAt":"2019-12-25","options":["M","L","XL"]},
+    {"id":"ARCHIVE-2019-HISO-BUG-TEE","name":"攻めの暗号バグT","ko":"공격적인 암호 버그 티셔츠","price":3800,"category":"의류","collection":"잠잠 투어 · 가을의 맛 편 (2019)","collectionOriginal":"潜潜ツアー（秋の味覚編）","url":"https://zutomayo.net/news/65/","publishedAt":"2019-12-25","options":["M","L","XL"]},
+    {"id":"ARCHIVE-2019-HISO-TOWEL","name":"(潜る用)でかめの味覚タオル","ko":"잠수용 커다란 미각 타월","price":2500,"category":"소품","collection":"잠잠 투어 · 가을의 맛 편 (2019)","collectionOriginal":"潜潜ツアー（秋の味覚編）","url":"https://zutomayo.net/news/65/","publishedAt":"2019-12-25","options":[]},
+    {"id":"ARCHIVE-2019-HISO-SHAMOJI","name":"ファイトTHEしゃもじ(卵黄)","ko":"파이트 더 샤모지 (노른자)","price":1000,"category":"소품","collection":"잠잠 투어 · 가을의 맛 편 (2019)","collectionOriginal":"潜潜ツアー（秋の味覚編）","url":"https://zutomayo.net/news/65/","publishedAt":"2019-12-25","options":[]},
+    {"id":"ARCHIVE-2019-HISO-KEYCHAIN","name":"迷キャラキーホルダー膳六種","ko":"미스터리 캐릭터 키링 (랜덤 6종)","price":800,"category":"소품","collection":"잠잠 투어 · 가을의 맛 편 (2019)","collectionOriginal":"潜潜ツアー（秋の味覚編）","url":"https://zutomayo.net/news/65/","publishedAt":"2019-12-25","options":[],"note":"6종 중 랜덤 1개 가격. 개별 도안의 품번은 확인되지 않았습니다."},
+    {"id":"ARCHIVE-2020-UNIGURI-IVORY","name":"uNiGuRi Tee / IVORY","ko":"우니구리 티셔츠 (아이보리)","price":null,"category":"의류","collection":"구 공식몰 한정 굿즈 (2020)","collectionOriginal":"闇なべ魔法専門店 限定uNiGuRi Tee","url":"https://zutomayo.net/news/87/","publishedAt":"2020-06-25","options":[]},
+    {"id":"ARCHIVE-2020-UNIGURI-BLACK","name":"uNiGuRi Big Tee / BLACK","ko":"우니구리 빅 티셔츠 (블랙)","price":null,"category":"의류","collection":"구 공식몰 한정 굿즈 (2020)","collectionOriginal":"闇なべ魔法専門店 限定uNiGuRi Tee","url":"https://zutomayo.net/news/87/","publishedAt":"2020-06-25","options":[]}
+  ],
+  "gaps": [
+    {"collection":"첫 라이브 도쿄·나고야·오사카 투어 (2019)","sourceUrl":"https://zutomayo.net/news/24/","formerLineupUrl":"https://zutomayo.com/special/goods_2/","status":"old_lineup_unreachable"},
+    {"collection":"여름방학 라이브 (2019)","sourceUrl":"https://zutomayo.net/news/57/","formerLineupUrl":"https://zutomayo.com/special/goods_3/","status":"old_lineup_unreachable"},
+    {"collection":"클리닝 라이브 (2020~2021)","sourceUrl":"https://zutomayo.net/news/93/","formerLineupUrl":"https://store.zutomayo.com/goods.php?head_id=3","status":"old_store_unreachable"},
+    {"collection":"야키야키 양키 투어 · 직화와 훈제 편 (2020~2021)","sourceUrl":"https://zutomayo.net/news/111/","formerLineupUrl":"https://store.zutomayo.com/news_detail.php?news_id=109","status":"old_store_unreachable"}
+  ]
+}

@@ -101,3 +101,12 @@
 - 공식 투어: https://zutomayo.net/apicula/
 - 36회 공연의 날짜·공연장·지역·입장·시작 시간을 기존 사용자 제공 포스터 입력과 대조했고 모두 일치했습니다. 공연 일정과 공식 공연장 링크를 데이터에 연결했습니다. 예정 공연의 세트리스트를 확인한 것은 아닙니다.
 - 검증 기록: `project_memory/APICULA_2027_EVIDENCE.json`. 원문 HTML은 Git에서 제외되는 `.research/apicula/index.html`에 보관하며 `node scripts/verify-apicula.mjs`로 대조합니다.
+
+## ZUTOMAYO MART 전체 굿즈 수집 · 2026-10-17 (KST)
+
+- 공식 사이트 https://zutomayo.net/ 의 STORE → ZUTOMAYO MART 링크 https://official-goods-store.jp/zutomayo/ 가 https://zutomayomart.net/ 으로 연결됨을 확인했습니다. 사용자 제공 `.com` 주소는 DNS 연결 불가였습니다.
+- https://zutomayomart.net/product/list 의 `rel=next` 75페이지, 공개 분류 25개 묶음, 총 898개 품번과 동일한 수의 개별 상세를 확인했습니다. 상세에 연결된 ZMY040은 접근 가능한 상품 제목이 없어 도감에 추정 추가하지 않았고 근거 파일에 실패를 보존했습니다.
+- 상품명·품번·가격·사진 URL·옵션·공식 실측·분류 태그·판매 상태를 구조화했습니다. 주문 버튼 표시는 재고 보증이 아닙니다. READY TO SHIP NOW 분류에 있어도 품절일 수 있으므로 개별 상품의 표시를 우선합니다. 사진은 원문 링크이며 이미지 파일을 복제하지 않았습니다.
+- 예전 공식 공지 https://zutomayo.net/news/41/ (2019년 첫 라이브 3개), https://zutomayo.net/news/65/ (잠잠 투어 5개), https://zutomayo.net/news/87/ (2020년 우니구리 티셔츠 2개)에서 10개를 추가했습니다. 2020년 두 상품의 가격과 개별 이미지는 확인하지 못해 null/빈 배열을 유지합니다. 나머지 가격은 당시 공지 가격입니다.
+- https://zutomayo.net/news/24/ , https://zutomayo.net/news/57/ , https://zutomayo.net/news/93/ , https://zutomayo.net/news/111/ 의 옛 상품 목록 링크는 연결되지 않았습니다. 해당 시기 전체 라인업은 미완료로 표시합니다. 팬 DB https://zutomayo-db.pages.dev/ 도 보조 자료로 확인했으나 굿즈 가격·목록의 공식 근거로 사용하지 않았습니다.
+- 한국어 상품·컬렉션명은 탐색용 편집 번역이며 공식 원문은 그대로 보존합니다. 공개 상세의 설명문 전문·계정 정보·구매 내역은 배포 데이터에 포함하지 않습니다.
